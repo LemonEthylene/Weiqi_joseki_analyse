@@ -1,0 +1,4206 @@
+﻿定式ID,匹配步数,落子前缀
+kj_24322,18,pd tt nc re rd qd qe qc rc pe qf pc od rf rb qg pf mc
+kj_09611,10,pc qe od qh tt lc qd pe qj nc
+kj_84211,7,pc qe nd qc qb pb rb
+kj_60340,10,pc qe tt od oc nd mc tt md qh
+kj_93103,8,pc tt pe qg tt oc od nc
+kj_20696,7,pd tt nc tt qg md kc
+kj_40294,17,pd qc pc qd qf qe pe rf tt qg pf qb tt pg tt ng mf
+kj_59569,9,pd nc tt qc qd pc od mb me
+kj_62294,11,pd nc qf tt lc pc qc qb rc od pb
+kj_23300,8,pc tt pe qg qi og oi qd
+kj_69715,7,pd tt nc rd qd re rc
+kj_50184,25,pc qe qh od pd pe oe oc ob md pf pb qb qc pa qd pb rb mc of ne nd ld me nf
+kj_77726,12,pd qc pc qd qf rf qg rg qh tt qe re
+kj_82401,10,pd qc pc qd pe qe pf qf qg tt
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_49260,17,pc qe tt od oc nd mc tt md me le mf lf mg lg mh qd
+kj_59050,14,pd qc pc qd qe re rf qf pe rg rd sf rc pf
+kj_67878,13,pd nc qf pc qc qb oc pb od ob nd mc md
+kj_56833,12,pc pe qe qf re rf pf oe pg qh ph qi
+kj_57673,7,pc qe ph od oc nd mb
+kj_93206,19,pd pc oc qc od re qf qe pf ob nb pb tt pe oe of ph og qi
+kj_34545,8,pc qe nd lc tt me pf qg
+kj_14613,8,pc qe od tt pf tt qg kd
+kj_75203,10,pd tt nc md tt nd mc lc od kd
+kj_59746,7,pd tt nc tt qh qf tt
+kj_96497,6,pc tt pf qh ql tt
+kj_72613,23,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi tt nh tt lh
+kj_59102,20,pd nc lc tt nd od oe oc md pc qc qd pe rc qb rb rf re mc pb
+kj_76788,17,pc tt qf pd qd oc pe od pb oe of nf ob og pf ni tt
+kj_30151,10,pc pe qe qf qd pf nc tt me tt
+kj_72074,9,pd tt mc ld lc kd tt md nc
+kj_87133,7,pd nc oc nd pf tt mg
+kj_79865,15,pd nc nd md ne ob pb pc qc oc qb me mf lf mg
+kj_61177,14,pd qc pc qd qf qe pe rf tt qg pf qb pb le
+kj_69600,9,pd qc pc qd pe rf kc qg tt
+kj_29927,9,pc tt pe qi tt oc od nc pb
+kj_53938,13,pd qc pc qd qf qe pe rf qg rg qh le kd
+kj_97023,9,pc qe tt od oc nd mc pi tt
+kj_97947,8,pc qe qh od oc nd mb tt
+kj_13764,6,pd nc qf ne tt kd
+kj_44407,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld jc kc
+kj_66730,16,pd qc pc qd qf qe pe rf tt qg pf pb ob qb nc tt
+kj_79649,9,pc pe qe qf qd pf nc pj mf
+kj_94822,8,pd qc pc qd pe qe pf qf
+kj_71404,28,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of rb mc md lc kd qb sf sb rc ra rh
+kj_81155,6,pd qc pc qd pe rf
+kj_16775,13,pc qe qg od pd pe oe of ne pg ph oh pi
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_58836,6,pc tt qe tt kc kd
+kj_64195,9,pc qe qh od oc nd mc tt oh
+kj_58636,6,pd tt nc md mc tt
+kj_55242,6,pc qe od qh tt of
+kj_65113,17,pc qe tt od oc nd mc tt md me le lf mf ne ke kf mg
+kj_37556,17,pc tt qf pd qd oc pb od pe oe of nf og ng oh qc qb
+kj_87221,17,pd qc pc qd qf qe pe rf qb rb re pf qg rd of rg qh
+kj_12221,14,pd qc pc qd qf qe pe rf qg rg qh tt ke of
+kj_35515,8,pc qe qd pe nc pi tt ol
+kj_15310,10,pd nc kd pf of qc pc qd pe qe
+kj_24403,8,pc qe nd lc qh pg qd pe
+kj_50348,12,pd nc qf tt lc ld kd ke kc md tt pg
+kj_97234,10,pd qc pc qd qf qe pe rf tt kd
+kj_11098,9,pd nc nd qc qd pc oc ob od
+kj_71652,9,pd qc pc qd pe rf tt ld ic
+kj_18659,16,pd nc lc qc pc qd pe pb ob qb nb qf tt kd ld ke
+kj_66337,7,pc qe od pf tt ne lc
+kj_08075,6,pc tt qf tt ni tt
+kj_68141,9,pd qc pc qd pe rf tt kg tt
+kj_26321,9,pd nc lc jc tt ne pg je pc
+kj_81155,6,pd qc pc qd pe rf
+kj_62785,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf kd
+kj_25619,11,pd nc oc nd tt qf pf pg of qe pe
+kj_44039,10,pd qc pc qd qf rf qg rg qh ql
+kj_87882,16,pd nc tt qf pf pg of re qc kc md mc pi og ng nh
+kj_82635,15,pd tt ld qc pc qd qe re rf qf pe rg rd sf rc
+kj_79925,9,pd qc pc qd pe rf tt lc kf
+kj_39627,31,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf kg lh lf mg qj
+kj_82825,11,pc qe nd tt kd qc qb pb ob pd pa
+kj_98232,8,pc tt pe qg qf pg nf nh
+kj_65151,10,pd qc pc qd qf rf qg rg qh ld
+kj_33776,8,pc qe qd od oc nd re nc
+kj_71378,8,pc qe od tt pf qg tt nc
+kj_21744,13,pc qe tt od oc nd mc md lc ld qd re tt
+kj_08455,10,pc qe od tt qh pf nf rc oh qb
+kj_56026,7,pc qe tt od qd re nb
+kj_72582,6,pd tt nc qi qf oi
+kj_02470,29,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc le md qb re kc qg nf pg lb lf ke
+kj_79634,11,pd qc pc qd pe qf tt rg tt lc ic
+kj_02972,10,pc pe qe qf qd pf tt oc ob pd
+kj_47474,6,pd tt nc tt qg pg
+kj_31164,15,pd qc pc qd qf qe pf pe oe pb ob qb nc of ne
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_45423,7,pc qe qd pe nd tt of
+kj_28250,24,pd qc pc qd qf rf rg qe pf pe oe of ne pb ob qb mc nf re me nd oc od rd
+kj_97525,6,pc tt pf tt lc pd
+kj_29754,9,pc qe qi od oc nd mb qk qg
+kj_78751,8,pd qc pc qd pe rf qf rg
+kj_66933,17,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb ob
+kj_87757,10,pd nc nd md ne pc qc oc qd qg
+kj_53303,6,pc pe qe qf qd pg
+kj_04711,14,pd qc pc qd qf qe pe rf qg rg qh tt ke kd
+kj_89954,11,pd qc pc qd pe rf tt ld tt qg ng
+kj_30108,6,pd nc oc nd qf kc
+kj_48318,23,pd qc pc qd pe qe qf rf tt pf qg rg of pg qh ph qi pi pj qj qk rj oj
+kj_67473,10,pc pe qe qf qd pf nc pj tt jc
+kj_84713,6,pc qe od tt qh pk
+kj_97776,16,pd qc pc qd qf qe pe rf tt qg pf qb tt pg ld jc
+kj_92493,7,pc tt qe pf qf ph tt
+kj_37681,7,pc tt pe tt qh kc tt
+kj_29184,7,pc tt qf kc mc tt le
+kj_58697,7,pc qe nd pi qd pe oi
+kj_97664,9,pd qc pc qd qf rf pe rg lc
+kj_44304,8,pc tt pe qg qi pi ph qh
+kj_28744,7,pd tt mc qf qe pf tt
+kj_21615,13,pd nc qf pc qc qb oc pb od ob tt qh tt
+kj_12110,12,pd qc pc qd pe rf tt ld qf qg qb rh
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_03198,11,pd qc pc qd pe rf tt nc ld kd nd
+kj_91543,8,pc qe od qh tt nc nd md
+kj_78487,6,pd nc pf pj qj pi
+kj_03097,16,pd qc pc qd pe rf qg qf pf pg qh ph pi oi pj oj
+kj_41235,14,pd qc pc qd qf qe pe rf qg rg qh kd ke le
+kj_34705,16,pd tt nc re qe rd qg qd pe pc oc pb rf tt rb rc
+kj_39743,12,pc qe od tt qh pf oh nf ld rc id tt
+kj_83970,10,pd qc pc qd pe rf qf rg ph qb
+kj_12438,6,pc tt pe kd tt nc
+kj_61889,14,pd qc pc qd qf qe pe rf qg rg qh tt ke kf
+kj_72166,8,pc qe od qh tt kc pf qf
+kj_59383,7,pd nc pf tt oc nd tt
+kj_72626,14,pd qc pc qd pe qe qf rf tt qg pf qb tt ld
+kj_59990,12,pc qe nd lc tt qc qb rc pf qf pg rh
+kj_44153,8,pd nc lc qf pf pg of og
+kj_26156,8,pc tt qe pf qf oc pd qj
+kj_09562,14,pd nc qf tt lc pc qc qb rc od pb oc rb og
+kj_61266,8,pd nc pf tt oc tt nd rf
+kj_32783,8,pd tt nc md mc kd tt gd
+kj_65955,6,pd tt nc mc nd md
+kj_76181,13,pd qc pc qd qf qe pe rf qg rg qh le tt
+kj_89633,13,pd nc lc qc pc qd pe pb ob qb nb qf ic
+kj_64348,12,pd qc pc qd qf rf pe rg tt qb tt ph
+kj_28656,6,pc tt pe pf qf tt
+kj_33569,8,pc qe od tt qh qj pf qc
+kj_57566,7,pd nc lc id tt ne pg
+kj_77716,16,pd qc pc qd qe re rf qf pe rg rd sf rc tt og qj
+kj_17649,13,pd nc qf pc qc qb oc pb od ob rc nd tt
+kj_55217,6,pc qe od qh tt ql
+kj_48186,6,pc tt pf kc tt qh
+kj_39385,15,pd qc pc qd qf rf qg rg qh tt qe re pb qb tt
+kj_17639,9,pd tt nc re qf rf qd qe qh
+kj_44957,8,pd nc qg tt nd md ne pc
+kj_32049,6,pc qe nd tt qi me
+kj_10290,10,pc qe qd pe nd tt ph og oh mg
+kj_65972,6,pc qe od lc tt nc
+kj_86071,6,pc qe od qh tt oi
+kj_84474,16,pd qc pc qd qf qe pe rf qb qg pf rh rc rd sd re
+kj_72970,8,pd nc lc tt qc pg of tt
+kj_30261,6,pc qe od lc tt hc
+kj_15959,30,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg ne nc od ph qi lc nh tt
+kj_31276,10,pc tt pe pf qe oc nd pb qc lc
+kj_61701,10,pd nc lc ne pg jc jd id kd hd
+kj_48831,6,pc qe nd jd kd id
+kj_98192,13,pd qc pc qd qf qe pe rf qg rg qh of qb
+kj_36916,12,pd qc pc qd pe rf qg qf pf pb ob qb
+kj_88908,9,pc qe tt od oc nd mc le qg
+kj_62632,13,pd qc pc qd qf rf qg rg qh lc tt qe pe
+kj_44174,7,pc qe od tt pf qg lc
+kj_58046,7,pd tt nc qf tt rd qc
+kj_84654,6,pc qe od qh tt le
+kj_89550,12,pc qe tt od oc nd mc tt md me le lf
+kj_66776,10,pc qe tt od oc nd mc qi pi ph
+kj_45914,9,pc qe pi od oc nd mc tt md
+kj_54224,7,pd pc oc qc od re pg
+kj_47925,9,pd pc qc oc qd lc jc ne je
+kj_54618,9,pc pe qe qf qd pf nc tt qi
+kj_25194,8,pc pe qe qf qd pf nd mf
+kj_64194,7,pd tt nc md nd mf ph
+kj_83397,6,pd tt mc ld md lf
+kj_39434,39,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc qb re le md qh rb ra rc mb lb nb lf mg kc sd sb sf se sg ma na
+kj_48972,10,pc qe nd tt pf qc qb qd ob qg
+kj_51036,7,pd tt nc qg qi rd qd
+kj_67209,14,pd qc pc qd qf qe pe rf tt qg pf qb ld pg
+kj_48296,13,pd qc pc qd pe rf tt qg tt ld pg lf ph
+kj_83906,8,pd nc qf tt oc tt nd tt
+kj_39970,6,pd tt nc jc tt re
+kj_89943,10,pd qc pc qd qf qe pe rf lc tt
+kj_98446,9,pc tt qe pf tt qf pe of pj
+kj_43203,16,pd qc pc qd qf qe pe rf qb rb re rd rg se pg ld
+kj_92645,15,pd tt nc qf tt qd qc rc qe rd re pc pe oc nd
+kj_04354,8,pd nc oc nd qf qc nb re
+kj_65344,25,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc of tt mc md nb
+kj_01663,28,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of oe ph nd ng
+kj_92647,8,pc pe qe qf qd pf nc qj
+kj_98932,8,pd tt nc qf qe pf pi me
+kj_68867,7,pc qe qd pe nc pi tt
+kj_53456,6,pd nc jc hc oc nd
+kj_55393,6,pc qe qd pe nc qh
+kj_27212,15,pc qe tt nd pe pd od qd oc oe pf qc nc of pg
+kj_01548,12,pc qe od tt qh pf rd nf md pi og qi
+kj_19458,10,pd nc pf oe pe pb tt ph tt qc
+kj_87308,14,pc tt pe oc od nc pb nd ne me nf mf mg qg
+kj_71352,12,pd qc pc qd qf rf qg rg qh qe pe ld
+kj_67961,7,pd nc oc nd pf qh kc
+kj_62393,12,pc pe tt oc ob od nc nb mb pb na qc
+kj_84818,10,pc qe tt od oc nd nc md mc ld
+kj_85845,9,pc qe tt od oc nd mc qi tt
+kj_50010,8,pc qe tt od oc nd nc md
+kj_92665,24,pd qc pc qd pe qe qf rf tt ld qg rg qh of qb rb rc rd sb sc ra sa sb sa
+kj_32863,11,pc pe qe qf qd pf nc qj tt pd qc
+kj_55867,7,pd nc qf tt oc nd kc
+kj_72656,9,pd tt nc tt qi tt oi qf qe
+kj_79002,8,pd nc qf tt kd pc qc qb
+kj_52454,8,pc qe od qh tt lc jc nc
+kj_23097,6,pc qe nd tt qg ri
+kj_74791,13,pd nc qf tt lc ld kd kc ke lb tt mc kb
+kj_95960,10,pd nc lc jc nd qc qd pc od nb
+kj_66931,8,pd qc pc qd pe rf tt le
+kj_65446,7,pd qc pc qd pe rf qi
+kj_62950,15,pc tt qf pd oc qc qd qe rd re pe od rc nc qb
+kj_11639,13,pd qc pc qd pe rf qg qf pf pb ob qb tt
+kj_71829,11,pd qc pc qd pe rf tt ld tt ic tt
+kj_57123,7,pd tt nc re qd qh qf
+kj_58729,11,pc tt pe pf qf qg qe oc od nc pb
+kj_57212,9,pc qe qi od oc nd mc qk qg
+kj_58958,14,pd qc pc qd pe rf qg pb ob qb nc qf pf pg
+kj_56279,14,pd qc pc qd qf qe pe rf tt qg pf qb pg qh
+kj_80105,7,pc qe nd tt ph qh qg
+kj_64861,6,pc tt pe oc od nc
+kj_76234,14,pd nc tt qc pc qd pe pb ob qb oc qf tt ne
+kj_50709,13,pd qc pc qd qf qe pe rf qg rg qh lc tt
+kj_29927,9,pc tt pe qi tt oc od nc pb
+kj_37512,8,pd qc pc qd pe rf qg ke
+kj_70986,13,pd tt nc qf tt qd qc rc rb rd pc pi qk
+kj_27702,10,pc qe nd lc tt le pf pe of qf
+kj_51562,7,pc qe nd tt qh tt pk
+kj_47130,23,pd qc pc qd qf qe pe rf qb rb re rd rg pf sf pb pg of nc tt og nf ng
+kj_77384,13,pd qc pc qd qf qe pe rf qg rg qh tt ql
+kj_56040,8,pc tt qe pf qf oc pd kc
+kj_68652,22,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg ob pg rg rh rf qi
+kj_45679,13,pc qe nd tt qi qc qb rb qd rc pd rd rf
+kj_28253,17,pd nc oc nd pf jd lb lc kc qc qd ob pc ld mb nb jc
+kj_22444,10,pd nc tt qc qd pc od mb ph tt
+kj_97395,7,pc tt qf tt mc ld tt
+kj_56497,17,pc qe qh od pd pe oe oc ob mc md ne of ld me nf og
+kj_74206,9,pc qe tt od oc nd mc tt ph
+kj_76757,8,pd nc nd oc od pc qd qc
+kj_71776,7,pd nc tt qc qd pc od
+kj_51953,10,pd nc lc qc pc qd pe rf tt qg
+kj_63166,10,pd nc lc tt ic pf of og nf ng
+kj_74759,6,pc tt qe pf qf ph
+kj_11106,22,pc pe qe qf qd pf nc pj tt qm rh pd qc qh qi pi qg ph rf pg rg tt
+kj_67848,7,pd nc pf oe pe pb qc
+kj_35918,6,pd nc pf jc tt qh
+kj_09854,6,pc tt pe pb oc ob
+kj_54762,15,pd qc pc qd qf qe pe rf qb rb re rd rg se qg
+kj_11154,11,pc qe qh od oc nd mb oh pj tt ld
+kj_32550,8,pd tt nc qf qe pf pi ne
+kj_86071,6,pc qe od qh tt oi
+kj_67431,14,pd tt nc qf tt qd qc rc qe rd pe re og pc
+kj_17558,10,pc tt pf qh qj oh tt pd od qc
+kj_87054,10,pd nc qf pc qc qb rb pb qd kd
+kj_01736,8,pc qe nd pi qh qi ph ri
+kj_09630,23,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ob qa pa pb qb tt ra
+kj_44652,19,pd qc pc qd qf qe pe rf qb rb re rd rg tt sf pb ob qa tt
+kj_03475,8,pc qe od tt qh pf lc rc
+kj_81185,7,pc tt pf kc kd tt lc
+kj_77802,6,pc qe nd tt og qg
+kj_36752,6,pd tt nc md jd tt
+kj_36752,6,pd tt nc md jd tt
+kj_90647,10,pc qe tt od oc nd mc tt pi qi
+kj_95743,8,pc qe od tt qh pf rd og
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_03305,7,pc qe od qh kc tt kd
+kj_62047,12,pd qc pc qd pe rf tt lc tt le tt hc
+kj_29086,11,pd qc pc qd pe qf tt rg og tt lc
+kj_04354,8,pd nc oc nd qf qc nb re
+kj_44304,8,pc tt pe qg qi pi ph qh
+kj_76536,16,pd qc pc qd qf qe pe rf tt kc qg rg qh ke tt of
+kj_64588,10,pd qc pc qd pe rf tt nc qb rb
+kj_40634,19,pc tt pe pf qf qg pg of qh rg qe ph og qi oh rh nf oi ni
+kj_40264,9,pd nc lc qf nd qc pc qd pe
+kj_57935,7,pc qe nd tt qi ql tt
+kj_63709,12,pd nc tt qf nd md ne pc qc oc qd ph
+kj_04894,12,pd qc pc qd pe rf tt qg ld kd ke je
+kj_63535,10,pd qc pc qd pe rf qf rg tt oi
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_93271,7,pd nc oc nd pf jc lc
+kj_52335,18,pd qc pc qd qf qe pe rf qb rb rg pb ob qg pf rh pa sg
+kj_80998,8,pc qe qi od oc nd mb tt
+kj_67660,8,pc qe od qh qj tt qd pe
+kj_22461,7,pc tt pe pf qe nf of
+kj_45679,13,pc qe nd tt qi qc qb rb qd rc pd rd rf
+kj_06523,7,pd nc qf tt kc hc id
+kj_38484,7,pc tt pf tt qh pi qi
+kj_86559,8,pc qe od lc pf qf pg qh
+kj_58707,6,pd tt ld le me lf
+kj_54412,14,pd qc pc qd qf rf qg rg qh qe pe rh qi tt
+kj_38938,13,pc pe qe qf qd pf nd lc mc ld nf pd qc
+kj_91192,6,pc tt pf tt qi qk
+kj_75946,31,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc qb re qh rb ra rc le md mb lb nb kc kf
+kj_82018,7,pc qe tt od oc nd mc
+kj_57496,6,pd nc lc tt id tt
+kj_65627,10,pd nc tt pf of og nf ng mf pi
+kj_77129,7,pd tt kc kd tt kb lc
+kj_84474,16,pd qc pc qd qf qe pe rf qb qg pf rh rc rd sd re
+kj_53660,9,pd nc oc nd pf jd tt qh hc
+kj_60489,6,pd nc oc nd tt pe
+kj_91595,23,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh ng nh mh mg ne tt lh
+kj_48164,8,pc qe od qh pf qf pg nc
+kj_97951,6,pc tt qe pf tt qf
+kj_67137,14,pc qe qg od pd pe oe of ne pg ph oh pi oi
+kj_80700,6,pd tt oc nd nc ld
+kj_88231,16,pd qc pc qd qe re rf qf pe rg rd sf rc tt og pi
+kj_32692,10,pc qe tt od oc nd mc qh ph pg
+kj_31421,15,pc tt pe pf of qe oe qd pg qf qc qg ph qi tt
+kj_76100,7,pd tt nc md mc kd hd
+kj_61748,7,pd nc qf ne pb pg pf
+kj_80321,6,pd nc lc tt id pf
+kj_87306,26,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf tt lc ld kd md
+kj_98525,10,pc pe qe qf qd pf nc pj pl ql
+kj_91261,9,pc tt qe oc od nc pb nd oe
+kj_89743,6,pc qe od pg qd tt
+kj_62198,14,pc qe tt od oc nd mc tt md me le lf mf ne
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_20522,6,pd tt nc lc kd ld
+kj_40721,6,pc tt qe oc pd ld
+kj_51090,13,pd qc pc qd qf qe pe rf tt qg pf qb mc
+kj_78426,11,pc qe tt od oc nd mb tt pg of og
+kj_84201,17,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt qh
+kj_90151,8,pd tt nc qf tt rd qc of
+kj_31659,8,pc qe qd pe nc qi qk tt
+kj_45703,21,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb tt nb tt qh rg
+kj_72328,16,pc qe tt od qd rd rc pd qc oc re rf sd pf qg qf
+kj_09654,9,pc pe tt qc tt pb oc ob qd
+kj_37281,7,pd nc lc me ke pf of
+kj_86753,21,pd nc tt qf pf pg of qd qc qe nd pe od rc pb qb pc lc rb sb qa
+kj_57673,7,pc qe ph od oc nd mb
+kj_57392,14,pd qc pc qd pe rf tt qg pg ph qf rh oh pi
+kj_26753,14,pc pe qe qf qd pf nd lc mb pj tt pd qc tt
+kj_11011,8,pc tt pe pf qe pj tt nf
+kj_88294,8,pd nc qf tt oc nd tt qh
+kj_20585,16,pd qc pc qd qf qe pe rf tt qg pf qb tt ld oh mg
+kj_86922,6,pd nc lc ld kd le
+kj_01892,17,pd qc pc qd pe rf tt qg tt nc qb ob pb ne qf qh nf
+kj_58895,9,pc qe od qh tt lc tt nc tt
+kj_61078,8,pc tt pe qg pg ph og rf
+kj_13458,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt kc
+kj_83672,7,pd tt nc qf tt mc md
+kj_41188,17,pd qc pc qd qf rf qg rg qh tt rh pb ob qb nc qe pe
+kj_95744,7,pc qe nd lc qg le og
+kj_15138,13,pc qe qh od pd pe oe nd of rc nb pg me
+kj_94334,11,pc qe tt od oc nd mc tt md tt qg
+kj_89166,9,pc pe qe qf qd pf nc tt qj
+kj_26037,6,pc tt pe mc kc kd
+kj_91656,12,pd nc tt qf pf pg of qd qg qe ph pc
+kj_93978,7,pc tt qf tt lc tt ke
+kj_47579,6,pd tt mc tt qe tt
+kj_53303,6,pc pe qe qf qd pg
+kj_64684,12,pc qe nd tt qi qc qb pd oc rc qg rb
+kj_51169,9,pd tt nc md tt mc nd me id
+kj_75722,7,pd tt nc md nd mf tt
+kj_85254,6,pc tt qe pf pe nf
+kj_34908,13,pd qc pc qd pe rf tt qg tt lc ic le ng
+kj_51137,12,pd nc lc qf nd qc qd pc od nb rd rc
+kj_59307,7,pd nc tt kc oc nd pf
+kj_68329,18,pd qc pc qd pe rf qb rb re qe qf pb rc qa rd qb qg nc
+kj_73028,12,pc pe qe qf qd pf nc pj tt qm pm ql
+kj_48504,8,pd nc oc nd pf tt kc hc
+kj_20711,7,pc tt pf tt qh qc qd
+kj_69678,13,pd qc pc qd pe rf qg tt pb rg qh qb ql
+kj_85909,13,pd qc pc qd qf rf qg qe pe rg qh pk tt
+kj_36051,7,pc qe qd pe nd pi of
+kj_85569,6,pc tt pe pi tt qg
+kj_37936,24,pd qc pc qd qf qe pe rf tt ld qg rg qh of qb rb rc pb re qa rd qb rh nc
+kj_84205,18,pd qc pc qd qe re rf qf pe rg rd sf rc qb rb pb ob nb
+kj_49661,8,pc tt pe qi tt qg tt re
+kj_61476,12,pc tt pe pf of qe oe qd pg pd od qc
+kj_53083,8,pc qe qh od oc nd mb oh
+kj_52936,7,pd tt nc qf rd tt qj
+kj_55775,7,pd nc oc nd pf tt kc
+kj_50956,8,pd tt nc re qf rf qd qh
+kj_79258,6,pc tt pf qh qj tt
+kj_14601,6,pc tt qf qh og tt
+kj_63717,15,pd qc pc qd qe re rf qf pe rg rd sf rc pf qi
+kj_39273,7,pc qe qh ne qd pe nc
+kj_55343,6,pc qe qd pe nc pi
+kj_77712,18,pd qc pc qd qe re rf qf pe rg rd sf rc tt og qj qh rh
+kj_60009,8,pd qc pc qd qf rf pe rg
+kj_81731,22,pc qe tt nd pe pd od qd oc oe pf qc nc md of ne mc ld lc kd qf kc
+kj_59353,9,pc pe qe qf qd pf nc od oc
+kj_47263,8,pd tt nc od tt oc pc pb
+kj_74886,12,pd tt nc md tt nd mc lc od kd le ld
+kj_02408,11,pc qe qd pe nc pi qk tt oj qj rk
+kj_73487,8,pd tt nc tt qi md nd mf
+kj_11397,7,pc tt pe tt ph lc kc
+kj_92905,15,pd qc pc qd qf rf rg qe pf pe oe od pb nd ne
+kj_57011,14,pd nc jc qf pf pg of qc qe pc qg qj qh tt
+kj_40475,7,pd tt nc qc qd rd re
+kj_92114,15,pc tt pe oc od nc pb nd ne me nf mf mg ng mh
+kj_54841,11,pc tt pf qh tt pd od qd qc rc nc
+kj_39209,7,pd nc tt qf oc nd re
+kj_81898,6,pd tt nc tt qh tt
+kj_61261,13,pd qc pc qd qf qe pe rf tt qg pf qb kd
+kj_90409,11,pc tt qf pd oc qc qd qe rd re rc
+kj_41598,9,pc qe qd pe nc tt qi tt me
+kj_74451,6,pc qe od qh tt oh
+kj_92555,9,pc pe qe qf qd pf nc qj tt
+kj_23612,7,pd nc oc nd pf tt kb
+kj_10259,14,pc tt pe oc od nc md pb qc nd ne mc me kc
+kj_13087,12,pd qc pc qd pe rf tt qg tt ld lf id
+kj_90589,7,pd tt nc qf tt qi tt
+kj_84858,12,pd nc lc qc pc qd pe pb ob qb nb qf
+kj_29154,9,pd pc qc oc qd lc od tt kb
+kj_52931,9,pc pe qe qf qd pg of og rf
+kj_48365,8,pc qe nd lc hc tt jc le
+kj_64493,16,pd qc pc qd qf qe pe rf qg rg qh tt qb rb tt of
+kj_28419,7,pd tt nc md mc kd jg
+kj_67105,6,pc tt qf pg pf ng
+kj_33552,13,pd nc qf pc qc qb oc pb od ob nd mc qj
+kj_55701,10,pc tt qf nc tt qc pd pb ob qb
+kj_65047,8,pd nc pf oe pe pb qi tt
+kj_88783,12,pd nc qf pc qc qb oc pb od ob rc nd
+kj_64121,10,pd nc lc qf nd qc qd pc od oc
+kj_57097,10,pd qc pc qd pe rf tt mc me qb
+kj_55217,6,pc qe od qh tt ql
+kj_80390,17,pc qe qh od pd pe oe nd of rd rf ob pb oc rb rc oa
+kj_69791,10,pd tt nc tt qi qf oi qd qc rc
+kj_81137,7,pd nc oc nd pf qh qk
+kj_87693,11,pc qe nd tt qi tt qd tt oi rd rc
+kj_81342,8,pd tt nc md nd mf tt pg
+kj_54245,7,pd nc lc tt pg tt qc
+kj_28210,6,pc tt qe pf qf tt
+kj_88783,12,pd nc qf pc qc qb oc pb od ob rc nd
+kj_69977,7,pd nc oc nd pf qh lc
+kj_65494,6,pd tt nc re rd qd
+kj_73133,10,pd qc pc qd pe rf tt kd tt qg
+kj_63049,9,pc pe qe qf qd pf nd pj tt
+kj_38180,10,pc qe od lc qi rc pf qf pg rh
+kj_32845,9,pc qe qd pe nc tt qi mf ne
+kj_80403,13,pd qc pc qd qf qe pe rf qg rg qh of pf
+kj_66718,11,pd nc lc tt nd qc qd pc od nb tt
+kj_56876,8,pd qc pc qd pe qe qf rf
+kj_99704,8,pd qc pc qd pe rf mc lc
+kj_77303,11,pd qc pc qd pe rf tt lc ic le je
+kj_83508,8,pd kc tt nc oc nd pf tt
+kj_81155,6,pd qc pc qd pe rf
+kj_82528,12,pd qc pc qd pe rf tt md qf rg qb rb
+kj_88783,12,pd nc qf pc qc qb oc pb od ob rc nd
+kj_94712,7,pd nc pf oe pe pb pi
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_64478,9,pd pc qc oc qd lc tt ne tt
+kj_40497,9,pc qe tt mc nd md ne me qd
+kj_95660,7,pc qe od tt qh tt oh
+kj_85254,6,pc tt qe pf pe nf
+kj_14655,9,pd nc lc ne pg jc le je hc
+kj_17644,7,pd nc qf tt jc tt je
+kj_95225,22,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh ng nh mh mg ne lg
+kj_74297,13,pc pe qe qf qd pf nc pj tt qm rh pd qc
+kj_32523,11,pc pe nc od oc qd qc rc re rd rg
+kj_60549,15,pd nc qf pc qc qb oc pb od ob nd mc tt le tt
+kj_91230,10,pd nc lc jc tt ne pg je pb tt
+kj_57793,10,pd qc pc qd pe rf tt mc le qb
+kj_95225,22,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh ng nh mh mg ne lg
+kj_74297,13,pc pe qe qf qd pf nc pj tt qm rh pd qc
+kj_32523,11,pc pe nc od oc qd qc rc re rd rg
+kj_60549,15,pd nc qf pc qc qb oc pb od ob nd mc tt le tt
+kj_91230,10,pd nc lc jc tt ne pg je pb tt
+kj_57793,10,pd qc pc qd pe rf tt mc le qb
+kj_78531,19,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg pb ob qa oh
+kj_36172,7,pc qe od tt qh pk oh
+kj_46306,6,pc qe nd pi tt kd
+kj_98368,10,pd qc pc qd qf rf qg rg qh tt
+kj_57554,6,pc qe od kc tt qh
+kj_76682,11,pc pe qe qf qd pf nc pj tt qm tt
+kj_77379,8,pc tt qe oc od nd nc ob
+kj_75530,6,pd tt nc qf qe pf
+kj_61407,14,pd qc pc qd pe qf tt rg pf pg og ph tt mg
+kj_81954,9,pc qe tt od oc nd mc tt md
+kj_51911,13,pd qc pc qd qf qe pe rf tt qg pf qb pb
+kj_47844,9,pc qe qd pe nc pi tt lc tt
+kj_31421,15,pc tt pe pf of qe oe qd pg qf qc qg ph qi tt
+kj_50853,9,pd qc pc qd qf qe pe rf kc
+kj_84823,6,pc qe od pg tt lc
+kj_50130,6,pc tt pe qg qf pg
+kj_29696,22,pd nc qf pc qc qb oc pb nd ob od mc md ld lc lb kc kb jc le je lg
+kj_67890,11,pd qc pc qd pe rf tt ld qf rg jc
+kj_52436,8,pc tt pf qh tt pd qc tt
+kj_02485,11,pd qc pc qd pe rf tt kd tt qg mc
+kj_44474,9,pd tt nc tt pi md tt qg qe
+kj_43121,8,pc tt qe pf pe nf tt pj
+kj_09878,19,pd qc pc qd pe rf tt lc qb rb re qe qf pf qg rd rg of ob
+kj_72383,12,pd nc tt qf pf pg of qc qe pc qg tt
+kj_52118,8,pd qc pc qd pe rf ld tt
+kj_27212,15,pc qe tt nd pe pd od qd oc oe pf qc nc of pg
+kj_55406,15,pd qc pc qd pe rf qb rb re qe qf rd rg se qg
+kj_03846,10,pd nc qf pg oc nd pf ng nf mf
+kj_88463,10,pc pe qe qf qd pf nc tt pj pl
+kj_67862,8,pd qc pc qd qf qe pe rf
+kj_30318,16,pd nc qf pc qc qb oc pb od ob nd mc tt le tt ph
+kj_70708,10,pd nc nd od oc oe pc md nb ne
+kj_37373,6,pd tt nd tt kc kd
+kj_11013,8,pc qe od tt qh pf rd pk
+kj_73701,8,pd qc pc qd pe rf tt qb
+kj_52095,6,pc tt qf nc tt kd
+kj_47235,16,pd qc pc qd qf qe pe rf tt kc tt ke qg rg qh of
+kj_55566,15,pd nc tt qf pf pg of qd qc qe pc kd ic md ie
+kj_51414,13,pd qc pc qd qf qe pe rf qg rg qh ld lf
+kj_05343,13,pc tt pf qh tt pd od qc ob oe pe qd qb
+kj_59289,10,pc pe qe qf qd pf nc od oc tt
+kj_23682,8,pc qe qd pe nc tt qh oh
+kj_00636,14,pc pe qe qf qd pg tt nd oe od pd pf nb le
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_24898,8,pd nc oc nd pf jd ie id
+kj_83425,7,pd tt nc qf qh of oh
+kj_85668,14,pd qc pc qd pe rf tt qg pg ph oh oi og ni
+kj_35158,12,pc qe nd pi tt lc tt pd oc qc qb rc
+kj_87052,11,pd nc qf pc qc qb rb pb qd kd ic
+kj_19567,6,pc tt pf tt qi kc
+kj_92386,21,pd qc pc qd qf rf rg qe pf pe oe od pb nd of qb nb nc mb ob me
+kj_82100,9,pc qe od qh qj tt oj tt qd
+kj_51788,8,pd tt nc qf qe pf qj me
+kj_53996,6,pd nc oc nd pf jd
+kj_47942,7,pd tt nc md mc tt kf
+kj_73909,6,pd nc qf ne oc nb
+kj_68199,21,pc tt qf pd qd oc pe od pb oe of nf og ng oh qc ob mc rc tt kd
+kj_22225,11,pd qc pc qd pe rf qg mc pb rg qh
+kj_79255,18,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of ld oh
+kj_92289,7,pc qe qg od oc nd mb
+kj_67297,6,pc qe od tt qi tt
+kj_54754,16,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of
+kj_22098,14,pd qc pc qd qf qe pe rf tt qg pf tt rg rh
+kj_38439,13,pd nc qf tt kc pc qc qb rc od pb ob oc
+kj_21161,17,pc qe tt od qd rd pe pd qc rf qf re oc pf mc nd tt
+kj_37579,15,pc qe tt od oc nd mc tt md tt qg me le mf of
+kj_03829,14,pd qc pc qd pe qf tt rg tt ld og mg tt ni
+kj_40199,6,pd nc oc nd qf kd
+kj_81155,6,pd qc pc qd pe rf
+kj_12774,15,pd tt nc qf qi qk oi qd qc rc rb pc qb pe od
+kj_12355,8,pd tt nc qf qi qk oi tt
+kj_03832,8,pc qe nd tt qh tt kc ie
+kj_96113,6,pc qe nd tt kc ie
+kj_02005,13,pd nc lc jc tt qc pc qd pe pb ob qb hc
+kj_97687,10,pd qc pc qd pe rf tt lc ke me
+kj_99426,8,pd nc oc nd pf qc ob re
+kj_72212,6,pd tt nc qf tt of
+kj_61161,18,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rc pg
+kj_53210,15,pc qe tt od oc nd mc tt md tt qg nf og me qd
+kj_85079,9,pc qe od tt pf tt qg tt qj
+kj_58701,13,pd nc qf pc qc qb rc od pb ob oc tt pc
+kj_35035,11,pc pe qe qf qd pf nc pj tt qm oh
+kj_25556,6,pc qe qd pe nc jc
+kj_18663,9,pd tt nc qf qe pf qh mf ld
+kj_88018,6,pd tt nc tt qg lc
+kj_81109,6,pd nc lc ne pb kd
+kj_43741,10,pc pe qe qf qd pf nc tt qj ql
+kj_81692,6,pc pd qc tt od tt
+kj_98588,8,pd nc pf oe pe pb tt qc
+kj_64799,7,pd nc pf tt oc tt pj
+kj_76319,6,pd nc pf tt jc tt
+kj_92839,16,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of
+kj_71881,11,pc pe qe qf qd pf tt nd tt ob pb
+kj_98727,9,pc qe tt od oc nd mc le tt
+kj_33764,7,pc qe od tt pf qg pj
+kj_42865,17,pd tt nc qf tt qd qc rc qe rd pe re pf qg tt pg tt
+kj_91564,14,pd qc pc qd pe qe qf rf tt qg pf qb tt lc
+kj_48748,8,pc pe qe qf qd pg md tt
+kj_15139,7,pd tt nc qf tt kc rd
+kj_38864,16,pd qc pc qd qf qe pe rf tt qg pf qb tt md lf kd
+kj_79952,15,pd nc tt qf nd md ne oc pc pg qe re pf rf ng
+kj_79405,12,pc pe qe qf qd pf nc pj tt od oc tt
+kj_20702,8,pd nc lc id nd od oe oc
+kj_40721,6,pc tt qe oc pd ld
+kj_10676,15,pd qc pc qd qe re rf pb ob oc pe nb qb oa rc
+kj_64823,12,pd qc pc qd pe rf tt qg tt ld lc md
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_93759,7,pc tt pe tt lc qd qe
+kj_88412,8,pc tt pe qi tt qg qf pg
+kj_81743,6,pd nc qf pe tt qe
+kj_64965,19,pd qc pc qd qf qe pe rf qb rb rg pf qg pb of tt ob qa tt
+kj_60301,16,pd qc pc qd qf qe pe rf tt qg pf qb tt pg ld tt
+kj_18309,8,pd pc qc oc qb lc od nc
+kj_51672,10,pc pe qe qf qd pf nc tt mf pi
+kj_60332,9,pc pe qe qf qd pf nc tt me
+kj_85373,14,pc tt pf qh tt pd qd qe pe od qc qf pg qg
+kj_38243,13,pd qc pc qd qf qe pe rf tt qg pf qb kc
+kj_06775,8,pc qe nd pi tt lc pg of
+kj_45421,7,pd nc qf pb tt pg pf
+kj_35499,6,pd nc qf qj tt qg
+kj_71458,10,pd qc pc qd qf rf qg rg qh pk
+kj_28360,7,pc tt pf kc mc ke tt
+kj_00049,6,pc qe od qh ql qm
+kj_36908,6,pc tt pe kc tt ke
+kj_85984,16,pd nc qf pc qc qb oc pb od ob tt nd tt qh ne qd
+kj_15468,13,pd nc tt qf pf pg of qe qd og nd oc ld
+kj_67248,10,pc qe tt od oc nd mc tt qi pj
+kj_37171,8,pc qe od tt pf tt qg lc
+kj_90294,33,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf lf mg qj lg kg kh jg
+kj_63459,7,pd nc oc nd pf jc id
+kj_77611,7,pc tt qe pf tt qf pe
+kj_22198,7,pc qe od qh tt kd ke
+kj_63976,11,pc pe qe qf qd pf nd qj tt lc mc
+kj_35537,9,pc qe tt mc od pg qd pe ne
+kj_10887,20,pc qe tt od qd rd pe pd qc rf qf re oc pf tt nd mc le tt kc
+kj_81363,8,pc tt qe pf qf ph tt oc
+kj_57673,7,pc qe ph od oc nd mb
+kj_81155,6,pd qc pc qd pe rf
+kj_41456,9,pd nc qf tt lc pe qe pc od
+kj_23884,7,qc nd pf kd tt kc tt
+kj_52779,6,pc tt pe pf qe nf
+kj_57207,14,pd qc pc qd pe rf tt qg oh og pg pf ph qf
+kj_26879,11,pc tt pf qh qj oh oj pd qc qd od
+kj_64165,6,pc tt qf tt mc ke
+kj_05050,11,pc tt qf kc mc pd od qc qd pe qe
+kj_83732,10,pc qe nd tt qi qc qb pd oc rc
+kj_02555,7,pc tt qe kd tt oc pd
+kj_93895,7,pd nc qf pb md nd mc
+kj_96524,15,pd qc pc qd qe re rf qf pe rg rd sf rc pf qh
+kj_52235,13,pc pe qe qf qd pf nc pj ql tt pi qi qh
+kj_52027,9,pc pe qe qf qd pf nc tt oi
+kj_59520,28,pd qc pc qd qf qe pe rf tt pf qg rg qh of oh pi og nf qb rb rc pb re qa rd qb rh mc
+kj_56283,16,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt
+kj_31551,10,pd pc qc oc od nc nd md mc qb
+kj_57454,10,pd qc pc qd pe rf qb rb re qe
+kj_50519,18,pd qc pc qd qf qe pe rf tt qg pf qb tt pg tt ng ld tt
+kj_80131,8,pd qc pc qd pe rf qg tt
+kj_92583,6,pc qe od tt pf qh
+kj_50926,13,pd qc pc qd pe qe qf rf qg rg qh ld tt
+kj_41146,10,pd nc lc ne pg jc jd kc kd lb
+kj_37587,8,pd nc oc nd pf mg kg tt
+kj_34331,8,pc tt pf tt lc ld md le
+kj_83046,11,pd nc qf pc qc qb oc pb od ob qi
+kj_77237,10,pc qe pg oe nd pi ng qg pf qf
+kj_26909,8,pc qe od qh kd tt qj tt
+kj_04337,7,pc tt qf qh qj oh of
+kj_04725,12,pd qc pc qd qf qe pe rf tt kc ke mc
+kj_55092,8,pc qe qd pe nc pi qk ok
+kj_96995,8,pd qc pc qd pe rf tt lc
+kj_17481,12,pd qc pc qd qf rf qg rg qh qe pe lf
+kj_57411,11,pd pc qc oc od qb qd mc nd lb rb
+kj_69534,9,pd qc pc qd pe rf tt qg oi
+kj_33085,13,pc qe od tt qh pf oh nf ld rc rb qc qb
+kj_71805,11,pd qc pc qd pe rf tt qg ld tt ic
+kj_81155,6,pd qc pc qd pe rf
+kj_52918,7,pd nc ld tt oc nd pf
+kj_65363,7,pc tt qe pf pe tt pj
+kj_73157,7,pc qe od tt qh pf tt
+kj_72861,7,pd nc oc nd pf tt kd
+kj_61974,9,pd qc pc qd pe qf tt rg ld
+kj_63258,8,pd qc pc qd pe rf mc qg
+kj_79174,6,pd tt nc qf qi qk
+kj_90350,6,pd tt nc qf re tt
+kj_81938,10,pc qe tt od oc nd mc tt md tt
+kj_33966,9,pd nc qf tt lc jc tt ne pb
+kj_62963,8,pd nc nd md ne oc pc qf
+kj_25315,8,pc qe pg oe nd tt ng qj
+kj_57673,7,pc qe ph od oc nd mb
+kj_89796,12,pd qc pc qd pe rf tt ld lf kf lg kg
+kj_62261,10,pd nc lc qf nd md mc qd oc qc
+kj_51921,8,pc qe nd pi tt lc tt le
+kj_33008,14,pd qc pc qd qf qe pe rf tt qg pf qb tt le
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_84971,6,pc tt pe tt ld qd
+kj_66763,17,pd nc tt qc pc qd pe pb ob qb nb mc qe oc mb lc lb
+kj_84729,10,pd nc tt qc pc qd pe pb ob qb
+kj_57675,9,pd nc tt qf pf pg of qe qd
+kj_67154,8,pd qc pc qd qf rf tt qg
+kj_28021,8,pc qe nd lc tt rc pf pe
+kj_80491,11,pd nc tt qf nd md ne qc oc qd mc
+kj_22904,9,pd nc pf oe pe pb le qc lc
+kj_99087,17,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of oh
+kj_03586,13,pd tt nc qf qh qd qc rc qb pe rd re qe
+kj_67414,11,pd qc pc qd pe rf qg tt rg tt pb
+kj_80188,7,pc tt pf tt lc qh qj
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_99142,11,pc qe qh od pd pe oe oc ob md pf
+kj_90403,25,pd tt nc re qe rd qg pc qc qd pb pe oc qf rg pg ph og oh nh ng oe lf md mg
+kj_12858,11,pd qc pc qd qf qe pe rf tt le lf
+kj_58538,8,pd qc pc qd pe rf tt ld
+kj_59286,16,pd qc pc qd pe qe qf rf tt ld qg rg qh of ne oh
+kj_60302,10,pd nc oc nd pf jd tt qh qj qc
+kj_91067,7,pd pc oc qc od re kd
+kj_11634,11,pc qe od tt qh pf rd nf og me lc
+kj_58386,7,pc tt qf tt lc oe pd
+kj_61694,17,pd qc pc qd pe rf tt qg tt ld pg ph qf rh oh pi kf
+kj_80559,6,pc qe od qh tt nc
+kj_20763,17,pd qc pc qd qf qe pe rf qg rg qh tt rh pb ob qb nc
+kj_48776,10,pd nc pf oe pe pb me tt mc mb
+kj_52931,9,pc pe qe qf qd pg of og rf
+kj_49914,9,pc qe tt od oc nd nc md mc
+kj_59050,14,pd qc pc qd qe re rf qf pe rg rd sf rc pf
+kj_88382,13,pd nc qf pc qc qb rc od pb oc rb tt lc
+kj_50840,8,pd qc pc qd pe rf kf qb
+kj_58372,12,pd qc pc qd pe rf tt kd qf qg pg rg
+kj_20166,8,pc tt pe tt pi qd pd rg
+kj_03048,24,pd qc pc qd qe re rf qf pe rg rd sf rc tt og tt qh rh qi of pf qg ri pg
+kj_93916,13,pc qe tt od oc nd nc md mc tt ld le tt
+kj_02171,9,pc pe qe qf qd tt pf qg tt
+kj_32692,10,pc qe tt od oc nd mc qh ph pg
+kj_17203,8,pc qe qd pe nc tt ph mf
+kj_65891,8,pc pe qe qf qd pf nc me
+kj_70761,19,pd qc pc qd qe re rf qf pe rg rd sf rc qb rb pf of og nf
+kj_90980,9,pc pe qe qf qd pf nc pj oi
+kj_53598,8,pc pd qc nd od oe oc le
+kj_96000,6,pc tt qf lc tt nc
+kj_72613,23,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi tt nh tt lh
+kj_81898,6,pd tt nc tt qh tt
+kj_92775,17,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of qj
+kj_58548,9,pc qe nd tt qi tt oi tt qd
+kj_06552,8,pc tt qf tt kc tt ke ng
+kj_54531,11,pd qc pc qd pe rf qf rg tt qb ph
+kj_63849,10,pc qe tt mc od me pf qf pg qh
+kj_93103,8,pc tt pe qg tt oc od nc
+kj_02314,12,pc tt pe oc od nc pb nd tt qg pg ph
+kj_34176,11,pc qe od tt qh pf qk rc of pg tt
+kj_38048,8,pd qc pc qd pe rf pi pg
+kj_81707,7,pc qe od tt qi tt pf
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_74444,11,pc pe qe qf qd pf nc me tt pd qc
+kj_69348,6,pd nc lc ne pb qf
+kj_60411,14,pd nc jc qf pf pg of qc qe pc qg qi rd lc
+kj_88872,14,pd qc pc qd pe rf qb rb re pb qe tt ob qa
+kj_49669,14,pc tt pe oc od nc pb nd le oe pd kc of ne
+kj_78922,7,pc qe od qh tt qk pf
+kj_48774,14,pd qc pc qd qf qe pe rf tt qg pf qb tt nc
+kj_81162,13,pd nc tt qc pc qd pe pb ob qb tt oc tt
+kj_01835,9,pd qc pc qd pe rf qg tt oi
+kj_90096,9,pc tt pf qh qk pd qc qd od
+kj_42190,16,pc qe tt od oc nd mc tt md tt qg me le lf mf ne
+kj_17887,8,pc qe od tt pf qc qb rd
+kj_67008,7,pd tt nc tt qh ph qg
+kj_55571,6,pd nc tt qf lc oe
+kj_89280,16,pc tt pe pf of qe qf pg re qd pd qg rf rg rd og
+kj_10350,15,pd qc pc qd pe rf qb rb re pb qe ob tt ph md
+kj_89280,16,pc tt pe pf of qe qf pg re qd pd qg rf rg rd og
+kj_10350,15,pd qc pc qd pe rf qb rb re pb qe ob tt ph md
+kj_13164,15,pd qc pc qd qf qe pe rf tt qg pf qb ld tt ie
+kj_90798,11,pd qc pc qd pe rf tt qg tt md ng
+kj_96014,8,pd nc oc nd pf tt ld tt
+kj_51947,8,pd nc qf tt oc nd tt ng
+kj_41008,20,pd qc pc qd pe qf tt pf of og nf ng mf mg lf lg kf tt qe re
+kj_92289,7,pc qe qg od oc nd mb
+kj_55343,6,pc qe qd pe nc pi
+kj_06481,15,pd qc pc qd pe rf tt qg pg ph qf rh oh pi ng
+kj_72501,11,pc pe qe qf qd pf nd pj tt ld nf
+kj_56956,7,pc qe qi od oc nd mc
+kj_45074,15,pd nc lc qc pc qd pe pb ob qb nb qf tt jc ke
+kj_24370,11,pd nc kd qf nd md ne qc oc qd nb
+kj_53996,6,pd nc oc nd pf jd
+kj_99065,16,pc pe qe qf qd pf tt oc ob nb od nc pd me of ph
+kj_58702,8,pc pe qe qf qd tt pf tt
+kj_63645,8,pd qc pc qd pe rf qg kf
+kj_66845,14,pd qc pc qd pe rf qf qg re qe pf rg qb rd
+kj_02530,9,pd nc lc jc tt ne pg qd pe
+kj_81155,6,pd qc pc qd pe rf
+kj_20234,10,pc qe qi od oc nd mb tt qg og
+kj_25456,9,pd qc pc qd pe rf qb rb ld
+kj_59721,6,pc qe qd pe nd pi
+kj_67009,6,pc pd tt oc qc qd
+kj_54762,15,pd qc pc qd qf qe pe rf qb rb re rd rg se qg
+kj_16715,9,pc qe od tt qh pf tt rc of
+kj_83801,12,pd qc pc qd pe rf qf rg tt qb tt ld
+kj_46750,31,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg ne nc od ph qi ld mf nd ke
+kj_83723,16,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc ic
+kj_18264,9,pc tt qe pf tt qf pe ng tt
+kj_60022,18,pd qc pc qd qf qe pe rf tt pf qg rg qh of oh nd nc md
+kj_82526,15,pd qc pc qd qf qe pe rf tt qg pf qb oh tt ok
+kj_61794,11,pd qc pc qd qf rf qg qe pe rg qh
+kj_47202,6,pd tt oc qe qd qg
+kj_94835,15,pd nc tt qf pf pg of qd qc qe pc kc le qh jd
+kj_29189,14,pd qc pc qd qf rf tt qg pf rh pg ph oh pi
+kj_83107,11,pc pd qd oc qc pe ob nc nb mc qf
+kj_85991,11,pc pe qe qf qd pf nc tt pj ql mf
+kj_86797,9,pd qc pc qd pe rf tt ke lc
+kj_98944,7,pd tt nc qf qe pf ne
+kj_57504,15,pd qc pc qd qf qe pe rf tt qg pf pb ob qb nc
+kj_57954,8,pc qe qg tt pf qc qb rb
+kj_81743,6,pd nc qf pe tt qe
+kj_52333,6,pc tt pe pi tt oi
+kj_51233,9,pd tt nc md mc kd ld le lc
+kj_36409,8,pd nc qf tt oc nd kd ng
+kj_22383,8,pd tt mc qf re rf qe of
+kj_64694,6,pc tt pf tt qi qe
+kj_88354,18,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb ob pk
+kj_48868,10,pc tt pf qh tt pd qc nd qd og
+kj_84125,10,pc qe nd tt qi tt qd rd rc oi
+kj_59536,9,pd nc pf oe pe pb le lc tt
+kj_91088,17,pd nc tt qf pf pg of qd qc qe pc kc ld lc pi og nd
+kj_33005,10,pd nc oc nd pf kc nb mb ob lf
+kj_58226,9,pd qc pc qd pe qf tt rg og
+kj_98588,8,pd nc pf oe pe pb tt qc
+kj_87705,14,pc qe tt od oc nd mc tt md tt mf ng tt nf
+kj_81890,11,pc qe tt od oc nd mc tt md tt mf
+kj_30672,8,pd nc qf tt kc tt ke tt
+kj_56466,6,pc tt qf ng tt pg
+kj_17639,9,pd tt nc re qf rf qd qe qh
+kj_51562,7,pc qe nd tt qh tt pk
+kj_62537,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt qb rb
+kj_80679,11,pd qc pc qd pe rf tt md qf rg ph
+kj_90700,6,pc qe od ph qj oj
+kj_90197,18,pc pe qe qf qd pf tt oc ob nb od nc pd me ne mf nf nd
+kj_51659,8,pc pd qd qe qc pe nd qi
+kj_20368,11,pd qc pc qd pe rf tt qg ld id tt
+kj_30059,9,pc qe od qh tt kc qd pe mc
+kj_52936,7,pd tt nc qf rd tt qj
+kj_47381,12,pd nc tt qf pf pg of qc qe pc qg kc
+kj_24729,10,pc qe qd pe nc tt qi qk me nf
+kj_47244,8,pc qe qd pe nc tt qh me
+kj_95535,6,pd tt mc kc tt qf
+kj_91991,9,pd qc pc qd pe rf tt pi qf
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_33623,7,pc qe od pi pf qf pg
+kj_38573,13,pd qc pc qd pe qf qe re qb pf qj nf rb
+kj_34683,11,pd qc pc qd pe rf tt qg tt lc kb
+kj_34166,7,pd nc qf tt pb tt lc
+kj_81155,6,pd qc pc qd pe rf
+kj_98646,20,pd nc tt qf nd md ne pc qc oc pf od pe qb rd rc qd rb pi qk
+kj_81155,6,pd qc pc qd pe rf
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_79067,6,pc tt pe kd tt kf
+kj_75914,6,pd tt nc md nd mf
+kj_41031,6,pc qe od qh qj pm
+kj_04693,17,pd qc pc qd qf qe pf rf rg pe oe od ob nd ne qb md
+kj_27695,7,pc pe nc qc qb qd rb
+kj_05514,17,pd nc qf pc qc qb oc pb od ob tt nd ne me nf mf ng
+kj_59528,9,pc pe qe qf qd pf nc tt kd
+kj_68404,8,pc tt pe tt ld lc mc kc
+kj_79642,28,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj nh mh mi lh li ki kh lf
+kj_91275,12,pd qc pc qd pe rf tt qg tt og ph pg
+kj_84057,7,pc qe od pi pf qg tt
+kj_87736,6,pc tt pf tt qi lc
+kj_39799,6,pc tt qh tt oh nc
+kj_37960,19,pd qc pc qd qe re rf qf pe rg rd sf rc tt og qb rb pb ob
+kj_76245,9,pd qc pc qd qf rf pe rg ph
+kj_83231,18,pc qe qh od pd pe oe oc ob md of pb qb qc pa qd pb mc
+kj_91878,11,pc qe tt od oc nd mc tt md ic tt
+kj_42945,11,pc tt qf pd od qc qd pe qe tt oc
+kj_71504,9,pd qc pc qd pe rf tt qg ld
+kj_90506,7,pc qe od qh tt kd tt
+kj_75572,7,pc tt pe tt lc qg tt
+kj_85254,6,pc tt qe pf pe nf
+kj_59612,13,pc qe tt od oc nd mc le qd rd rc pd qc
+kj_01302,8,pd tt nc re qd qh qf oh
+kj_55350,8,pc qe od tt pf tt qg tt
+kj_84907,21,pd nc lc qf nd tt qh md mc qd qc od ne pe pc oe oc nf me mf le
+kj_12136,8,pc tt pe kc tt nc tt qg
+kj_01691,6,pd tt nc md tt kc
+kj_50130,6,pc tt pe qg qf pg
+kj_33331,19,pd qc pc qd qf qe pe rf qb rb rg pb ob pf qg qa of tt qj
+kj_73575,12,pd qc pc qd pe rf tt qg tt kd tt kf
+kj_69107,11,pd nc kd qf pf pg of qc qe pc qg
+kj_04304,8,pc pe qe qf qd pf nd pi
+kj_40995,39,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me re qb md nc mf le nb mc mb lc lb rd kc kd sf jc kb jb sd sc rb se rf
+kj_84846,13,pd nc lc qc pc qd pe pb ob qb nb qf tt
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_87121,6,pc qe od pg tt md
+kj_10290,10,pc qe qd pe nd tt ph og oh mg
+kj_35684,9,pc qe od tt qh tt pf qj qf
+kj_95396,9,pc pe qh md qe qf qd pf nc
+kj_58942,8,pc qe qi od oc nd mc tt
+kj_18827,16,pd qc pc qd pe qf qb pf qe re of og ng nf oe oh
+kj_28065,12,pd qc pc qd pe rf qf rg tt lc le jd
+kj_47512,8,pd nc lc ld kd md kc qf
+kj_00636,14,pc pe qe qf qd pg tt nd oe od pd pf nb le
+kj_66187,8,pd tt nc md mc kd tt lc
+kj_13646,11,pd qc pc qd qf rf pe rg tt ph tt
+kj_22174,7,pc qe od qh pf qf oi
+kj_88469,7,pc tt pe tt qi tt pi
+kj_33008,14,pd qc pc qd qf qe pe rf tt qg pf qb tt le
+kj_27119,8,pd nc lc tt pg tt qc tt
+kj_74759,6,pc tt qe pf qf ph
+kj_92322,16,pc tt pf qh tt pd od qd qc rc rb re sc oe nd tt
+kj_53420,10,pc qe nd tt qi tt qd rd rc nh
+kj_53431,9,pc tt pe qg tt og qf rf re
+kj_91137,6,pd nc lc tt hc tt
+kj_47705,14,pd nc tt pf of oe pe ne qf pg qg ph qh pi
+kj_74087,8,pc qe od tt qi oe ne of
+kj_49784,6,pc qe nd pi ph tt
+kj_24407,29,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg ne nc od ph qi lc le
+kj_49468,7,pc qe nd tt jd jc kd
+kj_39194,10,pd nc tt pf tt qc qd pc od rc
+kj_38640,7,pc qe ph tt qd pe nd
+kj_55343,6,pc qe qd pe nc pi
+kj_59348,15,pd nc qf tt kc ic ke pc qc qb rb qd rc od pe
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_70233,13,pd qc pc qd qf qe pe rf qg rg qh lc lb
+kj_76509,6,pc tt qf pd oc tt
+kj_14786,14,pd qc pc qd pe rf qg tt pb rg qh qb tt pk
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_83414,9,pd tt nc md nd mf me qd qe
+kj_29923,16,pc tt pf qh tt pd od qd qc rc rb re sc tt qj oe
+kj_63585,10,pd qc pc qd pe rf tt ld qb rb
+kj_37847,8,pd tt nc jc jb kc kb tt
+kj_67922,14,pc qe tt od oc nd mc tt md me le mf lf mg
+kj_41146,10,pd nc lc ne pg jc jd kc kd lb
+kj_40388,9,pc pe qe qf qd pf nc pj oh
+kj_53509,6,pc qe od tt pf qg
+kj_23150,9,pc tt pe tt lc ld md le kc
+kj_92208,6,pd nc lc tt pg qi
+kj_62118,14,pd qc pc qd qf qe pe rf qg rg qh ld mg tt
+kj_50611,9,pc qe nd tt qh tt qd rd rc
+kj_40000,20,pd qc pc qd qf qe pe rf qb qg pf rh rc rd sd re tt oh qi pg
+kj_66782,16,pd qc pc qd pe rf qb rb re pb qe ob nc tt nb qa
+kj_73961,10,pc pe qe qf qd pg tt oc ob pd
+kj_93279,6,pd nc oc nd pf jc
+kj_71972,13,pd nc oc nd pf jd tt qh qj oh qg rg rf
+kj_29274,10,pc pe qe pd qd oc pb pf ob nc
+kj_49912,7,pc tt pe qh tt re tt
+kj_16279,13,pd qc pc qd qf rf qg rg qh ld tt qe pe
+kj_80507,8,pc tt pe qg tt re tt og
+kj_55705,8,pc tt qf nc tt qc pd pb
+kj_53369,8,pc pe qe qf qd pf tt mc
+kj_72715,7,pc qe od tt qh pf rd
+kj_99144,7,pc qe qd pe nc pi pk
+kj_19394,12,pc tt qf qh tt qd pd qe pe rf pf rg
+kj_25106,11,pd nc qf ne tt pg pf og of nf ng
+kj_67210,7,pc qe od tt qh tt og
+kj_67684,25,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg of ob rh qh pg rf qi tt
+kj_10428,11,pd qc pc qd pe qe pf rg qg qh ph
+kj_07406,6,pd tt mc ke me qd
+kj_51807,15,pd qc pc qd qe re rf qf pe rg rd sf rc pf of
+kj_19775,12,pc qe tt od oc nd mc nc nb mb lb md
+kj_51405,10,pc pe qe qf qd pf nc pj tt me
+kj_84998,13,pd qc pc qd qf qe pe rf qg rg qh tt rh
+kj_22674,10,pc qe qd pe nc pi pk tt nk tt
+kj_73693,9,pd qc pc qd pe rf tt qb oh
+kj_89723,6,pd nc qf tt pi og
+kj_81017,14,pd nc pf qc pc pb ob qb oc re rf qe qf nb
+kj_00480,9,pd tt mc ld md lf me jf le
+kj_56622,7,pc pe qe qf qd pf nc
+kj_45362,6,pc qe nd md me ld
+kj_88645,20,pc qe tt od oc nd mc tt md me le lf ne mf pd pe oe of nc nf
+kj_57411,11,pd pc qc oc od qb qd mc nd lb rb
+kj_29274,10,pc pe qe pd qd oc pb pf ob nc
+kj_56011,25,pd nc tt qf pf pg of qd qc qe nd pe od rc pb qb pc rb kc md ld me mc nf nb
+kj_25348,15,pd qc pc qd pe rf qb rb re pb qe qi ob qa sc
+kj_64693,12,pd nc lc qf pf pg of qe qd md ld me
+kj_43454,25,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg rh ob of qh pg rf qi tt
+kj_93711,13,pd nc tt qf nd md ne pc qc oc qd qi tt
+kj_55873,14,pd qc pc qd qe re rf qf pe rg rd sf rc ld
+kj_83985,13,pc pe qe qf qd pf nc pj ql tt pi oi ph
+kj_20234,10,pc qe qi od oc nd mb tt qg og
+kj_59680,7,pc tt pf tt lc ld md
+kj_79471,24,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh mf lc pb ob qa nc kf
+kj_57504,15,pd qc pc qd qf qe pe rf tt qg pf pb ob qb nc
+kj_90238,12,pd qc pc qd qf rf qg rg qh qe pe pk
+kj_04863,16,pd qc pc qd qe re rf qf pe rg rd sf rc pf pj nj
+kj_91875,15,pd qc pc qd qf qe pe rf qg rg qh tt lc ld kd
+kj_48031,15,pd nc qf pc qc qb oc pb od ob rc nd mb nb jc
+kj_51405,10,pc pe qe qf qd pf nc pj tt me
+kj_93470,19,pd qc pc qd pe rf tt kd qb rb re qe qf pf qg rd rg of ld
+kj_17520,10,pc tt pe pf tt qe oe qd qc tt
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_62160,8,pd nc qf tt kc pb qc od
+kj_51659,8,pc pd qd qe qc pe nd qi
+kj_86814,13,pd nc kd qc pc qd pe pb ob qb nb qf mc
+kj_75678,9,pc pe qe pd qd oc qf pb qc
+kj_79786,8,pc qe qd pe nc pi pk tt
+kj_70778,7,pc qe qi od oc nd mb
+kj_93916,13,pc qe tt od oc nd nc md mc tt ld le tt
+kj_53646,12,pd qc pc qd pe rf tt ld qf rg qb rb
+kj_67323,7,pc qe nd lc qd pe mc
+kj_30759,7,pc qe tt qh qd pe nc
+kj_93475,19,pd qc pc qd qe re rf qf pe rg rd sf rc tt og tt qh qj rh
+kj_68101,11,pc pe qe qf qd pf nc pj tt jc tt
+kj_57531,10,pc pe qe qf qd pf nc pj ql tt
+kj_58393,8,pc tt pf tt lc qd pd tt
+kj_47187,12,pd nc qf pc qc qb rd ob od nd tt nf
+kj_74360,10,pc tt qe pf qf ph tt oc pd ne
+kj_51250,10,pc qe od qh qj tt qd pe oj nf
+kj_49558,19,pc qe tt od oc nd mc tt md tt qg me le lf pd ke ld pg ph
+kj_14613,8,pc qe od tt pf tt qg kd
+kj_57458,6,pd tt nc kc tt qf
+kj_33061,6,pc tt qf kc tt qh
+kj_80537,16,pd qc pc qd qf qe pe rf qb rb re rd rg se pg of
+kj_54628,6,pc qe nd tt kd tt
+kj_80240,6,pd tt nc qf qi pk
+kj_73991,12,pc qe tt od oc nd mc tt md tt qg qi
+kj_94402,11,pd nc pf pc qc qb oc pb od ob rc
+kj_75538,10,pd qc pc qd pe rf tt ld tt qg
+kj_38174,9,pd nc lc ne pg jc tt qi pb
+kj_80031,7,pc tt pe tt qh tt oh
+kj_59032,6,pd nc kc tt ke tt
+kj_89997,17,pd qc pc qd qe re rf qf pe rg rd sf rc tt qj pf qh
+kj_59878,9,pd nc qf pc qc qb qd ob tt
+kj_90463,6,pc tt pe tt kc pf
+kj_58802,17,pd qc pc qd qf qe pe rf qb rb rg pf qg pb ob qa of
+kj_47755,8,pd qc pc qd pe rf qg kc
+kj_90272,9,pd nc nd od oe oc pe pc qc
+kj_50451,14,pd qc pc qd pe rf tt qg tt ld qb rb ob qa
+kj_14909,8,pc qe od qh tt nc ld nd
+kj_43454,25,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg rh ob of qh pg rf qi tt
+kj_42919,6,pd tt nc tt qh rf
+kj_83280,11,pd qc pc qd pe qe qg qf pf pg qh
+kj_02944,11,pc tt pe pf qf qg pg of qe tt ph
+kj_90980,9,pc pe qe qf qd pf nc pj oi
+kj_83590,49,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc le md qb re kc lf nf rb ra rc nb kd mb qg jd ke lg jc ic jb kb id je kf ie mg ng mh nh mi ni
+kj_81155,6,pd qc pc qd pe rf
+kj_53946,23,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld ic
+kj_37392,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf ng nf mf
+kj_33304,9,pc pe qe qf qd pf nc qj oi
+kj_27847,9,pc pe qe qf qd pf nc pj ph
+kj_61349,9,pc tt pe pf qf qg pg of qe
+kj_74087,8,pc qe od tt qi oe ne of
+kj_46490,7,qc pc pd oc od nc nd
+kj_86280,21,pd nc tt pf of og nf qc pc qd pe qe qb rb ob qa pa pb pg qf qb
+kj_39134,15,pd qc pc qd pe qe qf rf tt qg pf qb tt ld tt
+kj_42600,8,pd nc qf pb tt ne pi og
+kj_53509,6,pc qe od tt pf qg
+kj_57420,11,pc pe qe qf qd pf nc pj tt pd qc
+kj_77822,6,pc qe nd jd id je
+kj_50059,17,pc tt pe pf qf qg pg of og qe rf nf re ng qh tt ld
+kj_58813,12,pd nc qf pc qc qb rc od pb oc rb jc
+kj_53250,7,pc qe od qh qj tt qm
+kj_86850,13,pd nc qf pc qc qb rb ob qa od pb pe qd
+kj_61036,12,pc pe qe qf qd pf nd pj tt lc mc ld
+kj_71003,10,pc tt pf qd pd qf qe re pe rg
+kj_06840,13,pd nc pf oe pe pb le qc mc nb nd od oc
+kj_41598,9,pc qe qd pe nc tt qi tt me
+kj_11801,12,pd nc qf pc qc qb rc od pb oc rb pi
+kj_48055,8,pc tt pf lc tt pd qc nd
+kj_75722,7,pd tt nc md nd mf tt
+kj_80773,15,pc tt pe pf qf qg pg of og qe rf nf re ng qh
+kj_96333,14,pd qc pc qd pe rf lc tt qb rb re pb qe ob
+kj_96663,7,pd nc kc ic nd md mc
+kj_65015,13,pc qe tt od oc nd mc tt md tt mf ng tt
+kj_54372,8,pd nc lc tt qf pc qc qb
+kj_66016,6,pc tt qe pf qf oc
+kj_51671,12,pd nc qf pc qc qb oc pb nd ob od mc
+kj_02361,9,pd nc oc nd pf qh jd oh ng
+kj_56084,9,pc qe tt od oc nd mb tt pg
+kj_63770,8,pc qe qd pe nc pi tt jc
+kj_61036,12,pc pe qe qf qd pf nd pj tt lc mc ld
+kj_01066,7,pc tt qf tt lc oe qd
+kj_68284,6,pc tt qf tt qi tt
+kj_72655,16,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh
+kj_88650,12,pc pe qe pd qd oc qc pf ob nc nb lc
+kj_23426,9,pd tt nc qf re rf qe of pi
+kj_76056,6,pc qe nd ne tt md
+kj_08929,6,pc qe od ph tt rc
+kj_91833,11,pc tt qf tt pi pe qe pd qd oc pb
+kj_49655,9,pc pe qe qf qd pf nd pj ol
+kj_87179,8,pc pe qe qf qd pf nd le
+kj_89914,15,pd qc pc qd qf qe pe rf tt qg pf qb tt lc ic
+kj_84729,10,pd nc tt qc pc qd pe pb ob qb
+kj_81155,6,pd qc pc qd pe rf
+kj_33395,6,pc tt pf tt qi oj
+kj_72655,16,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh
+kj_88650,12,pc pe qe pd qd oc qc pf ob nc nb lc
+kj_23426,9,pd tt nc qf re rf qe of pi
+kj_76056,6,pc qe nd ne tt md
+kj_08929,6,pc qe od ph tt rc
+kj_91833,11,pc tt qf tt pi pe qe pd qd oc pb
+kj_49655,9,pc pe qe qf qd pf nd pj ol
+kj_87179,8,pc pe qe qf qd pf nd le
+kj_89914,15,pd qc pc qd qf qe pe rf tt qg pf qb tt lc ic
+kj_84729,10,pd nc tt qc pc qd pe pb ob qb
+kj_81155,6,pd qc pc qd pe rf
+kj_33395,6,pc tt pf tt qi oj
+kj_90595,13,pd nc qf pc qc qb oc pb od ob rc lc tt
+kj_94563,7,pd tt nc md lb kc lc
+kj_79359,7,pd tt nc qd qc qe rc
+kj_15842,16,pd qc pc qd qf qe pe rf tt qg pf qb tt kd tt kf
+kj_94191,13,pc qe tt od oc nd nc md mc ld tt lc rd
+kj_11535,7,pc tt qf kc mc pd qd
+kj_87642,15,pd nc tt qf pf pg of qc qe pc qg tt mc nd tt
+kj_28714,15,pd qc pc qd pe rf tt kc le tt qb rb re qe qf
+kj_81155,6,pd qc pc qd pe rf
+kj_43735,19,pd qc pc qd pe rf qb rb re qe qf pf qg rd rg of ob qa oh
+kj_09179,15,pc tt qf pd qd oc pe od pb qc ob mc rc tt jd
+kj_35611,10,pc qe tt od oc nd mc tt md kc
+kj_82271,8,pc tt pe tt lc qg tt re
+kj_16152,21,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ob qa oh mf ld
+kj_75562,11,pd nc tt qf pf pg of qd qc qe nd
+kj_93656,7,pc pd qc od nc qd mb
+kj_66189,11,pc pe qe qf qd pf nc pj pl tt ph
+kj_47755,8,pd qc pc qd pe rf qg kc
+kj_71154,7,pc pe qe qf qd pg pj
+kj_44171,6,pc tt pf tt kc kb
+kj_63007,17,pd nc tt qf pf pg of qd qc qe pc kc pi og ld lc nd
+kj_39830,6,pd nc tt kc tt kg
+kj_81155,6,pd qc pc qd pe rf
+kj_88130,6,pc qe od ph pi qh
+kj_88390,14,pd tt nc qf tt qd qc rc rb tt rd qe od tt
+kj_85581,7,pd pc qc oc qd mc tt
+kj_94352,24,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md pb mc oc kd lg
+kj_53753,14,pd qc pc qd qf qe pe rf qg rg qh rh qi tt
+kj_43995,9,pd tt nc md tt mc nd me of
+kj_35425,12,pd qc pc qd pe qf tt pf of og ng oh
+kj_48908,10,pd nc tt pb tt pg nd md ne lc
+kj_60340,10,pc qe tt od oc nd mc tt md qh
+kj_81626,15,pd nc tt qf oc nd pf pg of qe pe qd qc rc qg
+kj_26119,9,pc qe ph tt qd od pd pe oe
+kj_51414,13,pd qc pc qd qf qe pe rf qg rg qh ld lf
+kj_82988,6,pd nc qf tt lc pe
+kj_53488,14,pd qc pc qd qf qe pe rf qg rg qh of pk tt
+kj_01729,10,pc tt qe pf qf oc pd kc jd kd
+kj_39779,10,pc qe od tt qh pf rd qk pj pk
+kj_34064,7,pd nc lc tt pg qi qc
+kj_94862,8,pd nc oc nd pf jd tt qh
+kj_76212,29,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg tt qk
+kj_97744,10,pc pe qe qf qd pf nc pj tt pm
+kj_74377,7,pc tt qe pf qf oc pd
+kj_04078,6,pd ob qc mc kc kd
+kj_22224,23,pd qc pc qd pe rf qb rb re qe qf pb rc qa rd qb rg pf qg nc nf ld tt
+kj_15564,14,pd qc pc qd pe rf qg tt pb rg qh qb tt ld
+kj_81155,6,pd qc pc qd pe rf
+kj_62057,15,pd qc pc qd pe rf tt qg pg ph qf rh oh pi tt
+kj_36916,12,pd qc pc qd pe rf qg qf pf pb ob qb
+kj_53509,6,pc qe od tt pf qg
+kj_45007,6,pc tt pe qg tt mc
+kj_64365,10,pd qc pc qd pe rf tt kd tt mc
+kj_23112,9,pc qe od qh tt mc pf qf pg
+kj_90794,8,pc tt pf tt lc qh qj oh
+kj_01507,10,pc qe od qh tt lc jc nc je le
+kj_91261,9,pc tt qe oc od nc pb nd oe
+kj_57489,9,pc pe qe qf qd pf nc pj pk
+kj_31068,10,pc qe tt od oc nd mc tt qh qk
+kj_70691,6,pc qe od oe ne of
+kj_54233,6,pd nc tt qf qh oe
+kj_88118,25,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of rb mc md lc kd kc jd ic
+kj_75678,9,pc pe qe pd qd oc qf pb qc
+kj_56511,12,pc qe pg tt pe qd pd qg qh qf ph qc
+kj_38165,12,pc qe tt od oc nd mc tt qg pi qi pg
+kj_79562,15,pd qc pc qd pe rf qb rb re pb qe ob qi nd tt
+kj_40893,14,pd qc pc qd pe rf tt qg tt ld pg tt qf rg
+kj_57143,9,pc tt pe qg tt oc od nc qd
+kj_61756,7,pc qe nd tt qh tt kd
+kj_91311,7,pc tt qf tt kc tt ke
+kj_51098,7,pd tt nc qf qi qk oi
+kj_33724,13,pd nc tt qf pf pg of qc qe qg pc pb rd
+kj_75247,6,pc tt qf tt oi ni
+kj_94397,9,pc qe od qh tt lc qd pe oe
+kj_54981,9,pd nc qf tt lc jc jd id kd
+kj_81524,8,pc qe od ph tt lc jc le
+kj_90054,21,pd nc tt qf pf pg of qd qc qe nd pe od rc pb qb pc rb kc ic id
+kj_88936,8,pd tt nc qf tt of rd tt
+kj_37564,7,pc qe od qh kc kd ld
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_77054,9,pc pe qe qf qd pf nc pd tt
+kj_88147,6,pd nc kc tt ke ne
+kj_85791,13,pd nc qf pc qc qb oc pb od ob me qd tt
+kj_71013,6,pc qe nd ph tt lc
+kj_63849,10,pc qe tt mc od me pf qf pg qh
+kj_36268,7,pc tt qf tt pi tt qi
+kj_77452,7,pc pe oe qc pd qd of
+kj_53373,22,pd qc pc qd qf qe pe rf qb rb re rd rg tt sf pb tt pf pg of og nf
+kj_46637,16,pd nc ld tt nd qc qd pc mc od oe oc ne rd re rc
+kj_67319,9,pc qe nd lc qd pe mc ld nf
+kj_74373,8,pc tt qe pf qf oc pd ne
+kj_57896,19,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg pb ob qa nc
+kj_19208,15,pd qc pc qd pe qf pf rg qg qh pg rf tt oi tt
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_83525,19,pc tt qf pd qd oc pe od pb oe of nf og ng oh qc ob mc rc
+kj_02871,19,pc qe tt nd tt pd oc nc od oe ne qc qb nb of pe rc qd pb
+kj_76900,10,pd nc nd md ne ob me ld le kd
+kj_63415,9,pc pe qe qf qd pf pj nd tt
+kj_42891,13,pd nc qf pc qc qb rb tt pb oc pe kd ie
+kj_88378,8,pc qe qd pe nc pi pm tt
+kj_72206,7,pd tt nc qf tt of rd
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_60006,8,pd nc oc nd pf jc tt re
+kj_23128,6,pc tt pe mc tt kc
+kj_71225,18,pd nc qf pc qc qb oc pb od ob nd mc md tt lc lb kb qd
+kj_89863,17,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb nb
+kj_33696,6,pc tt qf tt ld le
+kj_81155,6,pd qc pc qd pe rf
+kj_15949,14,pd nc tt qf nd md ne pc mc oc ld qd me ic
+kj_94862,8,pd nc oc nd pf jd tt qh
+kj_68867,7,pc qe qd pe nc pi tt
+kj_77320,25,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me og qb md nc mc nb mb na jc
+kj_36289,11,pd qc pc qd pe rf qb tt rb qi qk
+kj_96543,11,pd nc lc qf pf pg of qc qe pc qg
+kj_53327,14,pd nc tt qf pf pg of qe qd kc oc nd pe tt
+kj_56756,9,pd qc pc qd pe rf tt ld lf
+kj_60752,8,pd qc pc qd pe rf tt pi
+kj_89888,9,pd qc pc qd pe qf og rg tt
+kj_98646,20,pd nc tt qf nd md ne pc qc oc pf od pe qb rd rc qd rb pi qk
+kj_90266,14,pd qc pc qd pe rf tt ld tt qg qb rb ob qa
+kj_87401,11,pd tt nc re qf rf qg qc pc qb tt
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_51911,13,pd qc pc qd qf qe pe rf tt qg pf qb pb
+kj_53155,12,pd nc tt qf pf pg of qd qc qe pc md
+kj_49525,10,pc tt pe qg qi og oi re qd mg
+kj_82018,7,pc qe tt od oc nd mc
+kj_66299,7,pd tt nc md mc kd kb
+kj_49306,28,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj nh mh mi lh li kh ki jh
+kj_92142,13,pd tt nc qf tt qd qc rc qe rd pe re og
+kj_29588,12,pc pe qe qf qd pf nc pj ql tt ol qk
+kj_59278,8,pd tt nc qf qe pf tt me
+kj_95159,7,pd tt nc tt qh qf oh
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_93905,6,pc pe qh md oh nc
+kj_90292,6,pd nc nd od oe oc
+kj_73121,14,pd nc tt qf nd md ne pc qc oc qd qi oh pj
+kj_73687,8,pc qe od qh pf tt qf tt
+kj_65014,7,pc qe od tt qh qk tt
+kj_83111,10,pc qe tt od oc nd mc tt qi tt
+kj_48775,10,pc qe tt od oc nd mc qh md tt
+kj_74759,6,pc tt qe pf qf ph
+kj_58938,6,pc qe od tt qh pf
+kj_72182,6,pc qe od tt qi qk
+kj_66248,18,pd qc pc qd pe qe qf rf tt pf qg rg qh of qb rb ob qa
+kj_28910,13,pc tt qh pd oc qd qc rc od re pe oe pg
+kj_90238,12,pd qc pc qd qf rf qg rg qh qe pe pk
+kj_55343,6,pc qe qd pe nc pi
+kj_08680,16,pd qc pc qd pe rf tt kc tt ke tt nc ld kd nd nb
+kj_96953,14,pd qc pc qd pe qe qf rf tt ld qg rg qh mf
+kj_12282,9,pc qe od ph tt kc tt ke tt
+kj_90790,8,pd nc oc nd pf qh qj oh
+kj_67637,8,pd nc oc nd qf jc tt je
+kj_92457,6,pc qe nd lc jc le
+kj_27576,20,pd qc pc qd qf qe pe rf qb rb rg pf qg pb of tt re qa rd rc
+kj_57260,13,pd qc pc qd qf qe pe rf tt qg pf qb oh
+kj_52669,8,pd nc qf tt oc nd tt jd
+kj_98767,6,pc tt pe qi tt pf
+kj_36842,12,pd pc qc oc qd lc kc kb jb lb kd me
+kj_53085,7,pc qe qh od oc nd mb
+kj_55343,6,pc qe qd pe nc pi
+kj_57595,18,pd qc pc qd qf qe pe rf tt lc qb rb rg pf qg pb of tt
+kj_58402,10,pc qe qd pe nd lc mc ld nf hc
+kj_53522,7,pc qe qd pe nc pi oi
+kj_57392,14,pd qc pc qd pe rf tt qg pg ph qf rh oh pi
+kj_92628,13,pd qc pc qd pe rf tt ld jc qg pg ph qf
+kj_92648,14,pd tt nc qf tt qd qc rc qe rd re pc pe oc
+kj_19641,8,pd nc oc nd pf kd je jd
+kj_72087,7,pd nc oc nd pf jd gd
+kj_66157,7,pc qe nd tt qi tt jd
+kj_64772,17,pd nc tt qf pf pg of qd qc qe pc lc kd kc jd ib ld
+kj_36369,11,pd qc pc qd pe rf tt qg ld tt oh
+kj_35540,7,pc qe od qh tt pk oi
+kj_19417,7,pc qe ph od oc nd mc
+kj_67397,16,pd qc pc qd qf qe pe rf qb rb re rd rg kd sf pb
+kj_31845,10,pc pe qe qf qd pf nc tt qj oi
+kj_88618,7,pd nc lc tt qc ld kd
+kj_43025,13,pd qc pc qd qf qe pe rf qg rg qh lf lh
+kj_28811,8,pc qe ph od oc nd mb tt
+kj_82622,8,pc qe od tt pf tt qg qi
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_99086,16,pd nc lc tt nd od oe oc md pc qd qc rc rb rd mb
+kj_77412,14,pd nc lc qc pc qd pe pb ob qb nb qf tt kd
+kj_56251,7,pd qc pc qd qf tt qe
+kj_58490,10,pd nc tt qf nd md ne oc pc pg
+kj_73229,8,pc pe qe qf qd pf nd tt
+kj_85789,6,pc pe tt qc qb qd
+kj_72713,8,pc qe od tt qh pf rd ne
+kj_82062,19,pd tt nc re rd qd qe qc rc pe qf pc od rf rb qg pf ph of
+kj_61228,8,pc qe od qh tt mc qd pe
+kj_67245,8,pc qe tt od oc nd mc qh
+kj_54122,10,pd qc pc qd pe rf tt qg qk ld
+kj_23424,10,pc pd oc qd qc rc rb re sc ne
+kj_07964,7,pc tt qe pf nf qf pe
+kj_96907,6,pc qe od qh qd pe
+kj_01506,10,pd tt nc qf qi qk tt qd qc rc
+kj_37754,7,pc tt pe pi qi ph qh
+kj_32470,12,pd qc pc qd pe rf tt ld lf nc nd md
+kj_09550,9,pc qe nd pi tt lc ph oh pg
+kj_71241,7,pd nc oc nd pf jc ie
+kj_91261,9,pc tt qe oc od nc pb nd oe
+kj_00279,6,pc qe nd le nf lc
+kj_40199,6,pd nc oc nd qf kd
+kj_81342,8,pd tt nc md nd mf tt pg
+kj_67208,8,pc qe od tt qh tt og tt
+kj_14605,7,pc tt pe tt ph og pg
+kj_79348,23,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of rb mc md lc kd jb
+kj_85532,7,pd tt nc md nd qg qe
+kj_45913,17,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh ld
+kj_92216,7,pd tt nc md jc mc nd
+kj_80041,29,pd qc pc qd pe qe pf qf tt pg og oh ng nh ph qg mh mg mi nj mf lg lf kg kf mj jg li tt
+kj_89870,17,pd qc pc qd qf qe pe rf tt qg pf pb ob qb tt pg tt
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_84425,12,pd qc pc qd pe rf tt lc qf rg le tt
+kj_28605,9,pd nc oc nd pf jd he tt hc
+kj_87179,8,pc pe qe qf qd pf nd le
+kj_39494,6,pd tt nc tt qi mf
+kj_45933,16,pd qc pc qd qf qe pe rf tt qg pf pb ob qb lc tt
+kj_11563,11,pd qc pc qd pe rf tt qg ld kd tt
+kj_84792,7,pc qe nd pi ph oh pg
+kj_96337,7,pc qe od rc pf qf pg
+kj_01186,10,pc pe qe qf qd pf nd pj tt kc
+kj_91777,10,pd nc tt qc qd pc od mb me tt
+kj_74173,8,pc qe od tt qh oe ne of
+kj_68284,6,pc tt qf tt qi tt
+kj_26524,14,pd qc pc qd qf rf qg rg qh qe pe rh tt qi
+kj_54403,10,pd qc pc qd pe rf tt lc ic tt
+kj_42484,7,pd tt nc qf tt lc tt
+kj_50382,7,pc tt pe qg qi og ql
+kj_24136,19,pd nc qf pc qc qb oc pb ob od nb qd pe nd mc rd of md lc
+kj_65506,17,pd qc pc qd qf qe pe rf tt qg pf qb tt md lf pg og
+kj_91632,8,pc qe od tt pf tt qf tt
+kj_56024,6,pd nc tt pb tt pg
+kj_17843,20,pd qc pc qd pe rf tt ld qf qg pg qh re qe pf rd pi ph oh oi
+kj_56622,7,pc pe qe qf qd pf nc
+kj_67684,25,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg of ob rh qh pg rf qi tt
+kj_17799,14,pc tt pf qh tt pd od qd qc rc rb re sc oh
+kj_75642,6,pd nc nd qc oc qd
+kj_93335,15,pd qc pc qd pe rf tt lc jc le je hc oh lg jg
+kj_52246,7,pd tt mc ld md lc me
+kj_77354,7,pc qe od qh lc ld md
+kj_13882,6,pd tt nc qf qi qm
+kj_71907,12,pd nc lc tt qg qc pc pb qd rb rc qb
+kj_27589,11,pc qe tt od oc nd mc tt qg ph pg
+kj_30906,10,pc tt qf tt lc pd qd oc pe od
+kj_58538,8,pd qc pc qd pe rf tt ld
+kj_63532,14,pd qc pc qd pe rf tt ld qf rg tt qb ph tt
+kj_07928,14,pd qc pc qd pe rf tt ld qf qe tt pf qg rg
+kj_17863,8,pd tt nc qf oh qd qc rc
+kj_16775,13,pc qe qg od pd pe oe of ne pg ph oh pi
+kj_20954,6,pd nc pf oe pe pi
+kj_03029,18,pc tt qf pd qd oc pe od pb oe of nf og ng oh kc ob mc
+kj_58446,7,pd tt nc qf qe pf oi
+kj_95248,12,pd nc tt qf pf pg of qc qe pc qg qk
+kj_56141,8,pc qe qi od oc nd mb qg
+kj_81114,6,pc qe nd qi tt lc
+kj_95232,8,pc qe od qh pf qf pg tt
+kj_70778,7,pc qe qi od oc nd mb
+kj_61164,14,pc pe qe qf qd pf nc pj ql pl pm qm rm tt
+kj_80736,10,pd pc qc oc qb kc tt mc tt qf
+kj_29754,9,pc qe qi od oc nd mb qk qg
+kj_43613,7,pc tt pf tt lc qe qf
+kj_55991,9,pc pe qe qf qd pf nc tt ph
+kj_26678,7,pc qe od qh qj og qd
+kj_61486,6,pc tt qe oc pd kc
+kj_14052,11,pc pe qe qf qd pf nc pj tt qm pl
+kj_82464,9,pc tt pf mc tt pd qc nd qd
+kj_41245,9,pc qe tt od oc nd mb tt of
+kj_56625,7,pc tt qf tt mc qh tt
+kj_78778,6,pd tt nc md id tt
+kj_95432,6,pc qe qd pe nc me
+kj_73592,10,pd nc qf pc qc qb rb tt kc lc
+kj_65363,7,pc tt qe pf pe tt pj
+kj_65209,7,pd nc oc nd pf kd je
+kj_82587,7,pc qe nd pi tt kc tt
+kj_61333,21,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh nh ng of oi mh
+kj_59699,7,pc tt pe tt lc tt pi
+kj_81155,6,pd qc pc qd pe rf
+kj_84027,8,pc pe qe qf qd pf nc le
+kj_57330,7,pc qe qd pe nc qi qk
+kj_87638,9,pd nc qf tt oc nd jc hc lc
+kj_99144,7,pc qe qd pe nc pi pk
+kj_77356,6,pc qe od qh lc ld
+kj_96847,29,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me re qb md nc mf le nb mc mb lc lb rd kc
+kj_51277,13,pd qc pc qd qf qe pe rf qg rg qh ld lc
+kj_89050,6,pc tt pf tt lc kd
+kj_41809,15,pd qc pc qd qf qe pe rf qg rg qh kd tt of md
+kj_64348,12,pd qc pc qd qf rf pe rg tt qb tt ph
+kj_65901,7,pd tt nc md mc kd mf
+kj_96736,12,pd qc pc qd pe qf qe re qb pf qj nf
+kj_15511,13,pc qe tt od oc nd mc tt ph tt of md lc
+kj_70904,12,pd tt mc qf qh qc qd rd pc rb qb rc
+kj_40896,6,pc qe od tt pf pj
+kj_69444,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf qk
+kj_62632,13,pd qc pc qd qf rf qg rg qh lc tt qe pe
+kj_50511,10,pc pe qe qf qd pf nc pj tt ql
+kj_81514,8,pd ob nc nb mc qc qd pc
+kj_77984,11,pd nc qf pc qc qb oc pb od ob tt
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_51947,8,pd nc qf tt oc nd tt ng
+kj_81155,6,pd qc pc qd pe rf
+kj_25730,18,pc tt pe pf qf qg pg of qh rg qe qi og ph oh rh nf oi
+kj_76464,15,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc
+kj_56422,14,pd nc tt qf pf pg of qd qg qe ph pc og tt
+kj_07510,9,pd tt nc md jc mc nd kd jd
+kj_27727,7,pc qe nd tt qi qk tt
+kj_82662,7,pc tt pe pf of qe pg
+kj_56595,23,pd qc pc qd qf qe pe rf tt ld jc pf qg rg of pg qh ph qi pi qj pj qk
+kj_10427,11,pd nc tt qf tt oe oc ob pb nb re
+kj_29270,6,pd nc qf pg oc qg
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_02454,10,pc tt pf qd qc qf qg pg pe qh
+kj_70018,10,pc pe qe qf qd pf nc pj tt om
+kj_41317,12,pd qc pc qd pe rf tt qg tt ld ng tt
+kj_95743,8,pc qe od tt qh pf rd og
+kj_75810,7,pd pc qc oc qb mc kc
+kj_28284,10,pd nc pf oe pe pb tt me tt qh
+kj_15053,7,pc tt pe tt ph qc qd
+kj_53469,6,pc qe od tt qh tt
+kj_02762,15,pc qe tt od oc nd nc md mc tt ld tt qg le ke
+kj_71494,8,pc qe qi od oc nd nc md
+kj_33342,7,pd tt nc md mc kd kf
+kj_30290,6,pd nc qf ne tt pi
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_60006,8,pd nc oc nd pf jc tt re
+kj_23128,6,pc tt pe mc tt kc
+kj_81602,15,pd qc pc qd qe re rf qf pe rg rd sf rc tt og
+kj_66778,13,pd qc pc qd qf qe pe rf qg rg qh kd kc
+kj_54852,7,pd tt nc md mc ld kb
+kj_42939,6,pc tt pe tt pi lc
+kj_47664,22,pc tt pf qh qj pd od qc pe qd oc rf rg qf qg pg rh ph ri qb mf tt
+kj_78634,15,pc pe qe qf qd pf nc tt qj tt rk mg ni md mc
+kj_84970,11,pd nc qf ne pb pg pf og of nf ng
+kj_57870,6,pc tt qf tt kd mc
+kj_38046,14,pc qe od tt pf qg tt pg og oh nh oi ni oj
+kj_78344,11,pc pe qe qf qd pf nd lc mc ld nf
+kj_51405,10,pc pe qe qf qd pf nc pj tt me
+kj_91261,9,pc tt qe oc od nc pb nd oe
+kj_29754,9,pc qe qi od oc nd mb qk qg
+kj_92526,16,pc tt pf qh lc pd od qc qd pe qe oe oc of qf og
+kj_63243,14,pd qc pc qd qf qe pe rf tt qg pf qb lc kd
+kj_35440,10,pc pe qe qf qd pf nc pj qk qj
+kj_88769,6,pc tt qf tt lc nd
+kj_43209,10,pc qe qh od oc nd mb tt oh tt
+kj_73059,9,pd nc qf pc qc qb qd ob qi
+kj_47844,9,pc qe qd pe nc pi tt lc tt
+kj_73701,8,pd qc pc qd pe rf tt qb
+kj_13129,10,pd nc pf oe pe pb lb md kc qc
+kj_96875,7,pc qe od tt pf qg oh
+kj_93551,13,pd qc pc qd qf qe pe rf qg rg qh of ld
+kj_02592,8,pc tt qf tt lc ld md le
+kj_26340,7,pd tt nc qf tt lc rd
+kj_27520,6,pc qe nd tt qd jd
+kj_15959,30,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg ne nc od ph qi lc nh tt
+kj_83008,16,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt ld
+kj_19385,15,pd tt nc qf tt qd qc rc qe rd pf re pe qg jc
+kj_82271,8,pc tt pe tt lc qg tt re
+kj_02042,14,pc qe nd lc tt qc qb rc pf pe oe of nf og
+kj_31008,14,pd qc pc qd qf qe pe rf qg rg qh rh qi ld
+kj_49726,11,pc qe tt od oc nd nc md mc tt qi
+kj_56141,8,pc qe qi od oc nd mb qg
+kj_16509,6,pc tt pe tt ph mc
+kj_72715,7,pc qe od tt qh pf rd
+kj_85106,8,pd tt nc qf tt of qe rf
+kj_51699,7,pd tt mc ld md lf me
+kj_31393,9,pd nc oc nd pf tt kd tt kb
+kj_55159,8,pd nc lc ne pf kd oc nb
+kj_83283,7,pc qe nd tt kc qc qb
+kj_56476,6,pc pe nd qc qb qd
+kj_67847,8,pd nc pf oe pe pb qc kc
+kj_97714,7,pd tt nc md nd mf pg
+kj_97690,9,pd tt nc qd qe pe qc rd re
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_14858,16,pd nc tt qc qd pc od nd ne me mf nf oe le oc ob
+kj_59803,9,pc pe qe qf qd pf nc mf tt
+kj_70321,6,pc tt qf kd tt ke
+kj_67384,21,pd qc pc qd qf rf rg qe pf pe oe of ne pb ob qb og nf me ng oh
+kj_18509,7,pd tt kd tt kc ke le
+kj_01181,16,pc tt qf tt mc pd od qc qd pe qe oc pb nd ob oe
+kj_93134,14,pd nc qf pc qc qb oc pb od ob me tt rc ld
+kj_81986,8,pc qe tt od oc nd mc tt
+kj_12575,16,pd nc lc qc pc qd pe pb ob qb nb qf tt kd kc jd
+kj_42347,8,pc qe qd pe nc pi tt pl
+kj_51424,8,pd tt nc qf rd md nd mf
+kj_79238,9,pc qe tt od oc nd mc tt pg
+kj_60414,7,pc qe qd pe nc tt pi
+kj_66097,14,pc qe nd tt qi tt ql qc qb pd rc oc qd pb
+kj_54614,10,pc pe qe qf qd pf nc tt qi tt
+kj_30758,8,pc qe tt qh qd pe nc tt
+kj_29632,10,pc tt pf qh tt og tt pd od qc
+kj_71760,9,pd qc pc qd qf rf qg rg qh
+kj_66671,7,pd nc tt lc oc nd pf
+kj_90661,14,pd nc qf pc qc qb oc pb od ob tt nd tt qi
+kj_32253,8,pc qe od pf tt ne md tt
+kj_46363,8,pc tt pe qg qi og oi tt
+kj_56524,6,pc tt qf qh of qk
+kj_67864,31,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg tt md mc le
+kj_98119,11,pd qc pc qd pe rf qb qh qe re rb
+kj_07599,7,pd tt nc kc tt rd qd
+kj_23604,20,pd qc pc qd qf qe pe rf qb rb re rd rg se tt pf qg of md pj
+kj_09079,19,pd nc tt qc pc qd pe pb ob qb nb mc kc mb oc rf ke me qg
+kj_84934,15,pd qc pc qd qf qe pe rf tt qg pf qb tt ld lf
+kj_58962,13,pd qc pc qd pe rf qg pb ob qb nc qf pf
+kj_53430,11,pc tt qe pf tt qf pe of tt nd tt
+kj_75530,6,pd tt nc qf qe pf
+kj_68901,22,pd qc pc qd qf qe pe rf rg qg pf rh qb sg rc rd sd re tt ob pb nc
+kj_31003,22,pd qc pc qd pe qe qf rf rg qg pf rh qb sg rc rd sd re tt ob pb nc
+kj_24174,10,pc qe od qh tt lc jc nc tt hc
+kj_75107,16,pd qc pc qd qe re rf qf pe rg rd sf rc tt qj tt
+kj_89888,9,pd qc pc qd pe qf og rg tt
+kj_72709,7,pd tt nc mc md lc ld
+kj_70778,7,pc qe qi od oc nd mb
+kj_34213,15,pd qc pc qd pe rf qg tt rg qf pf pb ob qb nc
+kj_88004,9,pc pe qe qf qd pf nc pj oj
+kj_88528,9,pd nc pf oe pe pb tt me tt
+kj_90506,7,pc qe od qh tt kd tt
+kj_89729,10,pc qe tt od oc nd mc tt qi qk
+kj_57093,8,pc pe qh md qe qf qd pf
+kj_21957,25,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg tt pk qj qk
+kj_89737,9,pc tt pf tt ld qd pd lc tt
+kj_93471,9,pd nc lc ne pg kd ld le ke
+kj_57096,8,pd nc qf tt oc nd jc tt
+kj_80586,14,pd qc pc qd pe rf tt qg tt ld qb rb ob lf
+kj_08455,10,pc qe od tt qh pf nf rc oh qb
+kj_80811,10,pc qe tt od oc nd mc md lc tt
+kj_19910,9,pc tt qi pe nc qc qb qd rb
+kj_06362,11,pc qe od tt qh pf oh rc tt ne md
+kj_74289,6,pd nc qg tt lc qc
+kj_84365,21,pc qe ph od pd pe oe oc ob nb pb of ne md ng rc rb qc qb qg qh
+kj_14913,7,pd nc tt pb qc lc md
+kj_55343,6,pc qe qd pe nc pi
+kj_88035,21,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg
+kj_23219,19,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc nd md of qh
+kj_83321,6,pc tt pe tt ld lc
+kj_25784,16,pd qc pc qd qf qe pe rf tt qg pf qb tt mc me ob
+kj_08200,15,pd qc pc qd pe rf tt lc hc ic ib jb hb id tt
+kj_16406,12,pd pc qc oc qd lc kc kb jb lb kd ne
+kj_24979,6,pd nc lc jc le je
+kj_34692,14,pd qc pc qd pe rf tt kd qb rb re pb qe qi
+kj_52583,13,pc pe tt oc ob od nb qc qb pd pb rc lc
+kj_41605,13,pd nc tt qf pf pg of qd qc qe pb kc oc
+kj_77330,10,pd qc pc qd pe rf kc kd lc ld
+kj_57278,8,pd qc pc qd pe rf qg ld
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_79512,7,pd nc oc nd qf jd lb
+kj_75482,6,pc qe qd pe nc tt
+kj_50833,21,pd qc pc qd qf qe pe rf tt pf qg rg of pg qh ph qi pi qj pj qk
+kj_82193,14,pd qc pc qd qf qe pe rf tt qg pf qb tt md
+kj_61565,6,pd tt nc qi qg pi
+kj_48258,17,pd qc pc qd qf qe pe rf tt qg pf qb tt kc kd ld ke
+kj_04662,7,pc qe nd pi qi tt ph
+kj_00843,13,pc pd qd oc pe od qc oe pf of og ng nh
+kj_51688,13,pd qc pc qd qf rf qg rg qh tt rh tt qb
+kj_89176,10,pc pe qe qf qd pf nc tt ne ng
+kj_41197,9,pd tt nc mc mb lb lc md kb
+kj_96233,7,qc pd pc nd od oe oc
+kj_61549,7,pc qe tt nd tt oe nb
+kj_77866,15,pd qc pc qd qe re rf qf pe rg rd sf rc pf pj
+kj_50711,12,pd qc pc qd qf qe pe rf qg rg qh lc
+kj_87054,10,pd nc qf pc qc qb rb pb qd kd
+kj_55795,9,pc pe qe qf qd pf nc tt pi
+kj_54754,16,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of
+kj_33171,11,pc pe qe pd qd oc pb pf qf pg qg
+kj_96105,8,pc qe qd pe nc pi qk pk
+kj_31191,8,pc tt qe oc od nc nd pb
+kj_94479,6,pd nc lc ne ic pf
+kj_69051,6,pc qe pg oe nd pj
+kj_19641,8,pd nc oc nd pf kd je jd
+kj_66157,7,pc qe nd tt qi tt jd
+kj_97697,7,pc tt pe pb ob qc pd
+kj_66606,10,pd tt mc ld md lf le ke me kh
+kj_81714,20,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh mf ld qj
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_20893,33,pd nc tt qf pf pg of qd qc qe pc lc kd kc id ke ld jd je jc kf ie le if qi rh nd ri hd ge gd tt ib
+kj_58608,8,pd qc pc qd pe rf tt pf
+kj_81598,7,pd kd ke tt kf ld me
+kj_33171,11,pc pe qe pd qd oc pb pf qf pg qg
+kj_62236,9,pd nc nd md ne oc pc lc pg
+kj_98318,7,pd nc lc ld kc ne pf
+kj_56496,7,pd tt nc pi qg qh pg
+kj_61381,14,pd qc pc qd qf qe pe rf tt qg pf rh tt oh
+kj_65891,8,pc pe qe qf qd pf nc me
+kj_38181,26,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc nd ld nf of md lc le ke lf kf lg
+kj_48147,11,pd nc tt qf pf pg of qe qd ob od
+kj_71144,6,pd nc tt oe qf tt
+kj_61802,10,pd qc pc qd pe rf tt qg lc tt
+kj_57361,9,pc qe od qh qj lc qd pe oj
+kj_85254,6,pc tt qe pf pe nf
+kj_01862,6,pc tt pe mc me nb
+kj_88338,16,pd nc tt qc pc qd pe pb ob qb nb mc kc mb oc qf
+kj_87356,13,pc pe qe qf qd pf nc pj rh pd qc qh tt
+kj_93255,10,pd qc pc qd pe qe qf rf lc tt
+kj_56272,8,pd qc pc qd pe rf tt pb
+kj_58131,18,pd qc pc qd qf qe pe rf qb rb re rd rg pf sf qg tt rf
+kj_78581,10,pc tt pe pf of qe pg qf oe qc
+kj_50169,8,qc pc qd pd qe pe qf qb
+kj_50650,10,pc qe od tt qh pf rd nf og me
+kj_17639,9,pd tt nc re qf rf qd qe qh
+kj_67521,7,pc qe nd tt qi tt qd
+kj_94746,6,qc tt nd pe pd oe
+kj_98677,11,pd nc oc nd pf jc tt qh ph pi oh
+kj_71017,6,pc qe od ph qj qm
+kj_52874,6,pd tt nc tt qg kc
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_65734,11,pd qc pc qd pe rf tt lc tt hc jc
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_57068,7,pd nc lc ne pf jc le
+kj_92386,21,pd qc pc qd qf rf rg qe pf pe oe od pb nd of qb nb nc mb ob me
+kj_06513,13,pc qe nd tt jd le ld qc qb pb ob pd pa
+kj_56279,14,pd qc pc qd qf qe pe rf tt qg pf qb pg qh
+kj_78279,11,pc pe qe qf qd pf nc pj tt ql pm
+kj_92888,9,pc qe od pi tt lc tt rc md
+kj_84365,21,pc qe ph od pd pe oe oc ob nb pb of ne md ng rc rb qc qb qg qh
+kj_82110,9,pd tt nc qf qe pf rf rg re
+kj_77739,7,pc qe od ph of qg tt
+kj_90463,6,pc tt pe tt kc pf
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_97436,8,pd qc pc qd pe rf pi oi
+kj_08141,6,pd nc lc ld tt kc
+kj_86444,12,pc qe od tt qg oe ne of qd rd rc ph
+kj_73156,9,pc qe tt od oc nd mc tt nh
+kj_66776,10,pc qe tt od oc nd mc qi pi ph
+kj_73197,8,pd qc pc qd pe rf tt kd
+kj_50298,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt qi
+kj_08826,16,pd nc tt qc pc qd pe pb ob qb nb mc kc qf mb lc
+kj_50060,16,pc tt pe pf qf qg pg of og qe rf nf re ng qh tt
+kj_76170,6,pd nc qf tt oc nd
+kj_66606,10,pd tt mc ld md lf le ke me kh
+kj_62701,8,pc pe qe qf qd pf nc mf
+kj_72702,8,pd nc pf oe pe pb tt ph
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_98320,10,pc qe tt od qd re oc nd mc tt
+kj_69977,7,pd nc oc nd pf qh lc
+kj_59756,7,pd nc oc nd pf jd id
+kj_64665,6,qc tt mc qd pd qe
+kj_07345,13,pc qe tt od oc nd mc tt qg qi of md lc
+kj_67494,8,pc pe qe qf qd pf nc qi
+kj_36072,8,pc qe od qh tt ld pf qf
+kj_45601,19,pd nc tt qc pc qd pe pb ob qb nb mc kc mb oc rf lb mf ma
+kj_74635,15,pd qc pc qd qf qe pe rf tt qg pf qb tt pg ld
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_86581,12,pd qc pc qd pe rf tt qg tt ld ng og
+kj_08637,11,pc tt qf tt ph pe qe pd qd oc pb
+kj_04275,8,qc pd pc od oc qd nd ne
+kj_68401,7,pd nc oc nd pf qh jd
+kj_64733,11,pc qe tt od oc nd mc md lc ld tt
+kj_40524,9,pc qe qd pe nc pi pj qj qk
+kj_79292,9,pc tt qf pd od tt pe qd qc
+kj_32845,9,pc qe qd pe nc tt qi mf ne
+kj_83903,7,pd tt mc ne oc qe qd
+kj_36579,12,pc qe nd pi tt lc tt le tt qc qb rc
+kj_82465,8,pc pe qe qf qd pf nc tt
+kj_68327,8,pc qe od qh tt nc pf qf
+kj_66261,13,pd nc qf pc qc qb oc pb od ob nd mc le
+kj_34056,7,pc qe od tt qh pf pk
+kj_53806,6,pd nc tt qf ne ld
+kj_83377,6,pc tt qf kd mc tt
+kj_91680,9,pc pe qe qf qd pf nd pj rh
+kj_90336,9,pc qe tt od oc nd mb tt qg
+kj_85727,8,pc tt pe pf qf qg qe tt
+kj_50178,10,pc pe qe qf qd pf nc tt qj tt
+kj_61266,8,pd nc pf tt oc tt nd rf
+kj_64554,6,pc qe nd tt qi pj
+kj_06953,13,pc qe tt od oc nd mc qh qd rd rc pd qc
+kj_72588,11,pd qc pc qd pe rf tt qg ld le ke
+kj_47969,10,pc pe qe qf qd pf nd pj ql pl
+kj_14170,7,pd nc qf tt lc ld tt
+kj_56283,16,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt
+kj_25638,8,pc tt pe qg qi pi pj ph
+kj_26098,7,pc qe nd pi oi oh ni
+kj_18373,20,pc qe qh od pd pe oe oc ob md of pb qb qc pa qd pb mc rc rd
+kj_57749,12,pd qc pc qd qf qe pe rf qg rg qh ki
+kj_58154,16,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me
+kj_82850,8,pc qe nd tt kd qc qb pb
+kj_92400,6,pc tt qe pf pe oc
+kj_70513,17,pc qe tt od qd rd pe pd qc rf qf re oc nd mc md lc
+kj_52931,9,pc pe qe qf qd pg of og rf
+kj_52538,13,pd nc ld qc pc qd pe pb ob qb oc qf og
+kj_99175,13,pd qc pc qd pe rf tt qg pg ph oh pi tt
+kj_77679,8,pc tt qe pf tt qf pe of
+kj_96031,6,pc qe od tt lc ld
+kj_90007,6,pd nc qf kd oc nd
+kj_12203,11,pc tt pe tt lc pf qf qg pg of qh
+kj_95169,6,pd tt nc tt qh qf
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_02218,6,qc pd pc od re oc
+kj_48794,6,pc tt pf lc kc pd
+kj_79040,13,pc tt qf pd qd oc pb od pe qc qb rc rb
+kj_65698,12,pc qe od tt qh pf oh rc of qb tt og
+kj_70705,10,pc pe qe qf qd pf nc pj tt qm
+kj_65209,7,pd nc oc nd pf kd je
+kj_87918,15,pc qe tt od oc nd mc tt md me le mf lf mg tt
+kj_85254,6,pc tt qe pf pe nf
+kj_72447,16,pd qc pc qd qf qe pe rf qb rb re rd rg tt sf pb
+kj_09611,10,pc qe od qh tt lc qd pe qj nc
+kj_65037,7,pd qc pc qd pe rf le
+kj_85254,6,pc tt qe pf pe nf
+kj_01977,11,pd qc pc qd qf rf qg rg qh kd tt
+kj_18182,9,pc qe qd od oc nd re nc qf
+kj_25283,6,pc qe tt md od qh
+kj_89853,19,pd qc pc qd pe rf qb rb re qe qf pb rc qa rd qb rg pf qg
+kj_81172,14,pc tt qf pd qd oc pe od pb qc ob mc rc jd
+kj_32131,9,pc qe nd qc qb pb rb tt qi
+kj_61181,21,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj qm
+kj_76897,8,pd nc qf tt kc ic ke ie
+kj_54466,7,pc tt pe tt ph qd qc
+kj_86009,19,pd qc pc qd qe re rf qf pe rg rd sf rc pf of og nf ng mf
+kj_71517,11,pc qe qi od oc nd nc md lc tt qg
+kj_51405,10,pc pe qe qf qd pf nc pj tt me
+kj_73817,7,pc tt pf tt lc tt ke
+kj_44378,14,pd nc qf pc qc qb oc pb od ob nd mc tt le
+kj_69616,7,pc qe qd pe nc tt ph
+kj_52304,6,pc tt pe qg og tt
+kj_61539,23,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld nd
+kj_04369,14,pd tt nc qf tt qd qc rc qb pe rd qe rb mf
+kj_69890,9,pd nc tt qc qd pc od mb ph
+kj_55218,7,pc qe nd ph qd pe ld
+kj_91340,11,od qc qe pd pe oc nc nb nd mb lc
+kj_91680,9,pc pe qe qf qd pf nd pj rh
+kj_59170,19,pc tt qf pd od qc qd pe qe oc pb nd oe pf pg of ne og nc
+kj_20616,13,pc tt pe oc od nc pb nd ne me nf mf ng
+kj_89729,10,pc qe tt od oc nd mc tt qi qk
+kj_37692,19,pd qc pc qd pe rf tt lc qb rb re qe qf rd rg pf qg of md
+kj_62223,7,pc qe od qh tt lc tt
+kj_61756,7,pc qe nd tt qh tt kd
+kj_61470,16,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb
+kj_70847,14,pd nc lc qc pc qd pe pb ob qb nb qf tt jc
+kj_83090,13,pd qc pc qd qf qe pe rf qg rg qh lc le
+kj_24211,9,pc pe qe qf qd pg md kc pj
+kj_67912,17,pc qe tt od oc nd mc tt md me le mf lf mg lg mh tt
+kj_81122,16,pd tt nc qf qi qd qc rc qe rd pe re qb pf rg rf
+kj_86188,8,pc qe od tt qh pf qk rc
+kj_83525,19,pc tt qf pd qd oc pe od pb oe of nf og ng oh qc ob mc rc
+kj_67095,10,pd qc pc qd pe rf tt qg tt md
+kj_85845,9,pc qe tt od oc nd mc qi tt
+kj_36752,6,pd tt nc md jd tt
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_76170,6,pd nc qf tt oc nd
+kj_32810,17,pd qc pc qd pe rf tt lc qf qg pg qh re qe pf rd lf
+kj_52911,12,pc qe tt od oc nd nc md tt mc rd re
+kj_10290,10,pc qe qd pe nd tt ph og oh mg
+kj_67912,17,pc qe tt od oc nd mc tt md me le mf lf mg lg mh tt
+kj_81122,16,pd tt nc qf qi qd qc rc qe rd pe re qb pf rg rf
+kj_86188,8,pc qe od tt qh pf qk rc
+kj_83525,19,pc tt qf pd qd oc pe od pb oe of nf og ng oh qc ob mc rc
+kj_67095,10,pd qc pc qd pe rf tt qg tt md
+kj_85845,9,pc qe tt od oc nd mc qi tt
+kj_36752,6,pd tt nc md jd tt
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_76170,6,pd nc qf tt oc nd
+kj_32810,17,pd qc pc qd pe rf tt lc qf qg pg qh re qe pf rd lf
+kj_52911,12,pc qe tt od oc nd nc md tt mc rd re
+kj_10290,10,pc qe qd pe nd tt ph og oh mg
+kj_77244,20,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt qi tt ld
+kj_57968,9,pd qc pc qd pe rf ld le md
+kj_95656,8,pc qe od tt qh tt oh tt
+kj_24364,15,pc qe nd tt qg qc qb pd rc oc qd pb qc od re
+kj_28651,10,pc qe nd qh tt lc qd pe mc ld
+kj_94267,7,pd nc pf oe pe pb pj
+kj_50382,7,pc tt pe qg qi og ql
+kj_88829,10,pc qe qi od oc nd mb oh qg lc
+kj_53085,7,pc qe qh od oc nd mb
+kj_13603,17,pc qe nd tt jd qc qb pb ob pd pa oc nc pb tt nb pc
+kj_96091,11,pd nc qf pc qc qb rc od pb oc rb
+kj_79174,6,pd tt nc qf qi qk
+kj_68284,6,pc tt qf tt qi tt
+kj_95008,16,pd pc oc qc od re qf qe pf ob nb pb mc pe oe of
+kj_59337,13,pd nc tt qf pf pg of qd qc qe pc kc ic
+kj_78751,8,pd qc pc qd pe rf qf rg
+kj_30208,14,pd tt nc qf tt qd qc rc pb re pe tt qh pf
+kj_33211,11,pc qe qd pe nc pi tt od oc tt ql
+kj_73678,17,pd qc pc qd qe re rf qf pe rg rd sf rc tt og pi ok
+kj_86853,11,pc qe nd qh tt lc qd pe mb tt qj
+kj_13387,9,pd nc oc nd pf qh tt re qc
+kj_80317,6,pc tt pf mc tt qh
+kj_63510,16,pd qc pc qd pe rf tt ld tt qg tt nc nd md nf tt
+kj_56876,8,pd qc pc qd pe qe qf rf
+kj_71776,7,pd nc tt qc qd pc od
+kj_68607,13,pd nc lc qc pc qd pe pb ob qb nb qf og
+kj_71064,7,pd nc lc jc tt ne pg
+kj_86368,12,pd qc pc qd pe qe pf qf qg pg qh qb
+kj_86938,9,pd nc qf pc qc qb rb ob qa
+kj_42555,8,pc qe od pf tt ne ld tt
+kj_87495,6,pc qe od qh ql tt
+kj_12500,19,pd nc tt qf pf pg of qd qc qe pc md tt mf le me ob tt kc
+kj_07038,17,pd tt nc qf tt qd qc rc qe rd pe re tt pf of og nf
+kj_13302,15,pd nc tt qf pf pg of qd qc qe pc kc ic ob ie
+kj_59983,12,pd qc pc qd pe qe qf rf tt kc tt ke
+kj_81155,6,pd qc pc qd pe rf
+kj_82062,19,pd tt nc re rd qd qe qc rc pe qf pc od rf rb qg pf ph of
+kj_08053,12,pd nc tt pf nd md ne oc pe qb lf tt
+kj_88780,7,pd nc oc nd qf jd tt
+kj_65908,9,pc qe tt od oc nd mb lc tt
+kj_27078,7,pd nc qf ne pb tt kd
+kj_86579,29,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf lf mg kh
+kj_33171,11,pc pe qe pd qd oc pb pf qf pg qg
+kj_31462,16,pd qc pc qd qf qe pe rf qb tt re rd rg rb tt pb
+kj_85005,11,pc qe tt od oc nd mb tt qh tt oh
+kj_61286,7,pc qe tt od qd tt oc
+kj_28451,18,pd qc pc qd qe re rf qf pe rg rd sf rc tt og pi oj nh
+kj_67809,15,pd qc pc qd pe rf qb rb re pb qe ob nc oc nd
+kj_93039,13,pc tt qf pd qd oc pe od pb qc ob mc rc
+kj_02457,6,pc qe tt qh tt od
+kj_03729,15,pc qe tt nd od oe nc md mc ld pe pf pd pg kb
+kj_87643,9,pd tt nc md nd mf me le ne
+kj_34214,18,pd qc pc qd pe rf qg tt qf rg rh qe qh pb ob qb tt nc
+kj_26426,14,pc pe qe qf qd pf nc pj ql tt ok oj nk nj
+kj_58962,13,pd qc pc qd pe rf qg pb ob qb nc qf pf
+kj_37343,8,pd tt nc tt qf pg qg pi
+kj_09778,10,pc qe nd pi tt lc tt le of pg
+kj_71940,9,pd qc pc qd pe qf pf rg qg
+kj_18647,6,pd tt nd qf qe tt
+kj_33825,12,pc qe tt od oc nd mb tt pg qg qh ph
+kj_96856,10,pc pe qe qf qd pf nc pj tt kd
+kj_68551,6,pc qe nd tt qi qk
+kj_40642,14,pd qc pc qd pe qf tt rg pf pg og ph lc ld
+kj_73883,13,pc qe tt od oc nd nc md mc tt ld tt le
+kj_17085,7,pc qe tt nc nd md ne
+kj_93423,6,pc qe qd pe nd qh
+kj_30181,21,pc tt pf qh tt pd qd qe pe od qc qf pg qg nd oe oc ne me nf nh
+kj_90747,11,pd nc lc qf nd qc qd pc od nb le
+kj_12291,8,pd nc lc qf nd tt qc tt
+kj_64244,20,pd qc pc qd pe rf qg qf pf qh rg pg rh qi ri qj rj qk rk ql
+kj_87997,7,pd nc qf tt oc nd kd
+kj_65951,7,pd tt nc mc nd md tt
+kj_98932,8,pd tt nc qf qe pf pi me
+kj_52566,8,pc qe nd tt qh tt oh tt
+kj_92879,7,pd nc qf tt kc ic ke
+kj_75914,6,pd tt nc md nd mf
+kj_58942,8,pc qe qi od oc nd mc tt
+kj_81522,6,pd ob nc nb mc qc
+kj_97622,13,pc qe nd lc qh pg ph ng pf qg og oh of
+kj_50842,7,pd qc pc qd pe rf kf
+kj_94091,7,pd nc lc tt nd ic tt
+kj_86794,6,pd tt nc tt qh ph
+kj_08485,6,pd nc qf kd tt pg
+kj_66307,11,pc qe tt od oc nd nc md mc ld rd
+kj_91169,9,pd pc qc oc qd lc tt ne qg
+kj_43775,8,pc tt qf md tt pd qd qc
+kj_86967,17,pc qe tt nd tt pd oc nc od oe ne ob of pe qc qg me
+kj_83978,13,pd qc pc qd pe rf tt lc qf rg tt qb ph
+kj_50509,11,pc pe qe qf qd pf nc pj tt ql oh
+kj_92944,26,pd qc pc qd qf qe pe rf tt pf qg rg qh of oh pi og nf qb rb rc rd sb sc ra sa
+kj_73777,14,pd qc pc qd pe rf tt lc jc le tt hc tt qg
+kj_39300,11,pd tt nc re qe rd rf qf qg pf rh
+kj_20438,8,pd nc lc ne tt pf pb tt
+kj_13590,8,pd tt nc qf qh of oh mf
+kj_70622,6,pd nc qf tt jc tt
+kj_82661,15,pd nc tt qc pc qd pe pb ob qb nb mc kc mb oc
+kj_59803,9,pc pe qe qf qd pf nc mf tt
+kj_78522,8,pc pe qe qf qd pg tt mc
+kj_94365,10,pc qe tt od oc nd mb tt ld tt
+kj_73249,7,pc qe od tt pf tt qf
+kj_09562,14,pd nc qf tt lc pc qc qb rc od pb oc rb og
+kj_34306,13,pc qe tt od oc nd mc md lc ld tt kc qd
+kj_41486,9,pd tt nc mc mb lc nd lb tt
+kj_83817,7,pc qe od pg tt rc tt
+kj_76791,11,pd qc pc qd pe rf tt kd tt qg ng
+kj_17972,7,pc qe tt lc qd pe nc
+kj_77584,7,pc tt pf tt qi pi ph
+kj_32529,7,pc tt pf lc tt qh tt
+kj_26777,7,pc qe qg tt pf tt pe
+kj_55489,6,pc qe od qh tt rc
+kj_64961,6,pd tt nc qf rd of
+kj_70383,21,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb tt nb tt qh tt
+kj_53327,14,pd nc tt qf pf pg of qe qd kc oc nd pe tt
+kj_96208,9,pc qe nd pi qg pg qh ph qi
+kj_40485,9,pc qe od tt qh oe ne of nf
+kj_07606,6,pc tt qf qh ph qi
+kj_49779,14,pd nc tt qf pf pg of qd qc qe pc kc ic ke
+kj_88874,11,pd nc nd md ne ob qc me mf ke lf
+kj_58114,9,pd qc pc qd pe qf tt rg tt
+kj_44174,7,pc qe od tt pf qg lc
+kj_18754,11,pc pe qe qf qd pf nc tt qj pm tt
+kj_42281,9,pd nc lc ne pf jc md nd mf
+kj_65335,8,pc pe qe qf qd pf nd me
+kj_77526,14,pd nc qf pc qc qb oc pb nd ob od mc le tt
+kj_90611,12,pd nc qf pc qc qb oc pb od ob rc lc
+kj_06203,10,pc tt pf tt ld qd pd lc tt md
+kj_81102,10,pc pe qe qf qd pf nc pj tt qk
+kj_71268,8,pd nc oc nd pf kc tt qh
+kj_84403,14,pd qc pc qd qf qe pe rf tt qg pf qb oh kd
+kj_71504,9,pd qc pc qd pe rf tt qg ld
+kj_39182,9,pd tt nc qf qe pf nf pi tt
+kj_26708,7,pc tt pe qg tt og qf
+kj_98280,15,pd qc pc qd qf rf qg rg qh tt rh pb ob qb pe
+kj_57260,13,pd qc pc qd qf qe pe rf tt qg pf qb oh
+kj_42727,7,pc tt qf ng of nf og
+kj_15753,11,pc pe qe qf qd pf nc tt pi mf pm
+kj_62237,11,pd qc pc qd pe rf tt qg tt og me
+kj_74061,6,pd tt nc md mc kd
+kj_51631,6,pc tt pf tt ld nc
+kj_65262,9,pd nc tt pf of pg nd md oc
+kj_73162,8,pc tt qe pf tt qf pe ng
+kj_27117,13,pc qe od tt qh oe ne of qd rd rc rf nf
+kj_60351,10,pc qe od tt qh oe ne of oh nd
+kj_81155,6,pd qc pc qd pe rf
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_71760,9,pd qc pc qd qf rf qg rg qh
+kj_82738,8,pc qe qd od pd pe oe oc
+kj_65508,6,pd nc tt pb qc lc
+kj_88231,16,pd qc pc qd qe re rf qf pe rg rd sf rc tt og pi
+kj_57563,11,pc pe qe qf qd pf nc pj ql tt qi
+kj_53081,9,pc qe qh od oc nd mb oh pj
+kj_22304,6,pd tt nd tt qh qf
+kj_27727,7,pc qe nd tt qi qk tt
+kj_95045,6,pd tt nc md nd qg
+kj_81155,6,pd qc pc qd pe rf
+kj_60526,15,pd qc pc qd qf qe pe rf qb rb rg pb re pf qg
+kj_92417,9,pc qe tt od oc nd mc tt pi
+kj_88136,6,pc qe od qh lc tt
+kj_89838,8,pd qc pc qd pe qf og rg
+kj_00871,7,pc tt pe tt qi ph pi
+kj_88709,19,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf
+kj_83178,14,pd qc pc qd qf qe pe rf qg rg qh ld tt mf
+kj_45246,11,pc tt pf tt ld qd pd lc kd tt kc
+kj_69616,7,pc qe qd pe nc tt ph
+kj_36026,18,pd qc pc qd pe qf pf rg qg qh qe pg re ng tt pb ob rb
+kj_93492,10,pd tt nc qf tt of tt md nd me
+kj_67961,7,pd nc oc nd pf qh kc
+kj_66142,6,pc tt pf tt qi ok
+kj_80539,15,pd qc pc qd qf qe pe rf qg rg qh tt kd kc lc
+kj_86778,13,pd nc qf pc qc qb oc pb nd ob od mc md
+kj_39493,10,pc tt qf pd qd oc pe od pb kc
+kj_70291,25,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na tt
+kj_98662,11,pd qc pc qd pe rf tt ld tt qg jc
+kj_53339,11,pd qc pc qd pe rf tt kd tt qg md
+kj_95973,10,pc tt qe pf tt qf pe of tt oc
+kj_21652,11,pd tt kc qc pc qd qf qe pe rf tt
+kj_62701,8,pc pe qe qf qd pf nc mf
+kj_14747,7,pc tt qe oc pd kc mc
+kj_23379,6,pc qe nd pi pg tt
+kj_76340,13,pd nc tt qf nd md ne pc qc oc qd qh qk
+kj_81155,6,pd qc pc qd pe rf
+kj_81155,6,pd qc pc qd pe rf
+kj_62034,19,pd qc pc qd pe qe qf rf rg qg pf rh qb sg rc rd sd re tt
+kj_88871,6,pc qe od qh tt kd
+kj_53435,6,pc tt pe qg tt og
+kj_77595,6,pc qe od qh qj lc
+kj_52322,27,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc qb re le md kc qg nf lb nb
+kj_98880,19,pc qe tt nd pe pd od qd oc oe pf qc nc of qf og re rd rf
+kj_98464,11,pd pc oc qc qd ob nc nb mc mb lc
+kj_54762,15,pd qc pc qd qf qe pe rf qb rb re rd rg se qg
+kj_14633,7,pc tt qe pf qf ph qi
+kj_76422,7,pc qe nd tt qi tt pl
+kj_03810,15,pd qc pc qd qf qe pe rf tt qg pf qb oh mc kc
+kj_31966,9,pc qe od tt qh pf tt rc tt
+kj_26777,7,pc qe qg tt pf tt pe
+kj_65363,7,pc tt qe pf pe tt pj
+kj_90340,8,pc qe tt od oc nd mb tt
+kj_92879,7,pd nc qf tt kc ic ke
+kj_00652,6,pc qe qg oe nd ne
+kj_75370,14,pd qc pc qd qf qe pe rf tt ld tt pf qg of
+kj_32692,10,pc qe tt od oc nd mc qh ph pg
+kj_29961,8,pc qe od qh tt ql pl pk
+kj_75503,10,pc tt pf qh tt oh qg rg rf oc
+kj_59528,9,pc pe qe qf qd pf nc tt kd
+kj_93905,6,pc pe qh md oh nc
+kj_24503,20,pd qc pc qd qf rf qg rg qh tt rh pb ob qb pe nc oc qe tt ne
+kj_44308,7,pd tt nc tt qg ph qh
+kj_37707,6,pc tt pe qg ph of
+kj_91827,18,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of ld jc
+kj_29623,9,pd tt nc qf qe pf tt me ld
+kj_78416,9,pc pe qe qf qd pf nd lc mc
+kj_55343,6,pc qe qd pe nc pi
+kj_92118,14,pd nc tt pf of og nf qc pc qd pe qe qb rb
+kj_02766,11,pc tt qe pf tt pe qf pd qd oc pg
+kj_96100,6,pc tt qf tt kc kb
+kj_91624,13,pd nc tt qf pf pg of qd qg qe ph pc og
+kj_97714,7,pd tt nc md nd mf pg
+kj_73909,6,pd nc qf ne oc nb
+kj_81538,17,pd qc pc qd qe re rf qf pe rg rd sf rc tt og qb rb
+kj_89346,15,pd nc qf pc qc qb oc pb nd ob od mc tt le tt
+kj_44402,14,pd nc qf pc qc qb oc pb nd ob od mc qi tt
+kj_74700,8,pc pe qe qf qd pf nc oi
+kj_06327,7,pc qe nd tt qh ne me
+kj_31575,11,pd qc pc qd qf rf tt qg pf rh tt
+kj_81954,9,pc qe tt od oc nd mc tt md
+kj_34391,7,pc qe od pg qd tt qi
+kj_83165,6,pc tt pf tt qh qi
+kj_89280,16,pc tt pe pf of qe qf pg re qd pd qg rf rg rd og
+kj_13647,11,pd qc pc qd pe rf qf rg ph tt qb
+kj_76523,6,pc tt pe pf qe lc
+kj_58375,8,pd nc pf oe pe pb le lc
+kj_31008,14,pd qc pc qd qf qe pe rf qg rg qh rh qi ld
+kj_66261,13,pd nc qf pc qc qb oc pb od ob nd mc le
+kj_73865,9,pc pe qe qf qd pf nd tt nf
+kj_19297,8,pc qe qd pe nc pi ol tt
+kj_91261,9,pc tt qe oc od nc pb nd oe
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_65476,7,pc qe pg oe nd tt pj
+kj_68829,7,pd pc qc oc qd lc jd
+kj_64033,21,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf
+kj_82577,10,pd nc qf pc qc qb rb pb qd kc
+kj_05217,8,pc qe qd pe nc tt me tt
+kj_37648,15,pc pe tt oc qd pb od pd qc nb nc ob qe nd qg
+kj_06017,14,pd qc pc qd pe qf pf rg qg qh qe pg re tt
+kj_08601,12,pc tt pf tt lc qh tt pd od qd qc rc
+kj_86031,11,pc pe qe qf qd pf nc pj ql pd qc
+kj_63049,9,pc pe qe qf qd pf nd pj tt
+kj_89576,9,pc qe tt od oc nd mc qh qi
+kj_84817,11,pc qe tt od oc nd nc md mc ld kc
+kj_35345,9,pc pd oc qd qc rc od re tt
+kj_93974,8,pc qe tt od oc nd mc le
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_91521,13,pd qc pc qd pe rf tt lc qf rg tt le tt
+kj_84247,9,pd qc pc qd pe rf tt le ld
+kj_77539,8,pd tt nc qf tt md tt mc
+kj_35591,13,pd qc pc qd qf qe pe rf tt kd qb rb re
+kj_67473,10,pc pe qe qf qd pf nc pj tt jc
+kj_26841,10,pd qc pc qd qf rf qg rg qh mc
+kj_94138,10,pd nc oc nd pf jd tt qh qj oh
+kj_97576,8,pd tt nc qf qe pf qh rf
+kj_72337,6,pc qe nd tt jd ic
+kj_12333,29,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj nh mh mi lh li kh ki jh pk
+kj_80206,6,pd kd kc ld mc qd
+kj_37730,12,pd qc pc qd pe qf qb pf of og qe re
+kj_90073,9,pd qc pc qd pe rf tt lc hc
+kj_94388,6,pd nc lc ld kc tt
+kj_10971,14,pd qc pc qd qf qe pe rf qg rg qh lf ld of
+kj_01449,12,pc tt pf qh qj oh qg rg rf pg qf nj
+kj_91476,7,pc qe od tt kd tt qh
+kj_75065,16,pd qc pc qd qf qe pe rf qg rg qh of qb rb ob qa
+kj_74795,10,pd nc qf pc qc qb rd ob od nd
+kj_17639,9,pd tt nc re qf rf qd qe qh
+kj_04638,8,pc qe nd tt qi qh rh qg
+kj_53853,12,pd nc qf pc qc qb rb tt pb oc pe ne
+kj_82397,11,pd qc pc qd pe qe pf qf qg tt ph
+kj_55912,9,pc pe qh qc qd pd rc qb oc
+kj_60414,7,pc qe qd pe nc tt pi
+kj_21161,17,pc qe tt od qd rd pe pd qc rf qf re oc pf mc nd tt
+kj_54547,8,pd nc qf tt lc jc jd id
+kj_36659,7,pc qe qi tt qd od pd
+kj_55393,6,pc qe qd pe nc qh
+kj_84153,12,pd qc pc qd pe rf tt qg tt og ld je
+kj_51542,9,pc qe nd tt qh tt oh qc qb
+kj_82464,9,pc tt pf mc tt pd qc nd qd
+kj_62148,22,pd nc tt qf pf pg of qd qc qe pc md le me mf lf qg qh rg rh ph og
+kj_51835,6,pc pd oc qd qc tt
+kj_00419,16,pc tt pf mc tt pd od qc ob oe pe qd nd pb mb rf
+kj_32103,9,pd tt nc md nd mf tt pg qe
+kj_94192,7,pc tt qi pd oc qd qc
+kj_62537,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt qb rb
+kj_62509,15,pd qc pc qd qf qe pe rf tt ld qg rg qh of pf
+kj_49669,14,pc tt pe oc od nc pb nd le oe pd kc of ne
+kj_54372,8,pd nc lc tt qf pc qc qb
+kj_12500,19,pd nc tt qf pf pg of qd qc qe pc md tt mf le me ob tt kc
+kj_07038,17,pd tt nc qf tt qd qc rc qe rd pe re tt pf of og nf
+kj_87421,10,pd qc pc qd pe qf pf rg qh tt
+kj_54675,6,pd nc qf tt nd md
+kj_53267,6,pd kc tt nc oc nd
+kj_78246,22,pd qc pc qd pe qe qf rf qb rb re pb rc qa rd qb rg pf qg nc nf ld
+kj_65663,9,pd pc qc oc qb mc kc kd jc
+kj_83597,8,pd nc lc ne pf jc kd jd
+kj_80559,6,pc qe od qh tt nc
+kj_84858,12,pd nc lc qc pc qd pe pb ob qb nb qf
+kj_84077,7,pc pe qe qf qd pg pk
+kj_53303,6,pc pe qe qf qd pg
+kj_62537,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt qb rb
+kj_62509,15,pd qc pc qd qf qe pe rf tt ld qg rg qh of pf
+kj_49669,14,pc tt pe oc od nc pb nd le oe pd kc of ne
+kj_54372,8,pd nc lc tt qf pc qc qb
+kj_56283,16,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt
+kj_12414,10,pc pe qe qf qd pf nd lc mc le
+kj_74759,6,pc tt qe pf qf ph
+kj_94246,6,pc qe qd pe nc qi
+kj_88040,17,pd nc tt qf nd md ne pc qc oc pf od pe qb rd rc qd
+kj_31492,15,pd nc tt qf nd md ne oc pc pg re qe rd ng oh
+kj_28329,6,pc pd oc od qd qe
+kj_35149,12,pd nc oc nd pf jd tt qh qj oh oj re
+kj_63049,9,pc pe qe qf qd pf nd pj tt
+kj_87519,6,pd tt nc qh qf rd
+kj_56754,15,pd qc pc qd qf qe pe rf tt qg pf qb oh ob nc
+kj_33655,14,pd nc lc qc pc qd pe pb ob qb nb qf tt ic
+kj_85106,8,pd tt nc qf tt of qe rf
+kj_15053,7,pc tt pe tt ph qc qd
+kj_31372,11,pc tt qi pd qd oc od pe nc ob qc
+kj_07217,10,pc qe od qh qj lc pg qg qd pe
+kj_25250,10,pd qc pc qd pe rf tt qg lc id
+kj_24729,10,pc qe qd pe nc tt qi qk me nf
+kj_71770,8,pd nc tt qc qd pc od mb
+kj_67137,14,pc qe qg od pd pe oe of ne pg ph oh pi oi
+kj_96439,8,pd nc tt qc pc qd pe qe
+kj_49468,7,pc qe nd tt jd jc kd
+kj_67041,18,pc tt qf pd qd oc pe od pb oe of nf og ng oh qc ob mc
+kj_56426,16,pd nc tt qf nd md ne qc qd pc mc od oe oc ld pe
+kj_79102,14,pd nc tt qc pc qd pe pb ob qb nb qf mc tt
+kj_81095,6,pc qe tt nd tt pd
+kj_16076,10,pd tt nc md nd mf tt pg tt qd
+kj_05597,9,pc qe nd tt qi lc qd le mf
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_75222,8,pc qe od qh pf qf kc kd
+kj_55991,9,pc pe qe qf qd pf nc tt ph
+kj_10312,7,pc qe nd tt qi qm qd
+kj_64221,6,pd tt mc qf qh ne
+kj_27449,12,pc qe qh od oc nd mb oh pj tt ni tt
+kj_21864,11,pc tt pf qh qj oh qg rg rf oc od
+kj_32515,7,pc tt pe tt kc tt ke
+kj_50711,12,pd qc pc qd qf qe pe rf qg rg qh lc
+kj_23106,10,pc tt pe pf qe tt ld lc mc kc
+kj_81102,10,pc pe qe qf qd pf nc pj tt qk
+kj_17203,8,pc qe qd pe nc tt ph mf
+kj_66713,6,pd nc pf oe pe pb
+kj_81448,6,pd nc tt kc tt kd
+kj_56476,6,pc pe nd qc qb qd
+kj_06357,14,pd qc pc qd qf qe pe rf tt qg pf qb oh li
+kj_53675,7,pc qe nd tt qh ql tt
+kj_95448,7,pc tt pf tt lc je le
+kj_07448,17,pd nc tt qf pf pg of qd qc qe pc md jd mf le me pe
+kj_84538,11,pd nc tt qc pc qd pe pb ob qb nb
+kj_72208,11,pd qc pc qd qe re qf rf qg rg qh
+kj_08116,6,pd tt lc tt le kf
+kj_62978,10,pc tt pf mc tt pd qc nd qd tt
+kj_55254,7,pc pe ph qc qb qd ob
+kj_70778,7,pc qe qi od oc nd mb
+kj_50114,9,pd nc tt pf nd md ne oc pe
+kj_90277,7,pc qe pg oe nd pj ql
+kj_28743,24,pd qc pc qd qf qe pe rf tt pf qg rg qh of oh pi og nf qb rb ob qa ld mg
+kj_74120,7,pc qe nd tt qi qh rh
+kj_00184,9,pd nc oc nd pf jc tt qh qk
+kj_42757,8,pd tt nc qf qe pf qj ne
+kj_28875,6,pd tt nc tt qi ri
+kj_95161,6,pc qe od qh qj oi
+kj_78739,19,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb tt nb tt
+kj_71862,6,pd nc lc tt qg qc
+kj_98632,6,pc tt pf qh tt pk
+kj_52823,26,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg nd nc ne lc
+kj_53280,16,pd qc pc qd qf qe pe rf qg rg qh tt qb rb rc pb
+kj_51460,9,pd tt nc qf qe pf tt mf md
+kj_58350,6,pc qe nd tt qi ne
+kj_60298,17,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of ld
+kj_48144,11,pc qe nd lc qh pg ph ng pf qg og
+kj_83131,6,pc tt qf tt mc le
+kj_08836,9,pc tt pe qg qi og ql re qd
+kj_47056,6,pd tt nc tt qh ni
+kj_49812,14,pc tt pf qh qj pd od qd qc rc rb re sc oh
+kj_75538,10,pd qc pc qd pe rf tt ld tt qg
+kj_85364,12,pd qc pc qd pe rf tt kd qf rg qb rb
+kj_55795,9,pc pe qe qf qd pf nc tt pi
+kj_67862,8,pd qc pc qd qf qe pe rf
+kj_70056,11,pc qe nd pi tt lc tt le mc mb nb
+kj_64238,8,pd nc oc nd pf jd lb tt
+kj_19031,6,pd nc lc tt hc jc
+kj_50519,18,pd qc pc qd qf qe pe rf tt qg pf qb tt pg tt ng ld tt
+kj_15654,17,pd qc pc qd pe rf tt kd qf rg tt ph lc kc ld ke le
+kj_87530,6,pc tt pe tt pi tt
+kj_17481,12,pd qc pc qd qf rf qg rg qh qe pe lf
+kj_74874,7,pc qe qd pe nc pi oj
+kj_06459,11,pc pe qe qf qd pf nc tt mf pi tt
+kj_30151,10,pc pe qe qf qd pf nc tt me tt
+kj_42708,8,pd nc tt pg of og nf ng
+kj_45412,19,pd nc tt qc pc qd pe pb ob qb nb mc qe oc mb lc lb kc kb
+kj_67297,6,pc qe od tt qi tt
+kj_55297,8,pd nc oc nd pf jd hc tt
+kj_80611,12,pd qc pc qd qf qe pe rf qg rg qh pj
+kj_56084,9,pc qe tt od oc nd mb tt pg
+kj_17203,8,pc qe qd pe nc tt ph mf
+kj_51806,7,pc qe nd tt qi lc mf
+kj_30784,9,pd nc oc nd pf jc jd id kc
+kj_47448,7,pc qe od qh kd tt kc
+kj_98726,20,pd qc pc qd qf qe pe rf tt qg pf rh qb rb pg ph oh pi tt ld
+kj_53223,10,pd qc pc qd pe qe pf rg tt ph
+kj_11928,6,pd tt nc qf re lc
+kj_13047,8,pd nc qf pb qc ne md nd
+kj_54239,8,pc qe od tt qh tt pf tt
+kj_99629,6,pc tt pf qh lc tt
+kj_56620,6,pc qe od tt qh rc
+kj_11912,32,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg pb ob qa of pg ng oh nh oi qj ni mi mj lj li mh mk
+kj_62042,10,pd qc pc qd qf qe pe rf tt kg
+kj_81155,6,pd qc pc qd pe rf
+kj_69156,20,pd qc pc qd qf rf rg qe pf pe oe of ne pb ob qb oh oc nf tt
+kj_51949,9,pd qc pc qd pe rf tt qg og
+kj_73873,6,pc tt pe tt qh og
+kj_45446,16,pd nc jc qc pc qd pe pb ob qb nb qf mc id ic hd
+kj_46594,7,pd tt nc tt kc tt je
+kj_55343,6,pc qe qd pe nc pi
+kj_57818,13,pd qc pc qd pe qf tt rg tt ld jc og lc
+kj_97266,10,pd qc pc qd pe rf tt lc id le
+kj_28253,17,pd nc oc nd pf jd lb lc kc qc qd ob pc ld mb nb jc
+kj_04422,6,pd lc tt nc oc nd
+kj_44031,18,pd nc qf pc qc qb oc pb nd ob od mc tt md tt mg tt pg
+kj_05886,10,pc tt qf nc lc ld kd le mc nd
+kj_98648,10,pc qe nd lc tt le nf ph qd pe
+kj_97257,8,pd tt nc qf qe pf me tt
+kj_33025,27,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc nd ld nf of md lc le ke lf kf lg tt
+kj_87337,9,pc qe qd pe nc pi qk tt qh
+kj_26708,7,pc tt pe qg tt og qf
+kj_67766,15,pd qc pc qd pe qf qe re rd rc rf sd qg tt nh
+kj_37648,15,pc pe tt oc qd pb od pd qc nb nc ob qe nd qg
+kj_12987,12,pd qc pc qd pe rf tt kd qf qg pg qh
+kj_53175,15,pd qc pc qd qe re rf qf pe rg rd sf rc qb rb
+kj_82864,13,pd qc pc qd qf qe pe rf tt qg pf qb ld
+kj_43456,13,pc qe od tt qh pf oh rc of pg ph qb tt
+kj_51498,6,pd nc qf tt pb ne
+kj_89826,12,pd tt mc qf tt qc qd rd pc rb qb rc
+kj_47282,7,pc qe tt od qd oc re
+kj_20193,6,pc tt qf pg pf oc
+kj_53469,6,pc qe od tt qh tt
+kj_59050,14,pd qc pc qd qe re rf qf pe rg rd sf rc pf
+kj_79102,14,pd nc tt qc pc qd pe pb ob qb nb qf mc tt
+kj_89316,8,pd nc lc pg qf qg pf og
+kj_31962,8,pc tt pe pf qe qf tt oe
+kj_52939,9,pc qe tt od oc nd mc tt qg
+kj_43587,8,pc qe od tt qh pf rd qj
+kj_72771,7,pd nc pf qh oc nd kc
+kj_91273,6,pc qe nd tt kd kc
+kj_93589,19,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ld pj oh
+kj_31625,10,pc qe tt od oc nd mc kc md ke
+kj_61822,9,pc qe od qh pf qf tt pg tt
+kj_53085,7,pc qe qh od oc nd mb
+kj_84474,16,pd qc pc qd qf qe pe rf qb qg pf rh rc rd sd re
+kj_09562,14,pd nc qf tt lc pc qc qb rc od pb oc rb og
+kj_97661,10,pc tt pe tt qg oc od nc pb nd
+kj_65955,6,pd tt nc mc nd md
+kj_30881,17,pd nc lc qf pf pg of qc qe qg pc re qd rd rc og nf
+kj_80647,8,pd tt nc re rd qe qd qi
+kj_18227,7,pc qe od qh qk tt qm
+kj_45941,6,pc tt qe pf pe of
+kj_37546,19,pd qc pc qd pe rf qb rb re pb qe ob tt nd ne me nf mf mg
+kj_01164,17,pc tt pe pf qf qg pg of qh rg qe ph og qi oh pi nf
+kj_23916,7,pc tt pe tt kd tt ke
+kj_44347,15,pd nc tt qf pf pg of qd qc qe pc lc mf qh jc
+kj_84498,10,pd qc pc qd pe rf tt lc le jd
+kj_36411,6,pd kd ke ld le md
+kj_96924,26,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf tt lc md ld me
+kj_57691,9,pc qe qd pe nc pi tt od oc
+kj_87121,6,pc qe od pg tt md
+kj_15654,17,pd qc pc qd pe rf tt kd qf rg tt ph lc kc ld ke le
+kj_11307,17,pd qc pc qd qf qe pe rf qg rg qh of tt pf oh nd nc
+kj_38489,11,pc tt pe qg tt qd qe re rf rc qf
+kj_87332,10,pc qe tt od oc nd mc tt ph tt
+kj_53201,7,pc tt pe tt kd ke le
+kj_79102,14,pd nc tt qc pc qd pe pb ob qb nb qf mc tt
+kj_56114,8,pc qe od qh tt lc id tt
+kj_26800,7,pc qe od qh qj ql qd
+kj_81155,6,pd qc pc qd pe rf
+kj_20616,13,pc tt pe oc od nc pb nd ne me nf mf ng
+kj_45973,9,pc pe qe qf qd pf nc tt nh
+kj_62408,7,pc tt qe oc od nc nd
+kj_62729,17,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of ld
+kj_67109,7,pc tt qf pg pf ng of
+kj_81155,6,pd qc pc qd pe rf
+kj_97754,15,pc qe od tt pf qc qb rb qd rc pe pb ob qa tt
+kj_71645,13,pd nc jc qf pf pg of qc qe pc qg hc tt
+kj_75028,11,pc pe qe qf qd pf nc pj rh pd qc
+kj_73867,9,pc qe tt od oc nd mc qh md
+kj_95290,15,pd qc pc qd qf qe pe rf tt qg pf qb oh kd tt
+kj_59050,14,pd qc pc qd qe re rf qf pe rg rd sf rc pf
+kj_93141,13,pd qc pc qd pe rf qf rg qb rb pb qe le
+kj_38511,7,pc tt qf tt qi tt mc
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_28669,11,pc pe qe qf qd pf nc pj tt qm ql
+kj_53338,7,pc qe od qh qd pe mc
+kj_98133,6,pc tt pf mc tt qd
+kj_88287,9,pd qc pc qd pe rf qg rg qh
+kj_85368,9,pc qe nd qc qb pb ob pd pa
+kj_05433,18,pd qc pc qd qf qe pe rf tt ld jd pf qg rg qh of qb rb
+kj_28687,13,pc pe qe qf qd pf nc pj pl ql qm qk tt
+kj_02705,12,pd nc lc tt qc jc jd kc kd lb ld mc
+kj_43906,22,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg tt
+kj_89737,9,pc tt pf tt ld qd pd lc tt
+kj_85262,9,pd qc pc qd pe qe pf qf pg
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_43739,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt nj
+kj_77726,12,pd qc pc qd qf rf qg rg qh tt qe re
+kj_49937,11,pc pe qe qf qd pf nc pj ql tt ne
+kj_57246,14,pd qc pc qd qf rf qg rg qh tt qe re pb qb
+kj_50931,7,pd tt nc md mf nd mc
+kj_69972,6,pc qe nd lc id tt
+kj_85813,18,pd qc pc qd qf qe pe rf qb rb re rd rg tt sf pb ob qa
+kj_62775,7,pc qe od tt pf qg pg
+kj_11397,7,pc tt pe tt ph lc kc
+kj_40184,17,pd qc pc qd qf qe pe rf qb rb re rd rg tt sf pb nc
+kj_53091,13,pd nc qf pc qc qb oc pb nd ob od mc qj
+kj_36460,10,pc qe od qh qj tt qd tt oj tt
+kj_43533,15,pc qe tt od oc nd mc md lc ld qd re tt kc kb
+kj_55351,7,pc qe od tt pf tt qg
+kj_57205,6,pd tt mc tt qf ld
+kj_61376,6,pc tt qf tt ld ng
+kj_76987,14,pd qc pc qd qf qe pe rf qg rg qh tt lc tt
+kj_33674,6,pc tt qf lc ke nc
+kj_75589,6,pc qe nd pi tt ri
+kj_63905,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld
+kj_26988,14,pd qc pc qd pe rf tt lc tt le qf qg pg qh
+kj_06839,12,pd nc tt qf pf pg of qc pc qd qb rb
+kj_34449,18,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc ic id jd
+kj_48955,6,pd nc qf jc lc je
+kj_53175,15,pd qc pc qd qe re rf qf pe rg rd sf rc qb rb
+kj_35521,14,pc qe tt od qd rd pe pd qc qf nc nd mc tt
+kj_23614,12,pc qe tt od qd tt oc nd re qf rf pd
+kj_70135,6,pc tt pf tt qi nc
+kj_79607,19,pd tt nc qf qe pf tt od oc qc pe of oe re rd rg se rf rc
+kj_80873,11,pc qe nd tt qi ne me mf le oe lf
+kj_05542,10,pd nc oc nd pf qh ph pi oh tt
+kj_40627,7,pd nc tt qf tt oe qj
+kj_81590,11,pd qc pc qd pe qe qf rf qg rg qh
+kj_36369,11,pd qc pc qd pe rf tt qg ld tt oh
+kj_51949,9,pd qc pc qd pe rf tt qg og
+kj_65037,7,pd qc pc qd pe rf le
+kj_98084,10,pc pe qe qf qd pf nc tt ne pi
+kj_86390,9,pd qc pc qd pe rf kd qg tt
+kj_36454,8,pd tt mc tt qe ld md lf
+kj_76157,12,pc qe od tt pf qg tt pg og oh nh oi
+kj_66189,11,pc pe qe qf qd pf nc pj pl tt ph
+kj_53209,8,pc qe tt od oc nd mc ph
+kj_57390,11,pd qc pc qd qf rf rg pe oe pb ob
+kj_96461,9,pc pd qd qe od pe qc qi oe
+kj_74397,7,pc qe qh od oc nd mc
+kj_39845,9,pd nc lc ne pb pf qf qg qe
+kj_70439,7,pc tt pe pf qf qg qe
+kj_91571,7,pc qe pi od oc nd mb
+kj_42881,18,pd qc pc qd pe qe qf rf tt pf qg rg qh of oh nd qb rb
+kj_68779,11,pd qc pc qd pe rf tt qg tt lc tt
+kj_84745,10,pd qc pc qd pe qf tt rg tt mc
+kj_85789,6,pc pe tt qc qb qd
+kj_83507,12,pc tt pe oc od nc md pb qc nd ne mc
+kj_71417,8,pd tt nc tt qi md mc ld
+kj_17001,7,pd nc pf tt pj oe pe
+kj_22723,11,pd nc tt qc pc qd pe rf qb rb ob
+kj_55332,9,pc tt pf pd qd qc qe oc pb
+kj_62701,8,pc pe qe qf qd pf nc mf
+kj_92839,16,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of
+kj_61869,11,pc pe qe qf qd pf nc tt qi mf tt
+kj_56951,10,pd tt nc qi qg re qe rf rd rg
+kj_45309,18,pd qc pc qd qf rf qg rg qh tt rh tt qb rb pb qe pe ra
+kj_29676,13,pd nc oc nd pf jd tt qh ph pi oh rg lb
+kj_68366,7,pd nc tt oe qf pg pc
+kj_63603,6,pc tt pe tt qg od
+kj_88271,10,pd nc tt qf nd md ne oc pc tt
+kj_77679,8,pc tt qe pf tt qf pe of
+kj_73140,8,pc qe od qh pf qf pg ph
+kj_82629,14,pd qc pc qd pe rf qb rb re pb qe qi ob qa
+kj_78532,10,pc qe od tt pf qf pg qh oi tt
+kj_21378,12,pd nc qf pc qc qb rd ob od nd tt kc
+kj_73760,11,pd tt nc qf qi qd qc rc rb re sc
+kj_60414,7,pc qe qd pe nc tt pi
+kj_97604,18,pd qc pc qd qf rf rg qe pf pe oe od pb nd of qb nb lc
+kj_16775,13,pc qe qg od pd pe oe of ne pg ph oh pi
+kj_85663,9,pd nc qf pe tt qe od qd nd
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_73575,12,pd qc pc qd pe rf tt qg tt kd tt kf
+kj_85766,8,pc pd oc qd qc rc od pf
+kj_84610,12,pc qe tt od oc nd mc md lc ld kc tt
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_83507,12,pc tt pe oc od nc md pb qc nd ne mc
+kj_21536,7,pd tt nc tt qi ph qh
+kj_87997,7,pd nc qf tt oc nd kd
+kj_97938,15,pd qc pc qd qf qe pe rf qg rg qh of tt pf oh
+kj_11150,13,pd nc qf pc qc qb oc pb nd ob od mc ic
+kj_94046,8,pd nc qf pb tt pg qg pi
+kj_80660,13,pd qc pc qd pe rf tt qg tt ld tt kf tt
+kj_83817,7,pc qe od pg tt rc tt
+kj_79706,6,pc tt pf tt pi qk
+kj_93785,6,pc tt pe tt lc qd
+kj_96769,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oc of mc
+kj_46697,11,pd qc pc qd pe rf tt qg tt kd ke
+kj_74206,9,pc qe tt od oc nd mc tt ph
+kj_56655,9,pc qe qi od oc nd mb tt qg
+kj_33285,13,pc qe tt od oc nd mc tt qg pg ph oh pi
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_93759,7,pc tt pe tt lc qd qe
+kj_72655,16,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh
+kj_83849,8,pc qe od tt qh pf rd nf
+kj_07409,6,pc tt qe pf nf tt
+kj_79692,18,pd nc tt qc qd pc od tt nd mc oc ob nb pb lc mb md lb
+kj_44250,13,pd qc pc qd pe rf tt ld kf lf lg mf mg
+kj_21851,21,pd qc pc qd pe qf qb pf qj ql qe re rd rc rf sd rg qh rh rb of
+kj_52443,12,pd qc pc qd pe rf tt kc tt nc qf rg
+kj_97733,10,pc tt pe tt lc pf qf qg pg of
+kj_35433,14,pd nc qf pc qc qb oc pb od ob rc lc kc ld
+kj_85096,13,pc qe tt od oc nd mc tt md tt mf tt pg
+kj_55351,7,pc qe od tt pf tt qg
+kj_98525,10,pc pe qe qf qd pf nc pj pl ql
+kj_87588,8,pc tt pf tt ld qd pd lc
+kj_72146,7,pd nc nd od oc oe mc
+kj_66150,18,pc qe nd lc qg of oh qc qb pd rc oc qd rd qc od ob nc
+kj_25724,7,pd nc qf kc oc nd jd
+kj_63272,18,pd qc pc qd pe qe qf rf tt pf qg rg qh of oh nh qb rb
+kj_98214,11,pd nc qf pc qc qb rd ob od tt le
+kj_81191,8,pc tt qf pe qe pd qd oc
+kj_77015,7,pc qe qd pe nc pi ol
+kj_32840,10,pc pe qe qf qd pf nc pj ql me
+kj_01670,9,pc pe qe qf qd pf tt mc tt
+kj_51507,7,pd nc qf tt kc tt oc
+kj_10044,6,pc tt qe tt lc pf
+kj_37823,13,pd qc pc qd pe rf tt lc tt le oh qg pg
+kj_95568,9,pc qe tt od oc nd mb tt ph
+kj_65335,8,pc pe qe qf qd pf nd me
+kj_29685,7,pc qe tt mc od jd tt
+kj_09009,19,pd qc pc qd qf rf qg rg qh qe pe of qb rb rc rd sb sc ra
+kj_58388,17,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rc
+kj_68899,7,pd nc qf ne oc nb og
+kj_46683,8,pd nc lc ne pf jc oc nb
+kj_17644,7,pd nc qf tt jc tt je
+kj_41470,10,pd nc pf oe pe pb lb mc kd qc
+kj_36327,10,pc qe od tt qh pf rd ne md oh
+kj_71123,9,pc tt qe pf tt qf pe of tt
+kj_97336,6,pd nc pf tt oc tt
+kj_45542,11,pc qe tt od oc nd mc tt qh oh pj
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_79091,8,pc tt pf qh tt oh qg rh
+kj_57307,8,pd tt nc md jd nd mc lc
+kj_62043,6,pc qe nd tt qi jd
+kj_82181,12,pd qc pc qd qf qe pe rf qb rb re pb
+kj_38275,11,pd nc oc nd pf kd tt qh ph pi oh
+kj_69519,6,pd nc qf pg qg pi
+kj_89779,10,pc pe qe qf qd pf nd pj ql tt
+kj_34254,8,qc pd pc nd od oe oc le
+kj_88227,6,pd nc tt oe qf pg
+kj_41470,10,pd nc pf oe pe pb lb mc kd qc
+kj_36327,10,pc qe od tt qh pf rd ne md oh
+kj_71123,9,pc tt qe pf tt qf pe of tt
+kj_97336,6,pd nc pf tt oc tt
+kj_45542,11,pc qe tt od oc nd mc tt qh oh pj
+kj_24766,8,pc pe qg qc qd pd qe qf
+kj_79091,8,pc tt pf qh tt oh qg rh
+kj_57307,8,pd tt nc md jd nd mc lc
+kj_62043,6,pc qe nd tt qi jd
+kj_82181,12,pd qc pc qd qf qe pe rf qb rb re pb
+kj_38275,11,pd nc oc nd pf kd tt qh ph pi oh
+kj_69519,6,pd nc qf pg qg pi
+kj_89779,10,pc pe qe qf qd pf nd pj ql tt
+kj_34254,8,qc pd pc nd od oe oc le
+kj_88227,6,pd nc tt oe qf pg
+kj_79094,15,pd nc tt qc pc qd pe pb ob qb nb qf mc tt og
+kj_98589,8,pc qe tt od oc nd mb qh
+kj_74373,8,pc tt qe pf qf oc pd ne
+kj_95659,7,pc qe nd pi qi qh ph
+kj_54764,13,pc qe od tt qh tt pf qc qb rb rc qd ra
+kj_56544,8,pc tt pe tt ph oc od nc
+kj_99211,7,pd tt nc md mc kd qf
+kj_75914,6,pd tt nc md nd mf
+kj_38884,16,pd qc pc qd pe rf tt lc hc ic ib jb hb id hd ie
+kj_90509,13,pd pc qc oc qd lc kc kb jb lb kd ld ke
+kj_20686,10,pd qc pc qd pe rf qb qg tt rb
+kj_15013,6,pd nc qf tt ld ne
+kj_44331,13,pc tt pf qh qj qd pd qf qe re pe rg rd
+kj_29298,6,pc pe qg qc mc pd
+kj_59048,8,pc tt pf qh qj oh qg qi
+kj_29298,6,pc pe qg qc mc pd
+kj_74233,27,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of oe ph nd
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_60933,8,pd tt nc md tt mc nd ic
+kj_53435,6,pc tt pe qg tt og
+kj_90197,18,pc pe qe qf qd pf tt oc ob nb od nc pd me ne mf nf nd
+kj_61591,11,pd nc tt qf pf pg of qe qd kc jd
+kj_13510,9,pc qe tt od oc md nd ne nc
+kj_29189,14,pd qc pc qd qf rf tt qg pf rh pg ph oh pi
+kj_60137,6,qc pd pc od tt qd
+kj_58172,8,pd qc pc qd pe rf tt ph
+kj_89838,8,pd qc pc qd pe qf og rg
+kj_63457,9,pd qc pc qd pe rf tt ld jc
+kj_12251,9,pd nc oc nd pf re qc qh kd
+kj_65891,8,pc pe qe qf qd pf nc me
+kj_85947,14,pd qc pc qd qf qe pe rf qg rg qh pk tt of
+kj_58375,8,pd nc pf oe pe pb le lc
+kj_09589,7,pc tt qf tt kd tt kg
+kj_49169,23,pc qe tt od oc nd mb tt ph lc mc md ld kc le jd nf pd qc og je ie jf
+kj_39385,15,pd qc pc qd qf rf qg rg qh tt qe re pb qb tt
+kj_79344,12,pd qc pc qd qe re rf qf pe rg rd sf
+kj_88783,12,pd nc qf pc qc qb oc pb od ob rc nd
+kj_53303,6,pc pe qe qf qd pg
+kj_83290,10,pc tt pe pf of qe qf pg qg qh
+kj_27643,7,pd tt nc qi tt qf tt
+kj_67521,7,pc qe nd tt qi tt qd
+kj_85254,6,pc tt qe pf pe nf
+kj_21957,25,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg tt pk qj qk
+kj_11634,11,pc qe od tt qh pf rd nf og me lc
+kj_45246,11,pc tt pf tt ld qd pd lc kd tt kc
+kj_58526,8,pd tt nc md tt mc nd jc
+kj_56080,11,pc qe tt od oc nd mb tt pg tt of
+kj_49728,11,pc qe tt od oc nd mb tt pg qi rg
+kj_13960,9,pd tt nc md tt mc nd ic tt
+kj_86578,14,pc qe od tt pf qc qb rb qd rc pe pb ob qa
+kj_19775,12,pc qe tt od oc nd mc nc nb mb lb md
+kj_93854,7,pd tt nc md nd tt me
+kj_55125,7,pd tt nc tt qi tt oi
+kj_92301,16,pd tt nc re rd qd qe qc rc pe qf pc od rf rb qg
+kj_67153,8,pd nc oc nd pf kd tt qh
+kj_29812,7,pd nc oc nd pf kd jc
+kj_20616,13,pc tt pe oc od nc pb nd ne me nf mf ng
+kj_83121,6,pc tt pf lc nc qd
+kj_06459,11,pc pe qe qf qd pf nc tt mf pi tt
+kj_57330,7,pc qe qd pe nc qi qk
+kj_92555,9,pc pe qe qf qd pf nc qj tt
+kj_82210,9,pd nc lc qf nd qc oc qd tt
+kj_07023,7,pc qe nd tt qg pg qh
+kj_98221,12,pd qc pc qd pe rf tt lc qf rg ld kc
+kj_08440,12,pc pe qe qf qd pg pj nd oe od pd pf
+kj_67552,10,pc pe qe qf qd pf nc tt ph me
+kj_66875,9,pd nc oc nd qf tt nb mb ob
+kj_56283,16,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt
+kj_14490,16,pd qc pc qd pe qf tt rg pf pg og ph oh oi ni tt
+kj_56610,10,pc tt pf qh qj oh qg od pd rg
+kj_00371,8,pc tt qi tt pe tt pi tt
+kj_93974,8,pc qe tt od oc nd mc le
+kj_56876,8,pd qc pc qd pe qe qf rf
+kj_12575,16,pd nc lc qc pc qd pe pb ob qb nb qf tt kd kc jd
+kj_95639,16,pd qc pc qd qf qe pe rf qb rb re rd rg se pg tt
+kj_35483,10,pd qc pc qd qf rf pe rg tt kd
+kj_26037,6,pc tt pe mc kc kd
+kj_16736,21,pc qe tt od oc nd mc md lc ld kd nc nb ob pb mb oa kc lb kb ma
+kj_61506,7,pd nc nd md ne ob qc
+kj_59236,7,pc tt pe tt qh qd qc
+kj_77167,11,pc pe qe qf qd pf nc tt ph mf ne
+kj_80891,10,pc pd qd oc pe od qc tt oe md
+kj_18737,19,pc qe tt od oc nd mc tt md me le lf mf ne ke mg kf nf tt
+kj_91372,15,pd qc pc qd qf qe pe rf qg rg qh ld tt of ne
+kj_01707,8,pc tt pf tt lc ld md me
+kj_92559,6,pc qe od qh tt mc
+kj_82433,9,pc pe qe qf qd pf nc tt mf
+kj_41349,8,pc qe qg od oc nd nc md
+kj_65157,6,pd pc qc oc qd mc
+kj_67488,15,pd nc qf pc qc qb oc pb od ob nd md mc nb lc
+kj_05971,7,pd tt nc qi qf tt oi
+kj_67384,21,pd qc pc qd qf rf rg qe pf pe oe of ne pb ob qb og nf me ng oh
+kj_67160,7,pd nc lc ld md mc nd
+kj_16826,6,pc tt pe kc mc tt
+kj_54212,27,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg
+kj_24248,10,pd tt nc qf qh tt oh qd qc rc
+kj_60414,7,pc qe qd pe nc tt pi
+kj_57865,16,pd qc pc qd qf qe pe rf qb rb re rd rg pf sf qg
+kj_92603,10,pc qe tt od oc nd mc md tt nc
+kj_81954,9,pc qe tt od oc nd mc tt md
+kj_81590,11,pd qc pc qd pe qe qf rf qg rg qh
+kj_54544,9,pd nc oc nd pf jd lb mb ld
+kj_92114,15,pc tt pe oc od nc pb nd ne me nf mf mg ng mh
+kj_36701,6,pd nc qf tt lc pg
+kj_99257,6,pc qe pg tt pe qf
+kj_83164,6,pc qe od qh qj tt
+kj_11146,13,pd nc tt qf pf pg of qc qe qg pc pb og
+kj_77784,6,pd pc oc od qc pb
+kj_66713,6,pd nc pf oe pe pb
+kj_48718,14,pd qc pc qd qf rf qg rg qh qe pe ld tt of
+kj_84418,8,pc pd qd oc qc od pf kd
+kj_21799,7,pc qe tt nc oc nd pe
+kj_51238,6,pd tt nc tt kc kb
+kj_05170,16,pc qe tt od oc nd mc tt qg tt of md lc ld kd ke
+kj_40896,6,pc qe od tt pf pj
+kj_52779,6,pc tt pe pf qe nf
+kj_67450,14,pd nc tt qf pf pg of qc qe pc qg qj qh qm
+kj_78580,9,pc qe nd pi tt lc tt le of
+kj_85488,8,pd nc qf tt oc nd jd ng
+kj_32031,11,pc tt qf pf pg qe pe of oe qg rf
+kj_39005,8,pd tt kc qc pc qd pe rf
+kj_56414,8,pc qe tt od oc nd mc qi
+kj_33623,7,pc qe od pi pf qf pg
+kj_69893,6,qc tt kc pd qd pe
+kj_21763,9,pc qe ph od pd pe oe oc pb
+kj_34937,20,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd tt ng mg
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_93319,10,pd qc pc qd qf qe pe rf tt mc
+kj_52893,19,pd qc pc qd pe rf qb rb re qe qf rd rg pf sf pb pg of nc
+kj_50348,12,pd nc qf tt lc ld kd ke kc md tt pg
+kj_52853,12,pd qc pc qd qf rf qg rg qh qe pe le
+kj_11634,11,pc qe od tt qh pf rd nf og me lc
+kj_30421,7,pc tt qe pf qf oc tt
+kj_68153,7,pd tt nc md mf mc nb
+kj_26697,14,pc qe tt nd od oe nc md mc ld lc kd tt kc
+kj_53753,14,pd qc pc qd qf qe pe rf qg rg qh rh qi tt
+kj_85766,8,pc pd oc qd qc rc od pf
+kj_30031,6,pc tt qf qh tt lc
+kj_82486,15,pd tt nc qf qe pf tt mf tt od oc qc pc re qd
+kj_59052,15,pd qc pc qd pe qe qf rf tt qg pf qb tt mc le
+kj_81689,10,pc qe nd tt qi qk qd rd rc ne
+kj_87424,8,pc qe tt od oc nd mb rc
+kj_82486,15,pd tt nc qf qe pf tt mf tt od oc qc pc re qd
+kj_59052,15,pd qc pc qd pe qe qf rf tt qg pf qb tt mc le
+kj_81689,10,pc qe nd tt qi qk qd rd rc ne
+kj_87424,8,pc qe tt od oc nd mb rc
+kj_97441,12,pd qc pc qd pe rf tt ld tt lf qf rg
+kj_30569,10,pd qc pc qd pe rf tt ld mf qg
+kj_46770,8,pd tt nc md nd tt qg mc
+kj_90811,7,pd qc pc qd qf qe pe
+kj_81476,15,pc tt qf pd qd oc pe od pb qc ob mc rc jd tt
+kj_36076,12,pc qe tt od oc nd mc tt qg og pi tt
+kj_94569,8,pc tt qe pf qf oc pd lc
+kj_55784,6,pc qe od qh tt og
+kj_51460,9,pd tt nc qf qe pf tt mf md
+kj_40662,7,pd tt nc tt qf tt kc
+kj_92110,7,pc qe nd tt qi ne me
+kj_51498,6,pd nc qf tt pb ne
+kj_34863,11,pd tt md qc qd pc nc rd re rc qf
+kj_65472,10,pd nc lc pf nd qc qd pc od nb
+kj_33271,6,pc tt pe tt mc qg
+kj_53303,6,pc pe qe qf qd pg
+kj_70215,13,pc tt pf qh ph pi oh rg rf qf qe qg re
+kj_03923,8,pd tt nc md nd mf id tt
+kj_66621,7,pc qe tt od oc nd mb
+kj_92112,15,pd qc pc qd qf qe pe rf tt qg pf qb oh tt pb
+kj_78637,12,pc qe qh od oc nd mb og oh nh oi ni
+kj_77852,13,pd qc pc qd qf qe pe rf tt qg pf qb oi
+kj_47617,7,pd nc qf tt kc kd tt
+kj_98361,15,pd nc tt qf pf pg of qe qd kc oc nd pe tt jd
+kj_84611,12,pd qc pc qd qf rf rg re pg pb ob qb
+kj_52007,11,pd nc nd md ne ob pb pc qc oc qb
+kj_39304,8,pc qe od tt qh qk tt oe
+kj_79776,18,pc tt pe pf qf qg pg of qh rg qe ph og qi oh rh nf oi
+kj_36916,12,pd qc pc qd pe rf qg qf pf pb ob qb
+kj_51792,12,pc qe od tt qh pf oh rc of pg ph qb
+kj_56462,8,pd qc pc qd pe qf tt rg
+kj_32750,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf kc
+kj_63023,10,pc pe qe qf qd pf nc tt pi me
+kj_21924,7,pc tt qf tt ld tt lf
+kj_59050,14,pd qc pc qd qe re rf qf pe rg rd sf rc pf
+kj_71532,10,pc qe qi od oc nd nc md lc tt
+kj_63539,8,pc tt qe oc od nc pb tt
+kj_68867,7,pc qe qd pe nc pi tt
+kj_05026,18,pd qc pc qd qf qe pe rf tt kd qb rb re rd rg pf qg of
+kj_07713,15,pd nc tt qf pf pg of qd qc qe pc md kc le id
+kj_04133,7,pc tt pe qg pg ph qh
+kj_70439,7,pc tt pe pf qf qg qe
+kj_66913,20,pc tt pf qh tt pd od qc qd pe qe oe oc of pg qf rc rf qb nh
+kj_42543,13,pd nc tt qf pf pg of qe qd kc tt ob pb
+kj_66621,7,pc qe tt od oc nd mb
+kj_47216,26,pd qc pc qd qf qe pe rf tt kd tt pf qg rg of pg qh ph qi pi tt me qb rb ob qa
+kj_81155,6,pd qc pc qd pe rf
+kj_11885,6,pd kc kd ld le md
+kj_00066,19,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of tt nd nc
+kj_71458,10,pd qc pc qd qf rf qg rg qh pk
+kj_74874,7,pc qe qd pe nc pi oj
+kj_54642,6,pc qe qd pe nd tt
+kj_85666,10,pc pe qe qf qd pf nd pj tt qm
+kj_60680,10,pd qc pc qd pe rf qf rg lc ld
+kj_33171,11,pc pe qe pd qd oc pb pf qf pg qg
+kj_89785,9,pc pe qe qf qd pf nd pj ql
+kj_68496,8,pc qe od tt qh pf tt rc
+kj_93686,6,pd nc tt ld tt qf
+kj_90035,14,pd nc tt qf pf pg of qe qd md ob oc pb mf
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_72709,7,pd tt nc mc md lc ld
+kj_62065,9,pc pd qd oc pe od qc oe pf
+kj_64332,8,pd nc oc nd pf tt kc ke
+kj_95036,8,pd qc pc qd pe rf lc ke
+kj_63524,6,pd tt nc tt qi lc
+kj_66930,18,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb ob tt
+kj_15511,13,pc qe tt od oc nd mc tt ph tt of md lc
+kj_60012,12,pd qc pc qd pe qe qf rf qg rg qh ql
+kj_09365,8,pd tt nc qf qe pf ph me
+kj_04366,7,pc tt pe qf qh pf qe
+kj_94715,10,pc pe qe qf qd pf nc pj tt mj
+kj_66913,20,pc tt pf qh tt pd od qc qd pe qe oe oc of pg qf rc rf qb nh
+kj_45725,12,pc qe qd pe nc pi tt od oc tt qk tt
+kj_39858,6,pc qe nd tt pf qg
+kj_08019,21,pd qc pc qd pe qe qf rf tt kd tt pf qg rg of pg qh ph qi pi tt
+kj_65478,8,pd qc pc qd pe rf tt qi
+kj_55960,7,pc tt pe tt pi tt ni
+kj_08885,7,pd qc pc qd pe rf ng
+kj_87755,7,pc pe qg qc qb qd ob
+kj_51867,6,pc pd qc od nc qd
+kj_57022,15,pd tt nc re qe rd qg pc qc qd pb pe oc qf rg
+kj_89008,13,pd qc pc qd pe qf qe re qb pf rb nf qj
+kj_86836,6,pd tt nc qg qe md
+kj_02126,9,pd qc pc qd qf rf pe rg kc
+kj_66290,9,pc qe od qh tt lc qd pe nc
+kj_85371,8,pc qe pg oe nd pi ng qg
+kj_06200,38,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc qb re qh rb ra rc le md mb lb nb kc sd sb sf se sg ma na la
+kj_87410,11,pd nc nd md ne pc qc oc qd ld tt
+kj_95819,11,pd qc pc qd pe rf qb tt re tt qf
+kj_58766,7,pc tt pe tt lc qg qi
+kj_68133,7,pc tt pe pf oe qf qe
+kj_97634,7,pd nc pf tt oc nd qh
+kj_87337,9,pc qe qd pe nc pi qk tt qh
+kj_32907,9,pd nc qf tt oc nd kc tt ke
+kj_34725,9,pc qe od qh qj tt qd re rd
+kj_91020,11,pc qe od tt qh pf oh rc tt oe nd
+kj_22364,9,pc qe qd pe nc pi qk tt qi
+kj_80618,8,pd tt nc qf pi qd qc rc
+kj_05686,7,pc tt pf tt mc qh tt
+kj_83775,22,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh ng nh mg mh lg lh
+kj_32113,7,pc tt qe qf pf qg re
+kj_65211,6,pc qe od qh tt pk
+kj_41374,22,pd qc pc qd qf qe pe rf qb rb re rd rg tt sf pb tt pf pg of nc kd
+kj_80296,17,pc qe tt od qd rd pe pd qc rf qf re oc pf tt nd mc
+kj_19757,12,pc qe qd pe nc pi tt pm qm ql rm rl
+kj_88557,10,pd nc tt qf pf pg of qe qd ob
+kj_94020,10,pd tt nc qf qe tt pf mc mb nb
+kj_56655,9,pc qe qi od oc nd mb tt qg
+kj_67026,9,pd tt nc qf qe pf tt qi pi
+kj_74173,8,pc qe od tt qh oe ne of
+kj_37734,6,pc qe nd le tt lc
+kj_18673,32,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf lf mg lg mh lh qh
+kj_52535,8,pd nc tt qf nd md ne pc
+kj_67048,6,pd nc lc ne pf jd
+kj_14890,13,pd qc pc qd pe rf qf rg qb rb pb qe ld
+kj_80595,12,pc tt pf qh tt pd od qd qc rc nc re
+kj_34337,11,pd qc pc qd pe rf tt qg kd ke le
+kj_05768,11,pc pe qe qf qd pf nc pj qk qj pk
+kj_80182,23,pd nc pf oe oc pe qe qf qg rf qd od ob qh og rg nd ne md me ld le kd
+kj_83772,13,pd nc tt qc pc qd pe pb ob qb nb qf mc
+kj_68431,6,pc tt pe qg tt pj
+kj_84605,12,pd qc pc qd pe rf tt qg tt ld qb rb
+kj_67531,6,pc qe od pg qd pe
+kj_66219,12,pd qc pc qd qf qe pe rf qg rg qh kc
+kj_39947,10,pc pe qe qf qd pf nc qj ql tt
+kj_92279,9,pc qe nd tt qi tt qd rd rc
+kj_93854,7,pd tt nc md nd tt me
+kj_84139,10,pc pe qe qf qd pf nc pj ql ol
+kj_69616,7,pc qe qd pe nc tt ph
+kj_83857,6,pd nc lc ne pg le
+kj_25047,17,pd nc tt qf pf pg of qc pc qd qg qe ph pe oe od pb
+kj_84160,14,pd nc tt qf nd md ne oc pc qi qe pf od pk
+kj_88564,11,pc qe od tt qh pf oh nf ld rc tt
+kj_97640,8,pc pe qe qf qd pg nd tt
+kj_69035,11,pc qe pg oe nd pj ng ne md me ld
+kj_81155,6,pd qc pc qd pe rf
+kj_32541,10,pd nc pf oe pe pb lb mb lc qc
+kj_29226,9,pc qe qd pe nc tt qi me tt
+kj_33977,8,pd tt nc qf qe pf oi mf
+kj_50872,6,pc tt pf tt kd qh
+kj_66189,11,pc pe qe qf qd pf nc pj pl tt ph
+kj_82401,10,pd qc pc qd pe qe pf qf qg tt
+kj_59294,8,pd nc oc nd pf tt jd hc
+kj_52219,6,pc tt pf tt ld tt
+kj_92555,9,pc pe qe qf qd pf nc qj tt
+kj_64407,9,pd qc pc qd pe rf tt lc ic
+kj_00984,6,pc tt qi pd qd pi
+kj_13606,11,pd nc tt pf of og nf ng mf qg kc
+kj_59890,8,pd nc ob nb oc nd kc kd
+kj_02214,14,pd nc tt qf nd md ne pc qc oc qd pg kd ld
+kj_85689,9,pc tt pe tt qh oc od nc pb
+kj_92105,6,pd tt nc qf pg pf
+kj_36569,6,pc pd oc qd qc ne
+kj_85769,8,pc pe qe qf qd tt pf qg
+kj_68982,7,pc tt pf qh tt ql qj
+kj_91571,7,pc qe pi od oc nd mb
+kj_83644,6,pd nc lc ne pf jc
+kj_69384,9,pd tt nc qf qe pf qj mf md
+kj_66392,8,pc qe tt mc od me pf qg
+kj_76008,6,pc tt pf qh qj pj
+kj_96323,17,pd qc pc qd qe re rf qf pe rg rd sf rc qb rb tt og
+kj_65396,12,pd nc qf pc qc qb rc od pb oc rb kd
+kj_85551,9,pd tt nc qf qe pf tt me qh
+kj_52243,7,pc qe od qh qj tt ql
+kj_45502,11,pc pe qe qf qd pf nc pj pl tt nl
+kj_90685,7,pc qe od tt pf qg kd
+kj_51530,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt oe nd
+kj_69704,13,pd qc pc qd qf rf pe rg tt qb tt ld ph
+kj_63542,7,pd tt mc ne ld qf qh
+kj_49309,9,pd nc oc nd pf jd tt qh qg
+kj_38089,7,pc tt qe pf tt pe qf
+kj_62149,7,pc qe qd pe nc qi pi
+kj_52147,6,pd nc kc tt ke qf
+kj_17505,14,pd qc pc qd pe qe pf qf qg pg qh qb og ph
+kj_88004,9,pc pe qe qf qd pf nc pj oj
+kj_71483,9,pc qe qi od oc nd nc md lc
+kj_27147,17,pd qc pc qd qf qe pe rf tt kd qg rg qh of md pf oh
+kj_97037,12,pd qc pc qd pe rf tt kd tt qg tt mc
+kj_76523,6,pc tt pe pf qe lc
+kj_62227,9,pd tt mc ld md lc le ke kd
+kj_92662,9,pd nc oc nd pf jd tt qh rg
+kj_40721,6,pc tt qe oc pd ld
+kj_97708,12,pd qc pc qd pe qf tt rg tt ld og mf
+kj_59545,11,pd nc pg qc pc qd pe pb ob qb nb
+kj_52515,9,pd nc tt qc qd pc od rc ph
+kj_98944,7,pd tt nc qf qe pf ne
+kj_62192,12,pd nc oc nd pf jd tt qh ph pi oh rg
+kj_51165,8,pc tt pe tt qh qd pd rf
+kj_69821,6,pc tt qe pf pe qf
+kj_76110,14,pd qc pc qd qe re rf qf pe rg rd sf rc rk
+kj_88013,11,pd qc pc qd qf rf qg rg qh tt lc
+kj_87879,11,pc pe qe qf qd pf nc pj ql tt ph
+kj_69285,10,pc pe qe qf qd pf nc pd qc pj
+kj_32525,8,pd tt kc kd lc ld md mc
+kj_65837,21,pc qe tt od oc nd mc md lc ld kd ke je nc nb ob mb qc pb kf tt
+kj_72446,14,pc qe tt od qd rd rc pd qc oc re rf sd pf
+kj_22096,8,pc qe qd pe nc pi qk qj
+kj_08755,8,pd nc nd md ne ob qc qi
+kj_61133,13,pc pe qe qf qd pf nc pj ql tt ok tt ph
+kj_51223,6,pd tt nc lc tt qf
+kj_23279,6,pd tt nc tt qg kd
+kj_74505,14,pd nc tt qf pf pg of qe qd md oc ob nd nb
+kj_78697,12,pd nc tt qf nd md ne oc pc rd pf qg
+kj_51530,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt oe nd
+kj_76245,9,pd qc pc qd qf rf pe rg ph
+kj_58198,6,pc tt qf tt pi og
+kj_51414,13,pd qc pc qd qf qe pe rf qg rg qh ld lf
+kj_96075,13,pd nc qf pc qc qb rc od pb oc rb tt kd
+kj_90844,9,pc qe qd pe nc pi pk tt nk
+kj_66621,7,pc qe tt od oc nd mb
+kj_00707,20,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh nh ob qa
+kj_29144,9,pc qe tt od oc nd mc qh qd
+kj_95434,16,pc tt pf lc tt pd qd qc qe pb oc ob nc nb rc qb
+kj_93134,14,pd nc qf pc qc qb oc pb od ob me tt rc ld
+kj_52689,10,pd nc tt qf pf pg of qe qd lc
+kj_26677,26,pc qe nd pi tt lc qh ph pg og pf qc pd pe of oe ne nf ng mf oh od oc nc qd rf
+kj_60414,7,pc qe qd pe nc tt pi
+kj_77245,6,pc tt pf tt qi tt
+kj_90590,6,pd tt nc qf tt qi
+kj_78612,10,pd tt nc qi tt qf qe pf pi ph
+kj_46858,8,pc qe pi od oc nd mb tt
+kj_05156,7,pd nc kc ne pf pb qc
+kj_84737,6,pc tt pf tt qh nc
+kj_78178,23,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf tt md
+kj_95574,17,pd nc pf oe pe pb lb mc qb qc pc rb ob qa oc rd kd
+kj_12036,6,pd tt nd lc jc le
+kj_81714,20,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh mf ld qj
+kj_66498,9,pd qc pc qd pe rf tt lc mf
+kj_38274,6,pd nc qf tt jc ie
+kj_93755,12,pd qc pc qd pe rf tt qg tt ld tt nc
+kj_77653,7,pd tt nc tt qf tt jc
+kj_96907,6,pc qe od qh qd pe
+kj_56270,6,pc tt qf nc lc qc
+kj_24457,14,pc tt pf qh qj oh qg rg rf od oc pg qf of
+kj_46539,8,pd nc oc nd pf jc jd kd
+kj_83361,7,pc pe qe qf qd pg nd
+kj_74953,6,pc qe od ph tt kc
+kj_41538,14,pd qc pc qd pe rf qg tt qf rg rh qe qh qb
+kj_55159,8,pd nc lc ne pf kd oc nb
+kj_71856,6,pc qe od qh tt lc
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_66408,6,pc tt qe pf pe tt
+kj_53559,6,pc qe qg tt pf tt
+kj_10935,10,pc tt qf nc tt qc qd qb pd pb
+kj_63640,7,pc tt pe tt qg od pd
+kj_93905,6,pc pe qh md oh nc
+kj_49757,6,pc qe od qh kd me
+kj_52823,26,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg nd nc ne lc
+kj_56040,8,pc tt qe pf qf oc pd kc
+kj_31826,10,pc qe tt od oc nd mc tt qi qj
+kj_89166,9,pc pe qe qf qd pf nc tt qj
+kj_42281,9,pd nc lc ne pf jc md nd mf
+kj_68782,19,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt qi oi
+kj_54768,7,pc qe od tt qh tt pf
+kj_57531,10,pc pe qe qf qd pf nc pj ql tt
+kj_51989,9,pc qe nd pi tt lc qd pe mc
+kj_99629,6,pc tt pf qh lc tt
+kj_69480,18,pc qe qh od pd pe oe nd of rd rf rb ob mc rc qg pg qb
+kj_89166,9,pc pe qe qf qd pf nc tt qj
+kj_55351,7,pc qe od tt pf tt qg
+kj_58423,7,pd tt nc re qf rf qd
+kj_99065,16,pc pe qe qf qd pf tt oc ob nb od nc pd me of ph
+kj_94466,14,pd qc pc qd qf qe pe rf tt qg pf rh tt kd
+kj_53547,9,pc pe qe qf qd pf nc qi tt
+kj_39182,9,pd tt nc qf qe pf nf pi tt
+kj_53303,6,pc pe qe qf qd pg
+kj_89166,9,pc pe qe qf qd pf nc tt qj
+kj_57181,9,pd tt mc ld md lf me le kb
+kj_63525,6,pd nc tt ne pf tt
+kj_02218,6,qc pd pc od re oc
+kj_55522,12,pd nc tt qf pf pg of qd qc qe pc tt
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_74005,7,pc qe qh tt pf tt pe
+kj_97744,10,pc pe qe qf qd pf nc pj tt pm
+kj_16411,8,pc qe nd qc tt pd oc qb
+kj_84833,6,pc tt pf nc tt ld
+kj_73400,10,pd nc pf oe pe pb tt ph tt nh
+kj_70123,8,qc pd pc od tt qd oc nc
+kj_87277,8,pc qe od tt qh pf rd me
+kj_86850,13,pd nc qf pc qc qb rb ob qa od pb pe qd
+kj_61408,7,pc tt qf kd tt nc tt
+kj_40555,6,pc qe od ph tt ld
+kj_48352,6,pd tt nc qf qi of
+kj_77412,14,pd nc lc qc pc qd pe pb ob qb nb qf tt kd
+kj_41537,6,pd nc qf tt pb tt
+kj_66242,14,pc tt qf pd qd oc pe od pb qc ob mc rc jc
+kj_90926,12,pd nc qf pc qc qb rb pb qd kd tt ne
+kj_51562,7,pc qe nd tt qh tt pk
+kj_07964,7,pc tt qe pf nf qf pe
+kj_23753,6,pc tt qe pf rg oc
+kj_56762,17,pd nc qf pc qc qb oc pb od ob nd mc md ld lc lb kc
+kj_60965,6,pd qc pc qd pe qf
+kj_89348,14,pd qc pc qd pe qe qf rf tt qg pf qb tt ob
+kj_51969,12,pd qc pc qd qf rf qg rg qe re qh oe
+kj_65994,9,pc tt qf tt lc oe pd ld md
+kj_61228,8,pc qe od qh tt mc qd pe
+kj_32214,12,pd nc jc qf pf pg of qc qe qg pc pb
+kj_51695,9,pc pe qe qf qd pf nc pj pm
+kj_95934,6,pc tt qf tt mc qj
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_35696,10,pd nc pf oe pe pb tt qc le tt
+kj_96091,11,pd nc qf pc qc qb rc od pb oc rb
+kj_27372,8,pc qe qd pe nc od oc me
+kj_71659,8,pc qe pg oe nd pj ql ld
+kj_37787,11,pc tt pf qh tt oh tt pd qc nd qd
+kj_80551,6,pc tt qf tt pi tt
+kj_35334,6,pd nc qf jc tt ne
+kj_49282,10,pc qe tt od oc nd mc tt pi ni
+kj_50214,6,pc qe od lc pf qg
+kj_81714,20,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh mf ld qj
+kj_66498,9,pd qc pc qd pe rf tt lc mf
+kj_38274,6,pd nc qf tt jc ie
+kj_51530,17,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt oe nd
+kj_69704,13,pd qc pc qd qf rf pe rg tt qb tt ld ph
+kj_63542,7,pd tt mc ne ld qf qh
+kj_57531,10,pc pe qe qf qd pf nc pj ql tt
+kj_51989,9,pc qe nd pi tt lc qd pe mc
+kj_99629,6,pc tt pf qh lc tt
+kj_92301,16,pd tt nc re rd qd qe qc rc pe qf pc od rf rb qg
+kj_67153,8,pd nc oc nd pf kd tt qh
+kj_29812,7,pd nc oc nd pf kd jc
+kj_83775,22,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh ng nh mg mh lg lh
+kj_32113,7,pc tt qe qf pf qg re
+kj_65211,6,pc qe od qh tt pk
+kj_33169,15,pd nc tt qf pf pg of qc qe pc qg tt lc md ld
+kj_82593,13,pc tt pf qh tt pd od qc qd pe qe oe oc
+kj_72396,13,pd nc lc qf nd qc qd pc od nb rd rc qh
+kj_08529,10,pc pe qe qf qd pf nc tt ni mf
+kj_29390,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt ic
+kj_50748,13,pd nc qf pc qc qb oc pb od ob rc lc kc
+kj_32845,9,pc qe qd pe nc tt qi mf ne
+kj_96083,12,pd nc qf pc qc qb rc od pb oc rb tt
+kj_39947,10,pc pe qe qf qd pf nc qj ql tt
+kj_79034,9,pc qe tt od oc nd mc qh tt
+kj_28572,6,pc tt qf qh tt oi
+kj_92755,33,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf lf mg kh mi qj jc kd
+kj_25879,14,pd nc tt qf pf pg of qc qe pc qg qj qh tt
+kj_56366,12,pd qc pc qd pe qf tt rg pf pg og ph
+kj_97872,7,pd nc oc nd pf tt jd
+kj_78878,11,pd qc pc qd pe rf qg tt qf rg qi
+kj_85378,9,pc qe od qh tt lc pf qf ld
+kj_46206,7,pc tt qf tt kd kc lc
+kj_96528,22,pd qc pc qd pe qe qf rf tt ld qg rg qh of qb rb rc rd sb sc ra sa
+kj_81357,10,pc qe od tt qh pk tt oe ne of
+kj_90477,14,pd qc pc qd pe qf qb pf tt of tt rb lc nc
+kj_85206,24,pd nc qf pc qc qb oc pb nd ob od mc md ld lc lb kc kd kb jc jb ic ib hc
+kj_23687,10,pd qc pc qd pe rf qg qf pf qk
+kj_88893,6,pc tt pf tt lc nc
+kj_49309,9,pd nc oc nd pf jd tt qh qg
+kj_38089,7,pc tt qe pf tt pe qf
+kj_62149,7,pc qe qd pe nc qi pi
+kj_52147,6,pd nc kc tt ke qf
+kj_96406,15,pd tt nc qf tt qd qc rc qe rd pe re pf qg tt
+kj_91224,10,pd qc pc qd pe rf tt lc kd ld
+kj_94138,10,pd nc oc nd pf jd tt qh qj oh
+kj_66189,11,pc pe qe qf qd pf nc pj pl tt ph
+kj_12916,7,pc tt pf tt ld qh tt
+kj_56476,6,pc pe nd qc qb qd
+kj_11037,8,pc tt qf lc ke le lf me
+kj_80643,7,pd qc pc qd pe rf qg
+kj_84923,7,pc tt pe tt ph qd qe
+kj_74597,6,pd tt nc tt kd tt
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_31020,7,pc qe nd tt qg lc og
+kj_49655,9,pc pe qe qf qd pf nd pj ol
+kj_87179,8,pc pe qe qf qd pf nd le
+kj_26013,7,pc tt pe pf oe qf ng
+kj_37787,11,pc tt pf qh tt oh tt pd qc nd qd
+kj_80551,6,pc tt qf tt pi tt
+kj_35334,6,pd nc qf jc tt ne
+kj_49282,10,pc qe tt od oc nd mc tt pi ni
+kj_50214,6,pc qe od lc pf qg
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_34137,9,pc tt qe pf tt qf pe of md
+kj_51557,7,pc qe nd lc jc le nf
+kj_22094,10,pc tt qe pf tt qf pe of tt oe
+kj_35385,7,pc qe nd qh tt lc ic
+kj_96134,7,pc tt qf kc mc ke tt
+kj_26260,16,pd nc tt qf nd md ne me oc mc nf qc qd rd mf rb
+kj_77383,6,pc pe qh md nc nd
+kj_56823,17,pc tt qf pd qd oc pe od pb oe of nf og ng nh oh ob
+kj_83389,9,pc qe tt od oc nd mc md lc
+kj_44913,17,pd nc tt qf pf pg of qd qc qe pc md tt mf le me ob
+kj_77332,9,pd qc pc qd pe rf kc kd lc
+kj_30861,8,pd nc qf ne pb pg pf ng
+kj_70992,6,pd pc oc qc od re
+kj_21753,10,pc qe od tt qh pf rd qj oh nf
+kj_34253,7,pc tt qf tt qj ol tt
+kj_20694,6,pc tt qf pi oi pg
+kj_62621,6,pc tt qf tt lc nc
+kj_52083,13,pd nc lc qc pc qd pe pb ob qb nb qf id
+kj_76139,12,pd nc qf pc qc qb rc od pb oc rb pe
+kj_64470,10,pd qc pc qd pe rf tt mc qf rg
+kj_73197,8,pd qc pc qd pe rf tt kd
+kj_56622,7,pc pe qe qf qd pf nc
+kj_27027,6,pd tt lc tt qf nc
+kj_53303,6,pc pe qe qf qd pg
+kj_88972,17,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf
+kj_69984,7,pd tt nc md nd mf jd
+kj_58942,8,pc qe qi od oc nd mc tt
+kj_21694,7,pc qe nd tt qd lc tt
+kj_25556,6,pc qe qd pe nc jc
+kj_92193,12,pd qc pc qd pe rf tt ld oh qg pg pi
+kj_07270,11,pd nc qf tt jc pc qc qb oc pb od
+kj_94621,9,pc qe od qh qj tt qd pe tt
+kj_64296,8,pd tt nc qf qi rd qc pe
+kj_92403,19,pd qc pc qd qf qe pe rf qb rb rg pf qg pb re rd ob qa nd
+kj_11013,8,pc qe od tt qh pf rd pk
+kj_92647,8,pc pe qe qf qd pf nc qj
+kj_03729,15,pc qe tt nd od oe nc md mc ld pe pf pd pg kb
+kj_29929,6,pc qe nd lc jc jd
+kj_90066,25,pc qe tt nd pe pd od qd oc oe pf qc nc ne lc rg ph le mh kc kb ld mb jc jb
+kj_67235,15,pd nc tt qf pf pg of qd qc qe nd pe od lc pb
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_88783,12,pd nc qf pc qc qb oc pb od ob rc nd
+kj_52939,9,pc qe tt od oc nd mc tt qg
+kj_61184,20,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj
+kj_46815,10,pd qc pc qd pe rf tt qg mc md
+kj_56664,9,pc qe od tt qh pf qk rc tt
+kj_96514,8,pc qe nd tt qi ph qh pg
+kj_85096,13,pc qe tt od oc nd mc tt md tt mf tt pg
+kj_69929,11,pc qe tt od oc nd mc tt qg og pi
+kj_29685,7,pc qe tt mc od jd tt
+kj_98850,6,pc qe nd tt jd hd
+kj_93711,13,pd nc tt qf nd md ne pc qc oc qd qi tt
+kj_59105,13,pc qe tt od oc nd mc md lc ld kd ke je
+kj_45346,21,pd qc pc qd qf qe pe rf qb rb rg pf qg pb of tt mh tt ob qa tt
+kj_48972,10,pc qe nd tt pf qc qb qd ob qg
+kj_75834,6,pd tt nc qf tt pi
+kj_71013,6,pc qe nd ph tt lc
+kj_63272,18,pd qc pc qd pe qe qf rf tt pf qg rg qh of oh nh qb rb
+kj_53085,7,pc qe qh od oc nd mb
+kj_10931,9,pd nc qf tt oc nd jc nf ph
+kj_93684,7,pc qe nd tt qg qi og
+kj_96907,6,pc qe od qh qd pe
+kj_53855,7,pd nc qf tt lc tt le
+kj_54212,27,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg
+kj_21957,25,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg tt pk qj qk
+kj_89737,9,pc tt pf tt ld qd pd lc tt
+kj_84215,15,pd qc pc qd pe rf tt qg pg ph oh oi nh pf og
+kj_55956,10,pd qc pc qd pe rf tt qg qe re
+kj_82385,8,pd nc tt qc qd pc od rc
+kj_28866,7,pc qe qd od pe pd qf
+kj_55143,12,pd nc qf pc qc qb oc pb od ob me tt
+kj_70878,12,pd qc pc qd qf rf qg rg qh qe pe kd
+kj_75596,8,pd nc pf oe pe pb pi oi
+kj_87638,9,pd nc qf tt oc nd jc hc lc
+kj_82026,7,pd qc pc qd pe rf lc
+kj_81155,6,pd qc pc qd pe rf
+kj_57260,13,pd qc pc qd qf qe pe rf tt qg pf qb oh
+kj_81707,7,pc qe od tt qi tt pf
+kj_31951,7,pd tt nc tt qg tt kd
+kj_08929,6,pc qe od ph tt rc
+kj_64616,10,pd qc pc qd pe rf tt kd qf rg
+kj_41971,8,pd tt nc tt qh qf oh of
+kj_16538,6,pc tt qf nc tt lc
+kj_81114,6,pc qe nd qi tt lc
+kj_76511,15,pd qc pc qd qf qe pe rf qg rg qh of ld le md
+kj_80818,8,pc qe nd tt qi tt pk tt
+kj_86638,7,pc tt pf qh qk tt pi
+kj_45651,7,pd nc lc tt qg tt ic
+kj_34375,15,pc tt qf pd qd oc pe od pb qc ob mc rc tt kd
+kj_84610,12,pc qe tt od oc nd mc md lc ld kc tt
+kj_87261,10,pc qe nd lc tt qc qb rc pd pf
+kj_07752,18,pd qc pc qd qf qe pe rf tt pf qg rg qh of qb rb oh ng
+kj_98280,15,pd qc pc qd qf rf qg rg qh tt rh pb ob qb pe
+kj_66606,10,pd tt mc ld md lf le ke me kh
+kj_40212,13,pd qc pc qd pe rf tt qg tt ld qb rb tt
+kj_52663,7,pc pe qe qf qd pg tt
+kj_96526,10,pc tt pe pf qe oc od nc pb tt
+kj_28527,8,pc qe qd pe nd ph tt ld
+kj_56848,7,pd qc pc qd pe rf kh
+kj_50679,6,pc tt qf tt pi pe
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_80391,6,pc tt qf nc tt ne
+kj_88027,16,pd qc pc qd qf qe pe rf tt qg pf qb tt ld jc mg
+kj_62125,7,pc tt pe pf of pg qe
+kj_72797,7,pd qc pc qd pe rf rj
+kj_72318,6,pc tt qe tt kd pf
+kj_95308,8,pc qe ph od pd pe oe oc
+kj_15508,9,pd qc pc qd pe rf tt oi pi
+kj_84077,7,pc pe qe qf qd pg pk
+kj_43732,17,pc qe qh od pd pe oe nd of rc nb pg pf qf qg ph ng
+kj_83089,6,pd tt mc md nd me
+kj_91838,6,pc pe ph qc qb qd
+kj_98642,9,pd qc pc qd pe rf kd ke le
+kj_50718,6,pc tt pf kc mc qd
+kj_23674,30,pc tt qf pd od qc qd pe qe oc pb nd oe pf pg of ne qg rg qh me og rh qi qb mg tt rc rb kc
+kj_89633,13,pd nc lc qc pc qd pe pb ob qb nb qf ic
+kj_67986,7,pd tt mc ld md le kb
+kj_84846,13,pd nc lc qc pc qd pe pb ob qb nb qf tt
+kj_61228,8,pc qe od qh tt mc qd pe
+kj_55177,7,pd nc lc tt qc oe pf
+kj_88915,8,pd qc pc qd pe rf qg kd
+kj_45259,7,pd tt nc md id mc nd
+kj_97310,7,pc qe od tt qh qj oh
+kj_68553,6,pd tt nc pi tt qf
+kj_99044,6,pc qe nd tt jd jc
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_89703,9,pd nc kc oe od nd ne me nf
+kj_04069,7,pd tt mc ne ld qh qe
+kj_48482,6,pd tt nc md tt jd
+kj_57968,9,pd qc pc qd pe rf ld le md
+kj_11013,8,pc qe od tt qh pf rd pk
+kj_21863,7,pc qe od qh ql tt qi
+kj_97754,15,pc qe od tt pf qc qb rb qd rc pe pb ob qa tt
+kj_72881,11,pc qe qi od oc nd nc md lc qk qg
+kj_45836,11,pd nc qf pc qc qb rd ob od rc qd
+kj_69508,10,pd qc pc qd pe rf tt qg mc tt
+kj_50665,31,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf lf mg kh qh oh
+kj_86762,8,pd qc pc qd pe rf tt ke
+kj_85174,7,pc pe qe qf qd pf nd
+kj_54628,6,pc qe nd tt kd tt
+kj_86280,21,pd nc tt pf of og nf qc pc qd pe qe qb rb ob qa pa pb pg qf qb
+kj_63377,12,pd qc pc qd qf qe pe rf tt ld qb rb
+kj_42841,8,pd nc lc ld kd md ob ke
+kj_37395,12,pd qc pc qd pe qf qb pf qj nf tt ql
+kj_55989,9,pc tt qi pd qd oc pe od qc
+kj_23835,8,pc tt qf md tt pd od qc
+kj_81155,6,pd qc pc qd pe rf
+kj_71505,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg nd nc
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_59211,6,pd tt kc ld mc ne
+kj_96091,11,pd nc qf pc qc qb rc od pb oc rb
+kj_75722,7,pd tt nc md nd mf tt
+kj_42817,7,pc qe nd pi qh ph qi
+kj_16538,6,pc tt qf nc tt lc
+kj_81602,15,pd qc pc qd qe re rf qf pe rg rd sf rc tt og
+kj_82577,10,pd nc qf pc qc qb rb pb qd kc
+kj_58395,10,pc pe qe qf qd pf nc pj tt mk
+kj_89853,19,pd qc pc qd pe rf qb rb re qe qf pb rc qa rd qb rg pf qg
+kj_89929,10,pd qc pc qd qf rf pe rg tt ld
+kj_71881,11,pc pe qe qf qd pf tt nd tt ob pb
+kj_19719,8,pd tt nc re qf rf rc qh
+kj_60414,7,pc qe qd pe nc tt pi
+kj_79879,6,pc tt qf tt mc qh
+kj_97530,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt ld
+kj_71223,8,pd qc pc qd pe rf lc kc
+kj_92386,21,pd qc pc qd qf rf rg qe pf pe oe od pb nd of qb nb nc mb ob me
+kj_55199,7,pd nc lc ne pf kd oc
+kj_66256,6,pd tt nc tt qf pg
+kj_50298,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt qi
+kj_38527,16,pd nc tt qf pf pg of qe qd og nd md oc ne od ng
+kj_34676,10,pd qc pc qd pe qf pf qe qg rg
+kj_97451,6,pd nc pf ne oc nb
+kj_37667,12,pc qe tt od oc nd nc md mc ld tt qi
+kj_79592,9,pc qe od tt qh pf oh nf ld
+kj_27047,9,pc pe qe qf qd pf nd pj pl
+kj_19417,7,pc qe ph od oc nd mc
+kj_84418,8,pc pd qd oc qc od pf kd
+kj_44682,7,pc tt pe oc tt pb qb
+kj_25283,6,pc qe tt md od qh
+kj_38074,6,pc tt pe qh pi ph
+kj_95453,8,pd tt nc qf qe pf qh oh
+kj_44162,7,pc tt qe pf pe nf pi
+kj_55343,6,pc qe qd pe nc pi
+kj_15654,17,pd qc pc qd pe rf tt kd qf rg tt ph lc kc ld ke le
+kj_46496,11,pc tt pe qg tt oc od nc pb nd pg
+kj_89298,9,pc qe tt mc od me pf qf ph
+kj_56508,13,pc qe pg tt pe qd pd qg qh qf ph qc tt
+kj_40619,10,pd pc qc oc qd lc tt ne pg tt
+kj_38104,8,pc tt pf tt lc tt ke tt
+kj_25638,8,pc tt pe qg qi pi pj ph
+kj_80490,15,pc tt pf qh tt pd qd qe pe od qc qf pg ph nf
+kj_86358,15,pd qc pc qd pe qe pf qf qg pg qh qb ld og pi
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_57420,11,pc pe qe qf qd pf nc pj tt pd qc
+kj_02405,10,pd nc qf tt qi pc qc qb oc pb
+kj_30190,8,pc qe qd pe nc tt pi tt
+kj_63957,7,pc tt pe pf qe qf tt
+kj_73064,7,pc tt pf kd tt nc tt
+kj_71099,19,pc tt qf pd qd oc pe od pb oe of nf og ng ob oh ne pg pf
+kj_80796,12,pc qe tt od oc nd mc md lc tt ke tt
+kj_79152,17,pd qc pc qd qf qe pe rf qg rg qh tt rh pb ob qb tt
+kj_60304,14,pd qc pc qd qf qe pe rf qg rg qh of ng qb
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_59705,8,pd nc oc nd pf jd qi tt
+kj_60298,17,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of ld
+kj_82477,11,pc qe nd tt jd qc qb pb ob pd pa
+kj_56622,7,pc pe qe qf qd pf nc
+kj_57160,6,pd tt mc qd qc pe
+kj_79766,15,pd nc qf pc qc qb oc pb od ob tt nd tt qh ne
+kj_23502,13,pc qe tt od oc nd mc tt qi tt md tt qg
+kj_62267,12,pd nc tt qf pf pg of qe qd og nd oc
+kj_55351,7,pc qe od tt pf tt qg
+kj_98626,22,pc qe tt od oc nd mc md lc ld kd ke je nc nb ob mb qc pb jd kc kf
+kj_53756,13,pd qc pc qd qf qe pe rf qg rg qh rh qi
+kj_33776,8,pc qe qd od oc nd re nc
+kj_45846,14,pd qc pc qd pe qe qf pf qg pb ob qb nc oe
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_65478,8,pd qc pc qd pe rf tt qi
+kj_15406,6,pd nc ld ne pf jd
+kj_65893,13,pd qc pc qd qf qe pe rf tt kd qg rg qh
+kj_86031,11,pc pe qe qf qd pf nc pj ql pd qc
+kj_89923,6,pc tt qf qh pi ph
+kj_31659,8,pc qe qd pe nc qi qk tt
+kj_96995,8,pd qc pc qd pe rf tt lc
+kj_03923,8,pd tt nc md nd mf id tt
+kj_57870,6,pc tt qf tt kd mc
+kj_01849,14,pc tt pe pf of qe oe qd pg qf qc qg ph qh
+kj_22479,9,pd nc qf tt kc ic ke ie oc
+kj_95209,9,pd qc pc qd pe rf tt qg qi
+kj_32515,7,pc tt pe tt kc tt ke
+kj_68903,21,pd qc pc qd qf qe pe rf rg qg pf rh qb sg rc rd sd re tt ob pb
+kj_21637,8,pc tt pe tt qh qd qe ph
+kj_64485,6,pd tt mc qf tt of
+kj_69051,6,pc qe pg oe nd pj
+kj_74505,14,pd nc tt qf pf pg of qe qd md oc ob nd nb
+kj_85515,14,pd qc pc qd pe rf tt ld qf qe rg qg pf rh
+kj_55527,10,pc pe qe qf qd pf nc pj pl nk
+kj_81155,6,pd qc pc qd pe rf
+kj_01029,24,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me re qb md mc ld nc mf kb
+kj_65920,6,pd tt md tt id tt
+kj_27578,17,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt lf
+kj_07438,15,pc tt pe kd tt oc od nc pb nd ne me nf mf mg
+kj_61184,20,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj
+kj_25348,15,pd qc pc qd pe rf qb rb re pb qe qi ob qa sc
+kj_64913,9,pd qc pc qd qf qe pe rf ld
+kj_46620,10,pd nc tt pf of og nf ng nd mf
+kj_25556,6,pc qe qd pe nc jc
+kj_69077,37,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of oe ph nd me oh pg ne qi mc oc sf md oi
+kj_50865,17,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ob
+kj_82750,12,pd qc pc qd pe rf tt qg tt ld lf nc
+kj_32192,7,pc qe nd qi tt lc tt
+kj_62036,18,pd qc pc qd pe qe qf rf rg qg pf rh qb sg rc rd sd re
+kj_28687,13,pc pe qe qf qd pf nc pj pl ql qm qk tt
+kj_52316,8,pc tt pf tt ld lc mc kc
+kj_94192,7,pc tt qi pd oc qd qc
+kj_72623,17,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt
+kj_57753,12,pd nc tt qf nd md ne oc pc qi qe pf
+kj_26745,10,pd tt md qc qd pc nc rd re rc
+kj_31422,14,pc tt pe pf of qe oe qd pg qf qc qg ph qi
+kj_67922,14,pc qe tt od oc nd mc tt md me le mf lf mg
+kj_55169,7,pc qe od qh qj ql tt
+kj_78747,18,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb tt nb
+kj_92879,7,pd nc qf tt kc ic ke
+kj_61889,14,pd qc pc qd qf qe pe rf qg rg qh tt ke kf
+kj_67521,7,pc qe nd tt qi tt qd
+kj_99263,6,pc tt pe qg qi og
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_86541,6,pc tt qf tt qj pf
+kj_61036,12,pc pe qe qf qd pf nd pj tt lc mc ld
+kj_50010,8,pc qe tt od oc nd nc md
+kj_29688,6,pc qe tt mc od jd
+kj_26258,21,pd qc pc qd pe rf qb rb re qe qf pf qg rd rg of ld kd le ke lf
+kj_72479,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt mc
+kj_88488,12,pd nc jc qf pf pg of qc qe pc qg lc
+kj_49722,8,pd pc oc qc ob qe pe qf
+kj_82065,14,pc qe tt od oc nd mc tt md tt mf tt pg qg
+kj_33001,10,pd nc qf ne pb pg pf og rh qi
+kj_70709,10,pc tt pe oc od nc pb nd le of
+kj_15154,9,pd tt nc qf qh tt qe pf oh
+kj_44358,10,pd tt nc md mc kd ld le lc kf
+kj_91379,8,pc qe qd pe nc pi qk tt
+kj_27727,7,pc qe nd tt qi qk tt
+kj_86040,8,pc qe nd pi tt lc qh ph
+kj_66931,8,pd qc pc qd pe rf tt le
+kj_55305,6,pc qe od lc tt rc
+kj_70293,16,pd tt nc qf tt qd qc rc qe rd pe re qb pf rg rf
+kj_51655,13,pd nc qf pc qc qb oc pb nd ob od mc tt
+kj_51671,12,pd nc qf pc qc qb oc pb nd ob od mc
+kj_02657,7,pc tt qf nc lc qc qd
+kj_91682,7,pc qe nd pi tt lc le
+kj_38023,11,pd nc qf ne tt pg pf og pb tt of
+kj_29554,9,pc tt pf tt pi nc tt qc qd
+kj_42023,7,pc tt qf tt lc le tt
+kj_52183,6,pd nc qf tt kc hc
+kj_72479,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt mc
+kj_74381,12,pd qc pc qd qf qe pe rf tt pf qg rg
+kj_06810,12,pc qe tt od oc nd mc le qg nc nb qc
+kj_46305,10,pc tt qf ng ph pe qe pd qd oc
+kj_73391,7,pc pe qe qf re of pd
+kj_91611,6,pc tt qf tt mc rf
+kj_73701,8,pd qc pc qd pe rf tt qb
+kj_82026,7,pd qc pc qd pe rf lc
+kj_56203,17,pc pe qe qf qd pf tt oc ob nb od nc pd me lc pb qb
+kj_69355,8,pc pd qd oc qc od pf kc
+kj_56762,17,pd nc qf pc qc qb oc pb od ob nd mc md ld lc lb kc
+kj_82018,7,pc qe tt od oc nd mc
+kj_64380,11,pd qc pc qd pe qf qb pf qj nf qm
+kj_39788,9,pc qe od tt qg pg qh pf oi
+kj_80643,7,pd qc pc qd pe rf qg
+kj_57786,7,pd nc qf tt lc tt ic
+kj_53011,14,pd qc pc qd qf qe pe rf tt qg pf rh tt md
+kj_18738,12,pd qc pc qd pe rf tt lc tt hc qb rb
+kj_51687,10,pd nc tt pf of og nf pg nd qc
+kj_96140,11,pc tt pe kd tt oc od nc pb nd tt
+kj_85829,10,pc qe tt od oc nd mc tt ic tt
+kj_52045,10,pc pe qe qf qd pf nc tt pj me
+kj_97544,6,pd tt mc tt qf pg
+kj_89131,18,pd qc pc qd qf qe pe rf qb qg pf rh rc rd sd re qi pg
+kj_23582,7,pc qe od ph tt lc ic
+kj_72064,7,pd pc qc oc qb kc tt
+kj_39947,10,pc pe qe qf qd pf nc qj ql tt
+kj_54817,7,pc qe qg od pd pe oe
+kj_35410,18,pd tt nc qf tt qd qc rc qe rd pf re pe qg tt oh tt ld
+kj_68646,8,pc tt pf qh tt kc tt nc
+kj_68071,8,pc qe nd pi tt lc ph qi
+kj_69692,7,pc qe qd pe nc pi me
+kj_66212,14,pd qc pc qd pe qe qg tt qf pb ob qb nc of
+kj_56622,7,pc pe qe qf qd pf nc
+kj_16045,7,pd tt mc qf qh ne oc
+kj_67353,10,pd qc pc qd qf qe pe rf tt ld
+kj_91833,11,pc tt qf tt pi pe qe pd qd oc pb
+kj_81240,10,pd qc pc qd pe rf tt nc qf qe
+kj_51363,10,pd qc pc qd pe rf tt ld lf jc
+kj_95660,7,pc qe od tt qh tt oh
+kj_58578,13,pc pe qe qf qd pf tt oc ob nb od nc pd
+kj_27833,12,pc pe qh qc qb qd ob pg ph oh oi qg
+kj_58056,11,pd qc pc qd pe rf tt qg tt og tt
+kj_89888,9,pd qc pc qd pe qf og rg tt
+kj_33863,8,pd nc nd md ne ob qc qg
+kj_32015,7,pc tt qi tt pe tt pi
+kj_14374,8,pd nc qf tt kc tt pc pg
+kj_59236,7,pc tt pe tt qh qd qc
+kj_79417,15,pc tt pf qh tt pd od qc qd pe qe oe oc rb qg
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_07127,7,pc tt pe qh ph pg oh
+kj_63543,6,pc tt qe oc od nc
+kj_55795,9,pc pe qe qf qd pf nc tt pi
+kj_65086,6,pd tt kc kd lc ld
+kj_82222,9,pd tt nc qf qe pf pi mf md
+kj_55991,9,pc pe qe qf qd pf nc tt ph
+kj_96385,21,pd qc pc qd pe rf qb rb re qe qf pb rc qa rd qb rg pf qg nc nf
+kj_50298,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt qi
+kj_10676,15,pd qc pc qd qe re rf pb ob oc pe nb qb oa rc
+kj_03781,12,pc pd oc qd qc rc rb re sc tt ne sd
+kj_77676,15,pc tt pe pf qf qg pg of og qe rf nf re ng oi
+kj_57380,6,pc tt pf pd od qc
+kj_96136,6,pc tt pf tt mc qh
+kj_46005,13,pc tt pf qh qk pd od qd qc rc rb re sc
+kj_15361,8,pd tt mc qf pf pg qe of
+kj_35898,8,pd qc pc qd pe rf tt mi
+kj_80643,7,pd qc pc qd pe rf qg
+kj_83361,7,pc pe qe qf qd pg nd
+kj_19167,18,pc qe tt od qd rd pe pd qc rf qf re oc nd mc md lc ld
+kj_43617,8,pd tt nc qf qi tt qe pf
+kj_18373,20,pc qe qh od pd pe oe oc ob md of pb qb qc pa qd pb mc rc rd
+kj_37699,9,pc pe qe qf qd pf nc pj jc
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_24599,21,pc qe tt od oc nd mc md lc ld qd rd rc pd qc tt kd ke je kf jf
+kj_63356,8,pc qe qd pe nc pi pj qi
+kj_77827,7,pd tt nc tt kc kd lc
+kj_89148,19,pd qc pc qd qf rf rg pe qe re pg pb ob qb nc oe nd ne me
+kj_37194,13,pd qc pc qd pe rf qg qf pf pb ob qb nc
+kj_42559,7,pc tt lc pd qd oc qc
+kj_82018,7,pc qe tt od oc nd mc
+kj_58836,6,pc tt qe tt kc kd
+kj_77716,16,pd qc pc qd qe re rf qf pe rg rd sf rc tt og qj
+kj_41260,8,qc pd pc od qd pf nc qe
+kj_51097,10,pd tt nc qf qi qk oi qd qc rc
+kj_78435,9,pd tt nc md nd mf tt qg qe
+kj_25779,7,pc qe od pg qd pe md
+kj_87801,12,pd qc pc qd pe qf qb pf tt nf tt qj
+kj_75984,11,pd nc tt qf pf pg of qe qd kc jc
+kj_58608,8,pd qc pc qd pe rf tt pf
+kj_91920,13,pd tt mc qc qd pc oc ob nb od nc rd re
+kj_54118,7,pc qe od tt qh pf qd
+kj_64731,12,pc qe od tt qh tt pf qc qb rb qd rc
+kj_97179,9,pc tt pf tt pi pd qd qc qe
+kj_75639,9,pc tt pf qh tt oh tt pd qc
+kj_36404,11,pc qe ph tt qd od pd pe oe rd rc
+kj_31766,8,pd tt nc rd qg qc pc rf
+kj_60298,17,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of ld
+kj_49268,16,pd qc pc qd qf rf qg rg qh qe pe tt rh pb ob qb
+kj_00843,13,pc pd qd oc pe od qc oe pf of og ng nh
+kj_62125,7,pc tt pe pf of pg qe
+kj_52899,9,pd nc tt pf of pg og ph pe
+kj_29226,9,pc qe qd pe nc tt qi me tt
+kj_88910,8,pc tt qe pb oc ob qb nc
+kj_68496,8,pc qe od tt qh pf tt rc
+kj_58375,8,pd nc pf oe pe pb le lc
+kj_39724,14,pd qc pc qd qf qe pe rf qg rg qh pk qb rb
+kj_84858,12,pd nc lc qc pc qd pe pb ob qb nb qf
+kj_81155,6,pd qc pc qd pe rf
+kj_11255,6,pc pe qh md oh qc
+kj_02791,17,pc qe tt od oc nd mc tt md me le mf lf mg lg lh mh
+kj_81172,14,pc tt qf pd qd oc pe od pb qc ob mc rc jd
+kj_16406,12,pd pc qc oc qd lc kc kb jb lb kd ne
+kj_18449,12,pd nc qf tt lc ld kd ke kc md le kf
+kj_32044,11,pd nc lc qf nd qc qd pc od oc rd
+kj_28210,6,pc tt qe pf qf tt
+kj_54414,13,pd qc pc qd qf rf qg rg qh qe pe rh qi
+kj_46205,10,pc tt pe pf tt qe oe qd qc of
+kj_29521,6,pd nc jc jd kd ic
+kj_65425,19,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of qj tt ld
+kj_64464,18,pd nc tt qf pf pg of qc qe pc qg tt mc mb lb md lc tt
+kj_87569,18,pd qc pc qd pe rf qb rb re qe qf pf qg rd rg of ob qa
+kj_89501,17,pd nc tt qc pc qd pe pb ob qb nb mc kc qf mb ic id
+kj_69906,10,pc qe tt od oc nd mb tt ph nh
+kj_89690,7,pc tt pf tt qi pi qh
+kj_67961,7,pd nc oc nd pf qh kc
+kj_62515,11,pc pe qh qc qb qd ob nc od pg ph
+kj_81155,6,pd qc pc qd pe rf
+kj_52373,28,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na tt mf jd hc
+kj_17639,9,pd tt nc re qf rf qd qe qh
+kj_69977,7,pd nc oc nd pf qh lc
+kj_70379,6,pc qe nd tt qg tt
+kj_00023,16,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc mf
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_53838,7,pc qe od qh kd tt qj
+kj_70115,7,pd qc pc qd pe rf ld
+kj_53452,7,pc qe nd pi tt oi tt
+kj_86425,6,pc tt qi pe nc tt
+kj_98460,20,pd qc pc qd qf qe pe rf tt qg pf pb ob qb nc pg og oh ng nh
+kj_82228,18,pd qc pc qd qe re rf qf pe rg rd sf rc tt og pi tt ql
+kj_05808,9,pd nc oc nd pf re qg qc nb
+kj_91269,7,pc tt pe qi qg oi tt
+kj_26981,17,pd qc pc qd pe rf tt kd tt qg pg ph qf rh oh pi tt
+kj_20928,14,pc qe od qh pf qf pg ph oh oi nh ni mh mi
+kj_06055,7,pc tt pe tt qi qd pd
+kj_40721,6,pc tt qe oc pd ld
+kj_72747,14,pc qe pg tt pe qf pf qd qg qc ob nc pd qb
+kj_67137,14,pc qe qg od pd pe oe of ne pg ph oh pi oi
+kj_92452,6,pc tt qf tt kd kc
+kj_21272,6,pd tt nc qf re pc
+kj_79946,19,pc tt qf pd qd oc pe od pb oe of nf og ng ob oh ne me nd
+kj_99340,18,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb ob nb
+kj_28811,8,pc qe ph od oc nd mb tt
+kj_24457,14,pc tt pf qh qj oh qg rg rf od oc pg qf of
+kj_71240,7,pc qe pg oe nd tt qj
+kj_72797,7,pd qc pc qd pe rf rj
+kj_79635,17,pd qc pc qd qf qe pe rf qb rb rg pf qg pb of tt ni
+kj_81327,8,pc qe nd tt qi ne me mf
+kj_27449,12,pc qe qh od oc nd mb oh pj tt ni tt
+kj_85254,6,pc tt qe pf pe nf
+kj_83164,6,pc qe od qh qj tt
+kj_71407,15,pd tt nc qf tt qd qc rc qe rd pe re qb qh tt
+kj_52911,12,pc qe tt od oc nd nc md tt mc rd re
+kj_66621,7,pc qe tt od oc nd mb
+kj_80317,6,pc tt pf mc tt qh
+kj_06247,32,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na le mf lf mg lg mh lh mi
+kj_52196,7,pd nc tt oe qf pg qg
+kj_81155,6,pd qc pc qd pe rf
+kj_11639,13,pd qc pc qd pe rf qg qf pf pb ob qb tt
+kj_61844,9,pc pe qe qf qd pf nc pj qm
+kj_53996,6,pd nc oc nd pf jd
+kj_82464,9,pc tt pf mc tt pd qc nd qd
+kj_62223,7,pc qe od qh tt lc tt
+kj_99067,6,pd tt nc md jc qf
+kj_67519,9,pc pe qe qf qd pf nc qi pi
+kj_76421,8,pc pe qe qf qd pg qh rf
+kj_66713,6,pd nc pf oe pe pb
+kj_04066,9,pc qe qd pe nc qi tt lc tt
+kj_86788,9,pd qc pc qd pe rf lc tt qg
+kj_69616,7,pc qe qd pe nc tt ph
+kj_10269,12,pc pe qe qf qd pf nc tt ph mf ne nf
+kj_11634,11,pc qe od tt qh pf rd nf og me lc
+kj_36454,8,pd tt mc tt qe ld md lf
+kj_11563,11,pd qc pc qd pe rf tt qg ld kd tt
+kj_98588,8,pd nc pf oe pe pb tt qc
+kj_71425,15,pc tt qf tt kc pd qd oc pe od pb oe of nf og
+kj_94846,7,pd nc qf tt kc ic id
+kj_12374,7,pc tt pf tt pi oi ph
+kj_75498,17,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh qi
+kj_79986,10,pc pe qh md nc nd mc ld lc kd
+kj_55297,8,pd nc oc nd pf jd hc tt
+kj_33547,11,pc tt qf pd tt qc qd oc pb qe rd
+kj_63441,10,pd qc pc qd pe rf tt ld jc kc
+kj_66290,9,pc qe od qh tt lc qd pe nc
+kj_82018,7,pc qe tt od oc nd mc
+kj_96798,10,pc qe tt od oc nd mc tt qi oi
+kj_51272,7,pd qc pc qd pe rf kd
+kj_51905,6,pc qe nd tt qh pk
+kj_74493,6,pd tt nc tt qf md
+kj_32071,8,pd nc lc jc jd id kd ic
+kj_47552,8,pc qe od qh kd tt kc tt
+kj_13813,8,pd tt nc md nd re qe rd
+kj_92722,11,pc qe tt od oc nd mc tt qd rd rc
+kj_41023,10,pd nc nd md oc ne od nb me ld
+kj_01738,25,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj qm pl nh ql lh
+kj_13500,15,pd nc lc qc pc qd pe pb ob qb nb qf tt jc jd
+kj_12063,8,pd tt mc ld tt lc md me
+kj_80551,6,pc tt qf tt pi tt
+kj_81476,15,pc tt qf pd qd oc pe od pb qc ob mc rc jd tt
+kj_38938,13,pc pe qe qf qd pf nd lc mc ld nf pd qc
+kj_80246,9,pd nc tt qc pc qd qb rb ob
+kj_42596,6,pd tt mc qi tt qf
+kj_60232,18,pc qe od tt qh ql pf qc qb rb qd rc ob pe re oe pd ne
+kj_28651,10,pc qe nd qh tt lc qd pe mc ld
+kj_16419,8,pc tt pe pf qf qg qe qk
+kj_59014,7,pd tt nc md nd qi qg
+kj_18096,7,pd nc lc tt qc ld kc
+kj_40965,7,pc qe qd pe nd tt pi
+kj_58375,8,pd nc pf oe pe pb le lc
+kj_49988,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc tt of
+kj_54665,17,pd qc pc qd pe rf qg tt rg qf pf pb ob qb sf re tt
+kj_58515,13,pd qc pc qd qf qe pe rf qg rg qh tt le
+kj_29637,8,pc tt pe qg qi og oi nf
+kj_80327,7,pc qe nd tt qh lc pf
+kj_78462,6,pc tt pf qh rf tt
+kj_96869,9,pc qe pg oe nd ne md me ld
+kj_16736,21,pc qe tt od oc nd mc md lc ld kd nc nb ob pb mb oa kc lb kb ma
+kj_01265,13,pd nc qf pc qc qb oc pb od ob tt nd pi
+kj_37402,10,pd qc pc qd pe qf tt rg ld og
+kj_56714,6,pc qe od pg tt pk
+kj_57260,13,pd qc pc qd qf qe pe rf tt qg pf qb oh
+kj_93131,16,pd qc pc qd pe rf tt ld tt qg pg ph qf rh oh pi
+kj_24039,15,pc qe nd lc jc le hd nb pe pf qd oe pd qf nc
+kj_33552,13,pd nc qf pc qc qb oc pb od ob nd mc qj
+kj_61589,17,pd nc qg qc pc qd pe pb ob qb oc rf oh tt rg qf pf
+kj_51827,10,pc tt pe oc od nc nd pb qc lc
+kj_58436,8,pd tt nc md nd tt qi mf
+kj_22674,10,pc qe qd pe nc pi pk tt nk tt
+kj_09927,11,pc qe tt od qd rd pe pd qc rf oc
+kj_42757,8,pd tt nc qf qe pf qj ne
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_52787,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe tt of
+kj_57954,8,pc qe qg tt pf qc qb rb
+kj_81743,6,pd nc qf pe tt qe
+kj_46059,20,pd nc kc qc pc qd pe pb ob qb oc qf hc nb na mf ng ma oa lc
+kj_99019,14,pd qc pc qd pe rf tt qg tt lc qb rb ob qa
+kj_60113,11,pd qc pc qd pe rf tt lc tt mf oh
+kj_87808,8,pd nc lc jc tt ne pf pb
+kj_67684,25,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg of ob rh qh pg rf qi tt
+kj_61379,9,pc pe qe qf qd pf nc pj ql
+kj_83869,6,pc tt pe tt lc pf
+kj_27578,17,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt lf
+kj_07438,15,pc tt pe kd tt oc od nc pb nd ne me nf mf mg
+kj_25879,14,pd nc tt qf pf pg of qc qe pc qg qj qh tt
+kj_56366,12,pd qc pc qd pe qf tt rg pf pg og ph
+kj_97872,7,pd nc oc nd pf tt jd
+kj_92193,12,pd qc pc qd pe rf tt ld oh qg pg pi
+kj_07270,11,pd nc qf tt jc pc qc qb oc pb od
+kj_94621,9,pc qe od qh qj tt qd pe tt
+kj_64296,8,pd tt nc qf qi rd qc pe
+kj_57260,13,pd qc pc qd qf qe pe rf tt qg pf qb oh
+kj_93131,16,pd qc pc qd pe rf tt ld tt qg pg ph qf rh oh pi
+kj_24039,15,pc qe nd lc jc le hd nb pe pf qd oe pd qf nc
+kj_33552,13,pd nc qf pc qc qb oc pb od ob nd mc qj
+kj_61589,17,pd nc qg qc pc qd pe pb ob qb oc rf oh tt rg qf pf
+kj_51827,10,pc tt pe oc od nc nd pb qc lc
+kj_58436,8,pd tt nc md nd tt qi mf
+kj_22674,10,pc qe qd pe nc pi pk tt nk tt
+kj_09927,11,pc qe tt od qd rd pe pd qc rf oc
+kj_42757,8,pd tt nc qf qe pf qj ne
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_52787,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe tt of
+kj_57954,8,pc qe qg tt pf qc qb rb
+kj_81743,6,pd nc qf pe tt qe
+kj_46059,20,pd nc kc qc pc qd pe pb ob qb oc qf hc nb na mf ng ma oa lc
+kj_99019,14,pd qc pc qd pe rf tt qg tt lc qb rb ob qa
+kj_60113,11,pd qc pc qd pe rf tt lc tt mf oh
+kj_87808,8,pd nc lc jc tt ne pf pb
+kj_67684,25,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg of ob rh qh pg rf qi tt
+kj_61379,9,pc pe qe qf qd pf nc pj ql
+kj_83869,6,pc tt pe tt lc pf
+kj_58488,27,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg ne nc od ph qi
+kj_52388,7,pc qe nd pi tt qc qb
+kj_74150,13,pd nc tt qf pf pg of qe qd tt pi og md
+kj_93906,11,pc qe tt od oc nd nc md tt mc rc
+kj_56084,9,pc qe tt od oc nd mb tt pg
+kj_57908,25,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of rb mc md lc kd jb pb oc
+kj_12333,29,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj nh mh mi lh li kh ki jh pk
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_84970,11,pd nc qf ne pb pg pf og of nf ng
+kj_53303,6,pc pe qe qf qd pg
+kj_33843,16,pd qc pc qd qe re rf qf pe rg rd sf rc pf tt lc
+kj_84862,10,pd nc lc qc pc qd pe pb ob qb
+kj_53303,6,pc pe qe qf qd pg
+kj_63777,23,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt
+kj_80852,10,pc tt pf tt ld lc mc kc tt qd
+kj_98525,10,pc pe qe qf qd pf nc pj pl ql
+kj_33248,11,pd qc pc qd pe rf kc kd ld lc tt
+kj_58538,8,pd qc pc qd pe rf tt ld
+kj_90026,7,pc qe nd pi tt lc pf
+kj_56249,28,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc nd ld nf of md lc le ke lf kf lg oh kg
+kj_11460,6,pc qe nd qh tt md
+kj_91315,6,pc tt qf tt kc tt
+kj_73229,8,pc pe qe qf qd pf nd tt
+kj_98506,7,pd tt mc tt qf ld md
+kj_80551,6,pc tt qf tt pi tt
+kj_55343,6,pc qe qd pe nc pi
+kj_92069,13,pd nc tt pf of og nf qc pc qd pe qe qb
+kj_84002,12,pd qc pc qd pe rf tt ld qf qe qb rb
+kj_60341,7,pc qe od qh pf qf oh
+kj_28717,21,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rc of ne nf me
+kj_41359,10,pc pe qh qc qb qd ob ne of oe
+kj_25768,12,pc qe od ph tt lc of qg qd pe nc tt
+kj_15698,11,pd nc qf pc qc qb rb pb qd ne md
+kj_74827,9,pd nc qf pc qc qb rd ob od
+kj_96483,12,pd qc pc qd qf qe pe rf tt qg pf qb
+kj_43564,12,pc qe nd lc tt qc qb rc pd pf of le
+kj_67611,7,pc qe od qh tt lc le
+kj_95396,9,pc pe qh md qe qf qd pf nc
+kj_86073,8,pc qe od oe ne of qd nd
+kj_31565,7,pc tt pf qd pd qe qc
+kj_74045,7,pd tt nc md mc kd tt
+kj_83426,8,pc qe qd pe nc pi tt pm
+kj_91543,8,pc qe od qh tt nc nd md
+kj_94055,7,pd nc qf pb tt pg qg
+kj_71814,9,pc qe qh od oc nd nc md lc
+kj_57954,8,pc qe qg tt pf qc qb rb
+kj_68039,7,pd nc oc nd pf re kc
+kj_96819,6,pc tt pf qh tt og
+kj_57516,15,pd nc tt qf nd md ne pc qc oc qd qi ph qh pf
+kj_05797,14,pc tt pf qh tt pd od qc oc qd rf oe pe ne
+kj_23687,10,pd qc pc qd pe rf qg qf pf qk
+kj_62650,6,pc tt pe qg pi qi
+kj_74173,8,pc qe od tt qh oe ne of
+kj_45063,8,pc qe od tt qh pf ld rc
+kj_94182,7,pd qc pc qd pe qe qf
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_64407,9,pd qc pc qd pe rf tt lc ic
+kj_97985,8,pd nc pf oe pe pb lb md
+kj_97279,7,pd tt nc tt qf lc ld
+kj_84365,21,pc qe ph od pd pe oe oc ob nb pb of ne md ng rc rb qc qb qg qh
+kj_58250,13,pd qc pc qd qf qe pe rf tt qg pf qb lc
+kj_48624,10,pc qe nd tt qi tt ql pj pi pl
+kj_98820,9,pd tt nc qf qe pf tt me tt
+kj_89934,7,pd tt lc kd ld kc ke
+kj_11763,15,pc tt pf qh qj pd od qd qc rc rb re sc oh oj
+kj_58121,11,pc pe qe qf qd pf nc tt qj ol oj
+kj_22158,28,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg pk
+kj_99563,9,pc qe od qh qj tt qd tt oj
+kj_25407,8,pc tt pe pf qe of tt qf
+kj_48178,13,pd qc pc qd pe rf tt qg tt og qb rb ob
+kj_73855,12,pd qc pc qd pe rf qg qf pf pg qh og
+kj_21507,9,pc qe od tt qh tt oh tt ld
+kj_19254,10,pd qc pc qd pe rf lc ld mc tt
+kj_34571,9,pd qc pc qd pe rf qg ld rg
+kj_22422,7,pc qe od qh kd kc lc
+kj_61161,18,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rc pg
+kj_61954,9,pd tt nc re rd qd qe qc rc
+kj_72912,8,pc qe od qh pf qf tt ld
+kj_85110,8,pc pe qe qf qd pf nd pj
+kj_54488,25,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of oh
+kj_11639,13,pd qc pc qd pe rf qg qf pf pb ob qb tt
+kj_04704,7,pd tt nc qi qg tt oi
+kj_93039,13,pc tt qf pd qd oc pe od pb qc ob mc rc
+kj_80713,9,pc qe od qh tt lc jc le hc
+kj_81316,7,pc tt pf qh qg ph nf
+kj_40264,9,pd nc lc qf nd qc pc qd pe
+kj_83757,8,pd nc pf oe pe pb lc me
+kj_64223,7,pc pe qe qf qd pg md
+kj_81548,6,pd nc kc ne pf je
+kj_53756,13,pd qc pc qd qf qe pe rf qg rg qh rh qi
+kj_17639,9,pd tt nc re qf rf qd qe qh
+kj_57853,8,pc qe nd tt qi tt qd jd
+kj_63905,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld
+kj_79185,6,pc qe nd tt kc tt
+kj_79174,6,pd tt nc qf qi qk
+kj_01263,17,pd pc qc oc qd lc od nd md nc ne me ld kd le ke lf
+kj_90665,15,pd qc pc qd pe qe qf rf qb rb re rd rg se qg
+kj_58365,7,pd qc pc qd pe rf qh
+kj_81714,20,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh mf ld qj
+kj_81155,6,pd qc pc qd pe rf
+kj_28262,20,pd qc pc qd qf qe pe rf tt pf qg rg qh of oh pi qi nd qb rb
+kj_80419,12,pd qc pc qd qf qe pe rf qg rg qh of
+kj_96745,8,pd qc pc qd pe rf qi tt
+kj_00649,12,pd tt nc qf qi qk oi ok qe pf ng ne
+kj_84361,10,pc pe qe qf qd pf nc tt mf pj
+kj_04580,16,pc pe qe qf qd pf tt oc ob nb od nc pd me of qi
+kj_50694,12,pd nc tt qf of qc qd pc od mb pi qk
+kj_53468,7,pc tt pf pd qd qc od
+kj_13462,16,pd nc qf pc qc qb oc pb od ob rc nd mb nb tt kd
+kj_25908,12,pd nc tt qf oc nd pf pg of qe pe rd
+kj_09209,12,pd qc pc qd pe rf tt kc tt qg ld kd
+kj_85621,8,pd nc qf tt lc pc qc qb
+kj_43494,11,pd qc pc qd pe rf tt qg tt qk pk
+kj_98250,7,pc tt pe qg qi tt ph
+kj_39273,7,pc qe qh ne qd pe nc
+kj_92070,6,pd tt nc md tt re
+kj_67902,12,pd nc qf pc qc qb oc pb od ob nd mc
+kj_31966,9,pc qe od tt qh pf tt rc tt
+kj_26143,8,pc qe od tt qh tt pf qk
+kj_61925,6,pc tt qf tt ld rf
+kj_15955,18,pd qc pc qd qf qe pe rf qb rb rg pf qg pb ob qa of mh
+kj_13268,12,pc qe qh od oc nd mb oh pj lc mc md
+kj_53522,7,pc qe qd pe nc pi oi
+kj_99087,17,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of oh
+kj_67922,14,pc qe tt od oc nd mc tt md me le mf lf mg
+kj_67149,11,pc qe qg od pd pe oe of ne pg ph
+kj_56646,10,pc pe qe qf qd pf nd pj tt lc
+kj_98801,8,pc pe qe qf qd pf nc lf
+kj_79427,7,pc qe od tt qg tt pf
+kj_27986,6,pc tt qh tt kd tt
+kj_75624,15,pd qc pc qd qe re rf qf pe rg rd sf rc tt kc
+kj_83970,10,pd qc pc qd pe rf qf rg ph qb
+kj_67136,8,pd nc pf oe pe tt ob tt
+kj_67974,8,pc pe qe qf qd pf nd qj
+kj_96075,13,pd nc qf pc qc qb rc od pb oc rb tt kd
+kj_69776,13,pc qe tt od oc nd mb tt qh oh pj tt ni
+kj_51460,9,pd tt nc qf qe pf tt mf md
+kj_67685,24,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg of ob rh qh pg rf qi
+kj_39937,13,pd tt nc md id nd mc lc od kd if nf pg
+kj_79034,9,pc qe tt od oc nd mc qh tt
+kj_84436,6,pc tt pe qh tt oh
+kj_45309,18,pd qc pc qd qf rf qg rg qh tt rh tt qb rb pb qe pe ra
+kj_72208,11,pd qc pc qd qe re qf rf qg rg qh
+kj_44313,11,pc tt pe qi tt qg ph pi pg qf pf
+kj_91932,9,pc tt pe oc od nc md lc tt
+kj_26441,13,pd qc pc qd pe rf qg qf pf qh pg rg oi
+kj_20743,10,pc qe od qh qj lc qd pe oj nc
+kj_37301,19,pd qc pc qd qf qe pe rf tt pf qg rg of pg qh ph qi pi tt
+kj_72507,7,pc tt qf kc tt nc tt
+kj_88713,6,pc tt qf qi tt nc
+kj_10702,12,pd qc pc qd pe rf tt qg ld tt id gc
+kj_57300,10,pc tt pe oc od nc md pb qc lc
+kj_28114,8,pc tt pe tt pi qg ri qd
+kj_81898,6,pd tt nc tt qh tt
+kj_88329,17,pd nc tt qc pc qd pe pb ob qb nb mc kc mb oc qf le
+kj_80080,10,pd nc pf oe pe pb tt me ng qc
+kj_93270,8,pd tt nc re rd nb mc qd
+kj_67699,13,pd nc tt qf nd md oc ne od nb me ld nf
+kj_20614,12,pc qe qg od pd pe oe of ne pg md pi
+kj_39397,14,pd qc pc qd qf qe pe rf tt qg pf qb oh ke
+kj_35650,7,pc tt pe qg ph qh pg
+kj_82711,11,pd qc pc qd pe rf tt qg tt ld ng
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_60348,7,pc tt pe tt pi qi qh
+kj_25840,7,pc tt qe oc od nd tt
+kj_65660,8,pd pc qc oc qd lc kc kb
+kj_21212,8,pd nc qf tt lc ld kc kd
+kj_32887,8,pc qe qd pe nc tt qi ql
+kj_70544,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf tt ld me
+kj_06413,16,pd nc qf pc qc qb oc pb nd ob od mc tt ph rh qi
+kj_29631,6,pc qe od tt pf kd
+kj_28493,6,pc qe od pg qi qk
+kj_79707,12,pd nc tt qc pc qd pe pb ob qb tt qf
+kj_64733,11,pc qe tt od oc nd mc md lc ld tt
+kj_47416,7,pd tt mc qf qh tt qd
+kj_74759,6,pc tt qe pf qf ph
+kj_25411,15,pd qc pc qd pe rf tt qb pb pg og oh qf rg ng
+kj_69886,8,pc tt pf lc tt pd od qc
+kj_53085,7,pc qe qh od oc nd mb
+kj_48031,15,pd nc qf pc qc qb oc pb od ob rc nd mb nb jc
+kj_64592,8,pc qe tt od oc nd mb qi
+kj_85581,7,pd pc qc oc qd mc tt
+kj_30667,19,pd tt nc re rd qd qe qc rc pe qf pc od rf qb qg pf ph of
+kj_25456,9,pd qc pc qd pe rf qb rb ld
+kj_65353,8,pc qe nd tt kc qc qb pb
+kj_68773,10,pc qe tt od oc nd mc nc nb md
+kj_36427,10,pc qe ph tt qd od pd pe oe rd
+kj_70697,16,pd qc pc qd qf qe pe rf qb rb re rd rg se qg tt
+kj_08785,10,pd nc qf tt oc nd jc hc lc ng
+kj_51098,7,pd tt nc qf qi qk oi
+kj_57489,9,pc pe qe qf qd pf nc pj pk
+kj_67613,7,pc qe qd od oc nd re
+kj_64184,14,pd qc pc qd qf qe pe rf qg rg qh rh tt qi
+kj_00843,13,pc pd qd oc pe od qc oe pf of og ng nh
+kj_72503,10,pc pe qe qf qd pf nd pj tt ld
+kj_95625,12,pd nc tt qc pc qd pe pb ob qb tt ne
+kj_73000,7,pc qe od qh pi qi pj
+kj_94862,8,pd nc oc nd pf jd tt qh
+kj_71012,7,pc tt qf tt kd tt qi
+kj_32025,7,pc tt pf mc tt qh qe
+kj_55343,6,pc qe qd pe nc pi
+kj_95487,6,pd tt nc qf tt mf
+kj_71856,6,pc qe od qh tt lc
+kj_81714,20,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg of oh mf ld qj
+kj_62634,10,pd qc pc qd qf rf qg rg qh lc
+kj_28579,8,pc pe qe qf qd pf nc kc
+kj_70702,20,pc tt qf pd qd oc pe od pb oe of nf og ng oh qc ob md rc tt
+kj_16803,8,pd tt nc qf qh qj oh oj
+kj_90350,6,pd tt nc qf re tt
+kj_85675,19,pd nc tt qf nd md ne pc qc oc pf od pe qb rd rc qd rb pi
+kj_66933,17,pc tt pe pf of qe oe qd pg pd od qc qf oc nc pb ob
+kj_38549,6,pc qe tt nc od qh
+kj_29706,6,pd nc qf pb qc kd
+kj_66746,14,pd qc pc qd pe rf qg qf pf qh pg rg tt oi
+kj_99068,14,pd qc pc qd qf qe pe rf tt ld qg rg qh ic
+kj_37561,14,pd qc pc qd pe rf ld tt qf rg qb rb pb qe
+kj_10459,14,pc qe tt mc nd md ne ob pe qc qd rd pd rf
+kj_25855,13,pd nc qf pc qc qb oc pb od ob me ld tt
+kj_65889,9,pc pe qe qf qd pf nc me tt
+kj_33025,27,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc nd ld nf of md lc le ke lf kf lg tt
+kj_74005,7,pc qe qh tt pf tt pe
+kj_93188,6,pc tt pe qd qe tt
+kj_61186,6,pc tt pf qh tt oh
+kj_97981,23,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj nh pk lh
+kj_40264,9,pd nc lc qf nd qc pc qd pe
+kj_03696,8,pd tt nc tt kc kd jd je
+kj_31472,10,pd qc pc qd qf rf qg rg qh kd
+kj_12212,8,pc tt pf qh pk pd od qd
+kj_87662,7,pc pd qc od tt oc re
+kj_99263,6,pc tt pe qg qi og
+kj_93589,19,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ld pj oh
+kj_82526,15,pd qc pc qd qf qe pe rf tt qg pf qb oh tt ok
+kj_55997,8,pd tt nc qf qe pf qh qj
+kj_72655,16,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh
+kj_33085,13,pc qe od tt qh pf oh nf ld rc rb qc qb
+kj_17349,6,pd tt nc tt kd md
+kj_37688,15,pd nc tt pf of og nf pg nd qc qd pc oc ob od
+kj_67137,14,pc qe qg od pd pe oe of ne pg ph oh pi oi
+kj_20302,10,pd pc qc oc qd lc nd nc tt qg
+kj_89748,6,pc qe od qh kd kc
+kj_84497,17,pd qc pc qd pe rf qb rb re qe qf rd rg pf qg of oh
+kj_55168,14,pd qc pc qd pe qf qb pf tt nf qe re tt rb
+kj_64553,8,pd pc qc oc qd lc nd of
+kj_11702,11,pc pe qg qc qj oc pd qd od pb nd
+kj_50360,11,pc pe qe qf qd pf nc tt qj tt oi
+kj_02858,7,pd tt lc kd ld kc le
+kj_68607,13,pd nc lc qc pc qd pe pb ob qb nb qf og
+kj_83345,7,pc tt pe qg ph pg og
+kj_53559,6,pc qe qg tt pf tt
+kj_70544,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf tt ld me
+kj_88035,21,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg
+kj_89737,9,pc tt pf tt ld qd pd lc tt
+kj_82421,8,pd tt nc qf qe pf nf pi
+kj_82413,16,pd qc pc qd qf qe pe rf qb rb re rd rg se qg ld
+kj_55143,12,pd nc qf pc qc qb oc pb od ob me tt
+kj_60278,6,pc tt pe tt ph qc
+kj_70697,16,pd qc pc qd qf qe pe rf qb rb re rd rg se qg tt
+kj_03468,15,pc qe nd qc qb pb ob pd pa oc nc pb pc tt od
+kj_58566,12,pd qc pc qd pe rf qg qf pf qh pg rg
+kj_62882,10,pd tt nc re qf rf tt qc pc qb
+kj_89477,8,pd tt nc re qf qe pe qc
+kj_46283,7,pd tt nc md nd mf qh
+kj_56879,6,pd tt nc tt qe pf
+kj_90889,16,pd qc pc qd qf qe pe rf tt ld qg rg qh of ne tt
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_12488,14,pd qc pc qd pe qe qg tt qf pb ob qb tt oc
+kj_67481,11,pd qc pc qd qf qe pe rf qg rg qh
+kj_42690,10,pd nc tt pf of ph og pg pe oh
+kj_78379,8,pd nc pf qh tt oe pe pb
+kj_60556,13,pd qc pc qd pe qe qf rf qg rg qh rh qi
+kj_38938,13,pc pe qe qf qd pf nd lc mc ld nf pd qc
+kj_71155,7,pd tt nc qf qe pf lc
+kj_37790,9,pc qe qd pe nc tt qi me oi
+kj_82411,8,pd tt nc md nd mf tt kc
+kj_86465,7,pd tt nc tt qf qd qe
+kj_21243,15,pd nc qf pc qc qb oc pb nd ob od mc md ld le
+kj_34187,11,pc tt qf pg pf qg og oh nh oi ni
+kj_56622,7,pc pe qe qf qd pf nc
+kj_70203,17,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ld
+kj_93039,13,pc tt qf pd qd oc pe od pb qc ob mc rc
+kj_25546,11,pd tt nc qf qi qk oi qd qc rc rb
+kj_45839,10,pc qe tt od oc nd nc md mc qi
+kj_10708,10,pc qe tt od oc nd mc qi ok tt
+kj_00257,8,pc qe nd tt qi qk qg tt
+kj_19425,21,pc tt qf pd qd oc pe od pb oe of nf og ng ob oh ne pg pf me nd
+kj_63987,12,pc qe tt od oc nd mc md lc ld kc kd
+kj_93409,6,pd nc lc ne pf pb
+kj_13617,9,pc pd tt qc oc qd lc nd nc
+kj_19247,7,pc pe qg qc qb qd mc
+kj_55571,6,pd nc tt qf lc oe
+kj_71505,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg nd nc
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_70291,25,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me of qb md nc mc nb mb na tt
+kj_67737,7,pc qe od qh tt lc id
+kj_70952,22,pd nc jc pf of og nf qc pc qd pe qe qb rb ob qa pa pb pg qf qb ra
+kj_35108,8,pd pc qc oc qd lc od jd
+kj_28307,7,pc qe od qh pi tt qi
+kj_36439,10,pd nc oc nd pf jd tt qh qk oh
+kj_58141,8,pc qe od qh qj ql pk om
+kj_76791,11,pd qc pc qd pe rf tt kd tt qg ng
+kj_44885,7,pc tt qf tt kd tt kf
+kj_81155,6,pd qc pc qd pe rf
+kj_90749,21,pd qc pc qd pe qe qf rf tt pf qg rg qh of oh nh qb rb ob qa lc
+kj_66662,19,pd tt nc re rd qd qe qc rc pe qf pc od rf rb qg pf pg of
+kj_42882,14,pd nc qf pc qc qb rd ob tt od tt qh tt pe
+kj_74061,6,pd tt nc md mc kd
+kj_17651,8,pd tt nc md nd qg qe tt
+kj_59236,7,pc tt pe tt qh qd qc
+kj_67210,7,pc qe od tt qh tt og
+kj_80837,13,pd qc pc qd qf qe pe rf qg rg qh pk tt
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_68867,7,pc qe qd pe nc pi tt
+kj_26879,11,pc tt pf qh qj oh oj pd qc qd od
+kj_37872,9,pc qe pg oe nd tt qj ol oj
+kj_68531,14,pd qc pc qd qf qe pe rf tt pf qg rg tt of
+kj_05552,12,pd tt nc md tt mc nd ic me le lf ke
+kj_52571,6,pc tt pe qg qi tt
+kj_50184,25,pc qe qh od pd pe oe oc ob md pf pb qb qc pa qd pb rb mc of ne nd ld me nf
+kj_28823,7,pd nc lc ne pg id le
+kj_58748,7,pd tt nc qf qh tt ql
+kj_81245,6,pc tt pf lc le nc
+kj_94975,14,pc qe nd lc tt qc qb rc tt pd oc me ne nf
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_05773,7,pd tt kd kc lc tt ld
+kj_44596,6,pc tt pf tt qi qd
+kj_19254,10,pd qc pc qd pe rf lc ld mc tt
+kj_73599,9,pc qe tt od oc nd mc le pg
+kj_01567,7,pc qe nd tt qi tt kc
+kj_87972,18,pd qc pc qd qf qe pe rf qb rb re rd rg pf qg of ld tt
+kj_17201,10,pc qe qd pe nc pi tt ql tt od
+kj_53832,8,pc qe qd pe nd pi tt lc
+kj_50214,6,pc qe od lc pf qg
+kj_13797,25,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc nd ld of oe ne nf mf ng me og
+kj_12285,15,pd qc pc qd qf qe pe rf qg rg qh tt kc kd tt
+kj_80388,14,pd nc tt qc pc qd pe pb ob qb oc qf tt nb
+kj_64616,10,pd qc pc qd pe rf tt kd qf rg
+kj_28363,9,pc qe qd pe nc pi pj qi qj
+kj_44304,8,pc tt pe qg qi pi ph qh
+kj_93533,9,pd tt nc qf qe pf tt mf tt
+kj_55320,9,pc qe od tt qh tt oh rc rb
+kj_95800,6,pc tt qf kd tt nc
+kj_97530,18,pd qc pc qd pe qf pf qg qe re rf rd qh rg pg rh tt ld
+kj_75624,15,pd qc pc qd qe re rf qf pe rg rd sf rc tt kc
+kj_71696,8,pd qc pc qd pe rf tt qg
+kj_77526,14,pd nc qf pc qc qb oc pb nd ob od mc le tt
+kj_90336,9,pc qe tt od oc nd mb tt qg
+kj_74001,7,pc tt pf qh qj pj pk
+kj_28212,14,pd qc pc qd qf qe pe rf qg rg qh of oh lc
+kj_68144,7,pd tt nd qf qe qc re
+kj_89526,11,pd qc pc qd pe rf tt ld lf kf lg
+kj_27736,10,pc qe od qh tt lc jc le hd hf
+kj_64414,10,pc qe qi od oc nd mb tt qg ph
+kj_50962,14,pc qe od tt qh pf oh nf ld rc rb qc qb mh
+kj_81026,11,pd qc pc qd pe rf tt ld qf rg md
+kj_59236,7,pc tt pe tt qh qd qc
+kj_92914,14,pd nc oc nd pf jd tt qh tt re nb mb ob tt
+kj_04979,10,pc qe nd tt qd rd rc pd qc ph
+kj_60541,8,pd tt nc re qf rf tt qg
+kj_16913,6,pd tt mc qh qf oh
+kj_65954,14,pc qe nd lc qh ph pg og pf qc pd pe of oe
+kj_40496,16,pd nc tt qc pc qd pe pb ob qb nb mc kc qf mb hc
+kj_58145,12,pc qe tt od oc nd mc tt qg md lc ld
+kj_50140,7,pd nc oc nd pf ng tt
+kj_51690,10,pd pc qc oc qb kc ie mc qg tt
+kj_61379,9,pc pe qe qf qd pf nc pj ql
+kj_83870,8,pc qe qi od oc nd mb qk
+kj_84076,7,pc tt pf tt lc tt pi
+kj_80939,9,pd qc pc qd pe rf tt qg mc
+kj_22153,8,pc qe od tt qh ne tt oe
+kj_42191,7,pc tt pe tt pi qd qe
+kj_02791,17,pc qe tt od oc nd mc tt md me le mf lf mg lg lh mh
+kj_96649,8,pd nc pf oe pe pb pj tt
+kj_31766,8,pd tt nc rd qg qc pc rf
+kj_05008,6,pc pd oc qd qc mc
+kj_77866,15,pd qc pc qd qe re rf qf pe rg rd sf rc pf pj
+kj_59050,14,pd qc pc qd qe re rf qf pe rg rd sf rc pf
+kj_56756,9,pd qc pc qd pe rf tt ld lf
+kj_30861,8,pd nc qf ne pb pg pf ng
+kj_06953,13,pc qe tt od oc nd mc qh qd rd rc pd qc
+kj_53431,9,pc tt pe qg tt og qf rf re
+kj_20755,7,pd tt nc md nd qg qj
+kj_63614,23,pc pe qe pd qd oc pf qc pb rc ob nc rd qf rf qg of ne rg qh rb nf oh
+kj_52981,27,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg od nc ne ph qi
+kj_89010,12,pd qc pc qd pe qf qe re qb pf rb nf
+kj_49988,22,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc tt of
+kj_93755,12,pd qc pc qd pe rf tt qg tt ld tt nc
+kj_29962,6,pc tt pe qc qd oc
+kj_97520,13,pd qc pc qd qf rf qg rg qh qe pe ld tt
+kj_59278,8,pd tt nc qf qe pf tt me
+kj_83160,8,pc qe od qh qj tt oj oh
+kj_32136,6,pd nc qg tt lc qi
+kj_60651,15,pd qc pc qd qf qe pe rf tt qg pf qb oh kc tt
+kj_94321,13,pc qe nd pi tt lc tt qc qb rc pf pe mc
+kj_12312,11,pd nc lc jc tt ne pg pb qc kd tt
+kj_78735,10,pd qc pc qd pe rf qf rg qb rb
+kj_86559,8,pc qe od lc pf qf pg qh
+kj_78289,7,pd tt nc tt qg md mc
+kj_57687,10,pc qe qd pe nc pi tt od oc tt
+kj_94862,8,pd nc oc nd pf jd tt qh
+kj_96755,7,pd nc kc tt nd md mc
+kj_70534,18,pc qe tt od qd rd pe pd qc rf qf re oc nd mc md lc tt
+kj_50834,10,pc qe od tt pf qc qf rf pe rd
+kj_53806,6,pd nc tt qf ne ld
+kj_93570,18,pd qc pc qd qf qe pe rf tt qg pf tt qb tt re rd rg se
+kj_52335,18,pd qc pc qd qf qe pe rf qb rb rg pb ob qg pf rh pa sg
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_57687,10,pc qe qd pe nc pi tt od oc tt
+kj_94862,8,pd nc oc nd pf jd tt qh
+kj_96755,7,pd nc kc tt nd md mc
+kj_70534,18,pc qe tt od qd rd pe pd qc rf qf re oc nd mc md lc tt
+kj_50834,10,pc qe od tt pf qc qf rf pe rd
+kj_53806,6,pd nc tt qf ne ld
+kj_93570,18,pd qc pc qd qf qe pe rf tt qg pf tt qb tt re rd rg se
+kj_52335,18,pd qc pc qd qf qe pe rf qb rb rg pb ob qg pf rh pa sg
+kj_90367,11,pc qe qg od pd pe oe of ne pg md
+kj_12333,29,pc tt pe pf qf qg pg of og qe rf nf re qd pd rg rd ng oi qj nh mh mi lh li kh ki jh pk
+kj_81155,6,pd qc pc qd pe rf
+kj_16806,16,pd qc pc qd qe re rf qf pe rg rd sf rc tt lc ld
+kj_54410,10,pd nc pf oe oc pe qe nd qg of
+kj_61474,8,pc pe qe qf qd pf nc pj
+kj_81155,6,pd qc pc qd pe rf
+kj_84846,13,pd nc lc qc pc qd pe pb ob qb nb qf tt
+kj_69867,8,pc tt qe pf pe qf of og
+kj_47818,11,pc pe qe qf qd pf nc pj tt md nd
+kj_21830,8,pd tt nc md mc kd ld re
+kj_12310,7,pc qe tt nd nb tt pe
+kj_06728,10,pc qe tt od oc nd mb tt of pg
+kj_80647,8,pd tt nc re rd qe qd qi
+kj_46858,8,pc qe pi od oc nd mb tt
+kj_40662,7,pd tt nc tt qf tt kc
+kj_62058,29,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg oe of pg ne nc od ph qi lc nh
+kj_58718,10,pd tt md qd qe qc re pc od nb
+kj_46444,10,pc qe qd pe nc pi qk pk pl ql
+kj_05551,19,pd qc pc qd pe rf tt qg pg tt qf qh re qe pf rd rg se qi
+kj_79122,7,pd tt nc md mc tt qg
+kj_52571,6,pc tt pe qg qi tt
+kj_97297,9,pd nc qf pc qc qb rb tt kd
+kj_49731,6,pc qe nd tt qi kd
+kj_83728,6,pc tt qf tt kc ke
+kj_91612,14,pd nc tt qf pf pg of qd qg qe ph pc og pk
+kj_82757,13,pd nc nd md ne ob me ld le qc qd rc tt
+kj_61405,7,pc tt pe tt qi tt lc
+kj_75845,18,pc qe od tt pf tt qf qh tt rf rg rd sf re qg pe oe qc
+kj_60053,7,pc qe od qh qj tt oi
+kj_50979,7,pc tt pe tt qh oj tt
+kj_60847,6,pd nc lc tt qg of
+kj_27212,15,pc qe tt nd pe pd od qd oc oe pf qc nc of pg
+kj_84818,10,pc qe tt od oc nd nc md mc ld
+kj_23215,9,pc qe tt od qd re nb tt qh
+kj_57298,15,pc tt pe oc od nc md pb qc lc tt nd ne me nf
+kj_50142,6,pd nc oc nd pf ng
+kj_48469,6,pc tt pf pj qh oe
+kj_30190,8,pc qe qd pe nc tt pi tt
+kj_47723,7,pc qe tt mc tt od oc
+kj_57228,12,pd nc jc qf pf pg of qc qe pc qg qi
+kj_21447,8,pd tt nc re qd qh oj qf
+kj_17972,7,pc qe tt lc qd pe nc
+kj_95432,6,pc qe qd pe nc me
+kj_38669,16,pd nc lc qc pc qd pe pb ob qb nb qf tt kd ld kf
+kj_57546,10,pc pe qe qf qd pf nc pj tt pk
+kj_90457,23,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh ng nh mh mg ne lg kh
+kj_65916,11,pd nc qf pc qc qb oc pb ob od nb
+kj_42118,9,pc qe tt od oc nd mc tt ni
+kj_11770,8,pc qe od ph tt lc tt nc
+kj_56622,7,pc pe qe qf qd pf nc
+kj_55351,7,pc qe od tt pf tt qg
+kj_90151,8,pd tt nc qf tt rd qc of
+kj_61385,6,pd nc qg kd tt qc
+kj_90248,6,pc qe qd pe nc lc
+kj_54204,28,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg tt
+kj_78898,11,pd qc pc qd pe rf tt qb oh tt qg
+kj_42629,8,pd qc pc qd qe re qb rb
+kj_49922,6,pc qe tt nc od nd
+kj_34176,11,pc qe od tt qh pf qk rc of pg tt
+kj_45265,6,pd tt nc qi tt re
+kj_56664,9,pc qe od tt qh pf qk rc tt
+kj_05597,9,pc qe nd tt qi lc qd le mf
+kj_27700,13,pc qe tt od oc nd mc md lc ld kc kd tt
+kj_63921,16,pd qc pc qd qf qe pe rf tt qg pf pb ob qb tt nc
+kj_99540,11,pc pe qe qf qd pf nc pj tt lc tt
+kj_44417,8,pc tt pe qg pg ph og tt
+kj_25038,7,pc tt pf mc tt qh nd
+kj_11166,12,pd qc pc qd pe rf tt qg tt kd pg ph
+kj_60711,18,pd qc pc qd pe qe qf rf tt pf qg rg qh of oh ld qb rb
+kj_66878,13,pc pe qe qf qd pf nc pj tt qm tt pd qc
+kj_70778,7,pc qe qi od oc nd mb
+kj_77799,6,pc tt pe qg lc re
+kj_26747,16,pc qe tt od oc nd mc md lc ld tt nc nb kc kb qc
+kj_13380,13,pd nc tt qf pf pg of qe qd kc tt ob nh
+kj_77237,10,pc qe pg oe nd pi ng qg pf qf
+kj_67920,6,pc tt qf tt qj tt
+kj_10933,44,pd qc pc qd qf rf rg qe pf pe oe od ob nd ne me mf mc qb re qh rb ra rc le md mb lb nb lf mg kc sd sb sf se sg ma na la qa pb oc pa
+kj_64829,7,pc tt pe oc od nc pb
+kj_74061,6,pd tt nc md mc kd
+kj_38162,10,pc qe qi nd od oe nc md mc ld
+kj_53263,7,pd kc tt nc oc nd pf
+kj_35757,14,pc qe nd lc tt le qd pe mc mb nb md nc ne
+kj_67157,10,pc qe qg od pd pe oe of ne pg
+kj_15405,10,pd nc pf oe pe pb me qc mc nd
+kj_19333,8,pc tt qe pf pe qf of re
+kj_52939,9,pc qe tt od oc nd mc tt qg
+kj_51536,6,pc tt qf ld tt nc
+kj_72567,20,pd qc pc qd pe qe qf rf tt qg pf qb tt pg og oh ng nh mh mg
+kj_55543,9,pc pe qe qf qd pf nc pj pl
+kj_51721,12,pc qe tt od oc nd mc tt md tt mf ng
+kj_56364,7,pd tt nc md nd mf kc
+kj_87338,6,pc tt pe qg rf nh
+kj_03705,13,pd qc pc qd pe rf tt ld qf rg ph tt jd
+kj_87517,12,pc qe tt od oc nd mc tt md tt qi tt
+kj_89181,6,pc tt pf tt qi pj
+kj_28269,6,pc tt qf tt ld qh
+kj_88431,12,pc pe qe qf qd pf nc tt pj pl nj mf
+kj_88479,9,pc pe qe qf qd pf nc tt pj
+kj_01491,7,pc tt qf tt ph nj tt
+kj_83838,11,pc qe nd tt qi lc qd me md ld le
+kj_69080,6,pd tt nc re qe tt
+kj_45412,19,pd nc tt qc pc qd pe pb ob qb nb mc qe oc mb lc lb kc kb
+kj_63976,11,pc pe qe qf qd pf nd qj tt lc mc
+kj_41939,14,pd qc pc qd qf qe pe rf tt qg pf qb tt pj
+kj_56715,11,pd qc pc qd pe rf tt ld qf rg lf
+kj_56752,10,pd qc pc qd pe rf tt ld lf nc
+kj_82603,8,pc qe od ph tt lc of ne
+kj_32293,18,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt pi qi
+kj_03490,16,pc qe tt od oc nd mc md lc tt ld le ke lf kf lg
+kj_44358,10,pd tt nc md mc kd ld le lc kf
+kj_59428,6,pc qe od pf tt rc
+kj_01810,10,pc qe qg tt pf qc qb rb pb pe
+kj_70778,7,pc qe qi od oc nd mb
+kj_54762,15,pd qc pc qd qf qe pe rf qb rb re rd rg se qg
+kj_63532,14,pd qc pc qd pe rf tt ld qf rg tt qb ph tt
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_51586,8,pd qc pc qd pe rf qg kg
+kj_32514,16,pd nc tt qf pf pg of qc pc qd qg pe oe qe ph od
+kj_93594,12,pd nc nd oc od pc qc md qd lc tt mf
+kj_94267,7,pd nc pf oe pe pb pj
+kj_84136,6,pd tt nc rd qd re
+kj_25126,11,pd qc pc qd pe qe qf rf tt ld kf
+kj_67862,8,pd qc pc qd qf qe pe rf
+kj_58636,6,pd tt nc md mc tt
+kj_87277,8,pc qe od tt qh pf rd me
+kj_27696,7,pc tt pe kc kb lc lb
+kj_88543,12,pd qc pc qd pe rf tt qg tt nc pg ph
+kj_79707,12,pd nc tt qc pc qd pe pb ob qb tt qf
+kj_29754,9,pc qe qi od oc nd mb qk qg
+kj_76279,15,pd nc tt qc pc qd pe pb ob qb nb qf mc tt kd
+kj_65396,12,pd nc qf pc qc qb rc od pb oc rb kd
+kj_65891,8,pc pe qe qf qd pf nc me
+kj_82018,7,pc qe tt od oc nd mc
+kj_88281,6,pc qe od pg tt rc
+kj_52399,6,pd nc qg tt lc ne
+kj_19167,18,pc qe tt od qd rd pe pd qc rf qf re oc nd mc md lc ld
+kj_78745,12,pc pe qe pd qd oc pf qc pb rc ob nc
+kj_56026,7,pc qe tt od qd re nb
+kj_10420,15,pd qc pc qd pe qe pf qf tt pg og oh ng kd tt
+kj_40388,9,pc pe qe qf qd pf nc pj oh
+kj_81476,15,pc tt qf pd qd oc pe od pb qc ob mc rc jd tt
+kj_74206,9,pc qe tt od oc nd mc tt ph
+kj_46686,7,pd nc oc nd pf kd nf
+kj_40435,12,pd tt nc qc qd rd re rb sd sc rc rd
+kj_83817,7,pc qe od pg tt rc tt
+kj_31633,7,pd tt nc md nd mf kd
+kj_73176,6,pc tt qf tt mc lc
+kj_41312,16,pd nc tt qf nd md ne pc mc oc ld qd me tt pg pf
+kj_59655,15,pd nc tt qc pc qd pe pb ob qb tt oc mc nb me
+kj_89350,14,pd nc qf pc qc qb oc pb nd ob od mc tt le
+kj_69088,14,pd nc tt qc pc qd pe pb ob qb tt qf lc nb
+kj_29760,13,pd qc pc qd qe re qf rf qg rg qh oe nf
+kj_36051,7,pc qe qd pe nd pi of
+kj_53044,6,pc qe od ph tt kd
+kj_17943,25,pd qc pc qd qf rf rg qe pf pe oe od ob nd me ne of qb nf md le lc kc kb jb
+kj_58346,13,pd qc pc qd pe rf qg qf pf qh pg rg tt
+kj_08480,10,pd nc lc jc tt ne pg qd qc pc
+kj_77168,7,pc tt pf tt kd kc lc
+kj_40540,17,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt jd
+kj_61036,12,pc pe qe qf qd pf nd pj tt lc mc ld
+kj_66776,10,pc qe tt od oc nd mc qi pi ph
+kj_22806,7,pc qe od tt kd tt pf
+kj_54204,28,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld tt of og oe pg tt
+kj_06656,10,pc pe qe qf qd pf nc pj pk ok
+kj_63868,9,pc qe od tt pf qc qf rf pe
+kj_92202,6,pd nc qf tt kd ke
+kj_61794,11,pd qc pc qd qf rf qg qe pe rg qh
+kj_59167,6,pd nc tt jc jd kc
+kj_76072,17,pd qc pc qd pe rf tt qg pg ph oh oi nh pf og tt of
+kj_73545,9,pc pe qe qf qd pf nc pj qi
+kj_21536,7,pd tt nc tt qi ph qh
+kj_96227,14,pd qc pc qd qf qe pe rf tt qg pf qb tt mc
+kj_76682,11,pc pe qe qf qd pf nc pj tt qm tt
+kj_49873,7,pc qe od tt pf tt kd
+kj_94844,15,pd nc tt qc pc qd pe pb ob qb nb qf mc md lc
+kj_84191,8,pd nc oc nd pf tt kd tt
+kj_68645,8,pd tt nc qf qe pf pi tt
+kj_69013,9,pd nc oc nd pf jc lc je le
+kj_51597,7,pd tt nc md mf mc nd
+kj_11790,7,pc qe nd tt qi ok oi
+kj_93951,10,pd qc pc qd qf qe pe rf ld ke
+kj_79097,10,pd nc nd md ne ob me ld le qc
+kj_72481,10,pc pe qe qf qd pf nd tt pj ql
+kj_94234,8,pd tt lc ld md le tt mc
+kj_91875,15,pd qc pc qd qf qe pe rf qg rg qh tt lc ld kd
+kj_89633,13,pd nc lc qc pc qd pe pb ob qb nb qf ic
+kj_98999,13,pc qe nd pi tt qc qb pb qd rc rb rd oc
+kj_99451,8,pd tt nc qf qe pf tt kc
+kj_44410,10,pc tt pe qg qi og oi re qd nf
+kj_17436,6,pc tt pe tt kc ke
+kj_81669,6,pd nc qf tt kc hd
+kj_88035,21,pc pe qe qf qd pf nc pj pl ql rh pd qc qh qi pi qg ph rf pg rg
+kj_69631,13,pd qc pc qd pe qe qf rf qg rg qh of tt
+kj_89737,9,pc tt pf tt ld qd pd lc tt
+kj_95800,6,pc tt qf kd tt nc
+kj_90348,13,pd qc pc qd qe re rf qf pe rg rd sf rc
+kj_75246,8,pd tt nc qf qe pf qj tt
+kj_39586,7,pc tt qf qh qj qd qc
+kj_60414,7,pc qe qd pe nc tt pi
+kj_08495,7,pd tt mc qf qh tt pk
+kj_74045,7,pd tt nc md mc kd tt
+kj_02494,6,pc qe od tt lc qh
+kj_63302,19,pc pe qe qf qd pf nc pj rh pd qc qh qi pi qg ph rf pg rg
+kj_03519,11,pc qe tt od oc nd mc le qd re nc
+kj_91261,9,pc tt qe oc od nc pb nd oe
+kj_19725,18,pd nc qf pc qc qb oc pb ob od nb qd pe rd mc tt pi tt
+kj_37059,13,pd nc tt qc qd pc od mb nd md me ld tt
+kj_68133,7,pc tt pe pf oe qf qe
+kj_57870,6,pc tt qf tt kd mc
+kj_51358,12,pc qe od tt qh pf oh nf ld rc tt ql
+kj_92729,10,pd qc pc qd pe rf qf qe pg rg
+kj_07443,6,pc tt pe tt ke kf
+kj_56717,14,pc qe tt od oc nd mc md lc ld tt kc kb tt
+kj_12679,7,pc tt pf kc mc qd qc
+kj_67920,6,pc tt qf tt qj tt
+kj_27813,6,pc qe tt md od pg
+kj_54629,17,pc qe tt od qd rd pe pd qc rf qf re oc pf mc nd md
+kj_25444,14,pc tt qf pd qd oc pe od pb qc qb rc oe md
+kj_71760,9,pd qc pc qd qf rf qg rg qh
+kj_58006,11,pd qc pc qd pe rf tt lc tt le kc
+kj_73944,10,pd qc pc qd pe rf tt qb tt nc
+kj_00742,7,pd tt nc tt kc qf tt
+kj_64773,19,pd qc pc qd qf qe pe rf qb rb re pf qg rd rg pb ob qa nd
+kj_30151,10,pc pe qe qf qd pf nc tt me tt
+kj_87801,12,pd qc pc qd pe qf qb pf tt nf tt qj
+kj_37739,12,pd qc pc qd pe rf tt qg tt nc ld kd
+kj_75984,11,pd nc tt qf pf pg of qe qd kc jc
+kj_61898,18,pd nc qf pc qc qb oc pb nd ob od mc md tt lc lb kb qd
+kj_39286,8,pc qe nd tt qh lc pf id
+kj_04337,7,pc tt qf qh qj oh of
+kj_75914,6,pd tt nc md nd mf
+kj_10849,25,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf ld jc tt lb
+kj_08836,9,pc tt pe qg qi og ql re qd
+kj_71856,6,pc qe od qh tt lc
+kj_82719,15,pd nc tt qc qd pc od nd ne me nf mf ng mg nh
+kj_46308,11,pc tt qf ng ph pe qe pd qd oc pb
+kj_54829,8,pc qe od qh qi pi qj ph
+kj_48146,8,pc qe nd tt qh tt qk tt
+kj_69886,8,pc tt pf lc tt pd od qc
+kj_63269,8,pd tt nc md tt mc nd me
+kj_70544,24,pd qc pc qd qf qe pe rf qb rb re pb rc qa rd qb rg pf qg nc nf tt ld me
+kj_55543,9,pc pe qe qf qd pf nc pj pl
+kj_53367,6,pc tt pf tt ld qd
+kj_82187,17,pd qc pc qd qf qe pe rf tt qg pf qb ld pg og oh ng
+kj_13268,12,pc qe qh od oc nd mb oh pj lc mc md
+kj_26777,7,pc qe qg tt pf tt pe
+kj_69262,23,pd nc qf pc qc qb oc pb nd ob od mc md ld lc lb kc kd kb jd ic id hc
+kj_54746,17,pd qc pc qd qf qe pe rf qb rb re rd rg se qg of pf
+kj_07696,7,pd tt nc kc kd lc me
+kj_57601,6,pc tt qf tt qh tt
+kj_50709,13,pd qc pc qd qf qe pe rf qg rg qh lc tt
+kj_94670,12,pd nc qf pc qc qb oc pb od ob tt nd
+kj_41962,6,pc tt pe tt pi oj
+kj_75502,10,pd nc qf kd tt pc qc qb oc pb
+kj_92555,9,pc pe qe qf qd pf nc qj tt
+kj_22383,8,pd tt mc qf re rf qe of
+kj_14921,7,pc qe nd tt qh lc ic
+kj_70778,7,pc qe qi od oc nd mb
+kj_56476,6,pc pe nd qc qb qd
+kj_72647,14,pd qc pc qd pe rf qb rb re qe qf rd rg tt
+kj_75592,10,pd qc pc qd pe rf tt qg tt mc
+kj_67413,9,pc qe od tt qh oe ne of rd
+kj_02989,23,pd tt nc re rd qd qe qc rc pe qf pc od rf qb qg pf og of nf pg ph oe
+kj_81172,14,pc tt qf pd qd oc pe od pb qc ob mc rc jd
+kj_26777,7,pc qe qg tt pf tt pe
+kj_81172,14,pc tt qf pd qd oc pe od pb qc ob mc rc jd
+kj_77076,10,pc pe qe qf qd pf nc pj tt lc
+kj_30526,8,pc qe qd pe nc qi pi qj
+kj_64961,6,pd tt nc qf rd of
+kj_46459,10,pc tt pe oc od nc md mc ld lc
+kj_84899,9,pd nc qf tt kc pc qc qb rc
+kj_83953,7,pc tt pe pf qe nf me
+kj_81155,6,pd qc pc qd pe rf
+kj_53961,6,pd nc tt kc ie qf
+kj_54629,17,pc qe tt od qd rd pe pd qc rf qf re oc pf mc nd md
+kj_69145,13,pd nc tt qf nd md ne oc pc lc qe pf pe
+kj_73245,12,pd qc pc qd pe rf qg tt pb rg qh qb
+kj_56622,7,pc pe qe qf qd pf nc
+kj_67153,8,pd nc oc nd pf kd tt qh
+kj_45909,7,pc qe od qh tt mc qj
+kj_74715,6,pd tt nc tt qf tt
+kj_43447,23,pc tt qf pd od qc qd pe qe oc pb nd oe pf nc qg rg rh ob of qh pg rf
+kj_81983,14,pd qc pc qd qf qe pe rf qg rg qh kd tt kf
+kj_22139,12,pd nc lc ne pf kd kc jd ld le jc id
+kj_59213,15,pd qc pc qd pe qe qf rf rg qg pf rh pg sg tt
+kj_64440,8,pc tt pe qg tt og qf rg
+kj_27670,7,pc qe qd pe nc qi pj
+kj_60153,6,pd tt nc md nd tt
+kj_72883,16,pd qc pc qd qf qe pe rf tt qg pf qb tt ld lf id
+kj_15576,10,pc pe qe qf qd pf nc tt pj mg
+kj_57954,8,pc qe qg tt pf qc qb rb
+kj_51450,13,pd nc jc qf pf pg of qc qe pc qg qk mc
+kj_14277,11,pd nc kc qf pf pg of qc pc qd qb
+kj_70514,7,pd nc lc ne pg pb qc
+kj_75482,6,pc qe qd pe nc tt
+kj_14851,17,pd qc pc qd qf qe pe rf qb rb re rd rg se qg ld tt
+kj_97297,9,pd nc qf pc qc qb rb tt kd
+kj_67991,7,pc qe ph tt qd pf nd
+kj_14982,6,pc tt qf qh of oh
+kj_15940,6,pd nc qf jc tt ie
+kj_93707,14,pd nc tt qf nd md ne pc qc oc qd qi tt lc
+kj_34908,13,pd qc pc qd pe rf tt qg tt lc ic le ng
+kj_90475,10,pd qc pc qd qf qe pe rf qg rg
+kj_52934,7,pc qe od tt pf tt qh
+kj_74614,9,pc qe tt od oc nd mb tt qi
+kj_55456,7,pd nc oc nd pf jd je
+kj_78627,7,pc qe qd pe nd tt ph
+kj_52043,6,pc tt pf tt lc qh
+kj_56280,13,pd qc pc qd qf qe pe rf tt qg pf qb pg
+kj_60802,10,pc tt qh pd oc qd qc rc od pf
+kj_82385,8,pd nc tt qc qd pc od rc
+kj_55343,6,pc qe qd pe nc pi
+kj_73025,6,pd nc tt kc kd ld
+kj_93455,20,pd qc pc qd qf qe pe rf tt qg pf qb tt pg og oh nh ng of oi
+kj_06879,12,pd qc pc qd pe rf tt kc ke tt qb rb
+kj_46846,11,pc pe qe qf qd pf nc pd qc pj tt
+kj_79098,6,pc tt pe tt qh lc
